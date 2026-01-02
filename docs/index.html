@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CU OppDrop</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f5f5f7;
+      color: #1d1d1f;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .subtitle {
+      color: #86868b;
+      font-size: 1.1rem;
+    }
+
+    .stats {
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+      color: #86868b;
+    }
+
+    /* Search */
+    .search-box {
+      width: 100%;
+      max-width: 500px;
+      margin: 0 auto 1.5rem;
+      position: relative;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 0.75rem 1rem 0.75rem 2.5rem;
+      border: 1px solid #d2d2d7;
+      border-radius: 10px;
+      font-size: 1rem;
+      background: #fff;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .search-box input:focus {
+      outline: none;
+      border-color: #0071e3;
+      box-shadow: 0 0 0 3px rgba(0, 113, 227, 0.1);
+    }
+
+    .search-box::before {
+      content: "⌕";
+      position: absolute;
+      left: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #86868b;
+      font-size: 1.2rem;
+    }
+
+    /* Filters */
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 2rem;
+      justify-content: center;
+    }
+
+    .filter-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+    }
+
+    .filter-label {
+      font-size: 0.85rem;
+      color: #86868b;
+      font-weight: 500;
+    }
+
+    .filter-btn {
+      padding: 0.4rem 0.8rem;
+      border: 1px solid #d2d2d7;
+      border-radius: 20px;
+      background: #fff;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .filter-btn:hover {
+      border-color: #0071e3;
+      color: #0071e3;
+    }
+
+    .filter-btn.active {
+      background: #0071e3;
+      border-color: #0071e3;
+      color: #fff;
+    }
+
+    /* Cards */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 1rem;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 1.25rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+
+    .card:hover {
+      box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+      transform: translateY(-2px);
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .card-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #1d1d1f;
+    }
+
+    .card-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .card-title a:hover {
+      color: #0071e3;
+    }
+
+    .card-source {
+      font-size: 0.8rem;
+      color: #86868b;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-description {
+      font-size: 0.9rem;
+      color: #424245;
+      margin-bottom: 0.75rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-deadline {
+      font-size: 0.85rem;
+      color: #bf4800;
+      font-weight: 500;
+      margin-bottom: 0.75rem;
+    }
+
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
+
+    .tag {
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+
+    .tag-level { background: #e8f5e9; color: #2e7d32; }
+    .tag-citizenship { background: #e3f2fd; color: #1565c0; }
+    .tag-type { background: #fce4ec; color: #c2185b; }
+    .tag-field { background: #fff3e0; color: #e65100; }
+    .tag-funding { background: #f3e5f5; color: #7b1fa2; }
+
+    .no-results {
+      text-align: center;
+      padding: 3rem;
+      color: #86868b;
+      font-size: 1.1rem;
+    }
+
+    .last-updated {
+      text-align: center;
+      margin-top: 2rem;
+      font-size: 0.8rem;
+      color: #86868b;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-top: 1rem;
+      font-size: 0.85rem;
+    }
+
+    .footer-links a {
+      color: #0071e3;
+      text-decoration: none;
+    }
+
+    .footer-links a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 1.8rem; }
+      .cards { grid-template-columns: 1fr; }
+      .filters { flex-direction: column; align-items: stretch; }
+      .filter-group { justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>CU OppDrop</h1>
+      <p class="subtitle">Fellowships, grants, and funded opportunities</p>
+      <p class="stats" id="stats">Loading...</p>
+    </header>
+
+    <div class="search-box">
+      <input type="text" id="search" placeholder="Search opportunities...">
+    </div>
+
+    <div class="filters">
+      <div class="filter-group">
+        <span class="filter-label">Level:</span>
+        <button class="filter-btn" data-filter="level" data-value="undergraduate">Undergrad</button>
+        <button class="filter-btn" data-filter="level" data-value="graduate">Graduate</button>
+        <button class="filter-btn" data-filter="level" data-value="postdoc">Postdoc</button>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Citizenship:</span>
+        <button class="filter-btn" data-filter="citizenship" data-value="us_citizen">US Citizen</button>
+        <button class="filter-btn" data-filter="citizenship" data-value="permanent_resident">Perm Resident</button>
+        <button class="filter-btn" data-filter="citizenship" data-value="international">International</button>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Type:</span>
+        <button class="filter-btn" data-filter="type" data-value="fellowship">Fellowship</button>
+        <button class="filter-btn" data-filter="type" data-value="grant">Grant</button>
+        <button class="filter-btn" data-filter="type" data-value="scholarship">Scholarship</button>
+        <button class="filter-btn" data-filter="type" data-value="research">Research</button>
+        <button class="filter-btn" data-filter="type" data-value="travel">Travel</button>
+      </div>
+      <div class="filter-group" id="fieldFilters">
+        <span class="filter-label">Field:</span>
+      </div>
+    </div>
+
+    <div class="cards" id="cards"></div>
+    <p class="last-updated" id="lastUpdated"></p>
+    <div class="footer-links">
+      <a href="https://forms.gle/YOUR_SUBMIT_FORM_ID" target="_blank">Submit an opportunity</a>
+      <a href="https://forms.gle/YOUR_REPORT_FORM_ID" target="_blank">Report an issue</a>
+    </div>
+  </div>
+
+  <script>
+    let opportunities = [];
+    let activeFilters = { level: [], citizenship: [], type: [], field: [] };
+
+    function buildFieldFilters() {
+      // Collect all unique fields from data
+      const fields = new Set();
+      opportunities.forEach(opp => {
+        (opp.tags?.field || []).forEach(f => fields.add(f));
+      });
+
+      const container = document.getElementById('fieldFilters');
+      const sorted = Array.from(fields).sort();
+
+      sorted.forEach(field => {
+        const btn = document.createElement('button');
+        btn.className = 'filter-btn';
+        btn.dataset.filter = 'field';
+        btn.dataset.value = field;
+        btn.textContent = field.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+        btn.addEventListener('click', () => toggleFilter(btn));
+        container.appendChild(btn);
+      });
+
+      // Hide field filter group if no fields
+      if (sorted.length === 0) {
+        container.style.display = 'none';
+      }
+    }
+
+    function toggleFilter(btn) {
+      const filter = btn.dataset.filter;
+      const value = btn.dataset.value;
+
+      if (btn.classList.contains('active')) {
+        btn.classList.remove('active');
+        activeFilters[filter] = activeFilters[filter].filter(v => v !== value);
+      } else {
+        btn.classList.add('active');
+        activeFilters[filter].push(value);
+      }
+      render();
+    }
+
+    async function loadData() {
+      try {
+        const res = await fetch('opportunities.json');
+        opportunities = await res.json();
+        buildFieldFilters();
+        updateStats();
+        render();
+
+        // Show last updated from most recent scrape
+        if (opportunities.length > 0) {
+          const latest = opportunities.reduce((a, b) =>
+            new Date(a.scraped_at) > new Date(b.scraped_at) ? a : b
+          );
+          const date = new Date(latest.scraped_at);
+          document.getElementById('lastUpdated').textContent =
+            `Last updated: ${date.toLocaleDateString()} ${date.toLocaleTimeString()}`;
+        }
+      } catch (e) {
+        document.getElementById('cards').innerHTML =
+          '<p class="no-results">Error loading opportunities. Try refreshing.</p>';
+      }
+    }
+
+    function updateStats() {
+      const filtered = getFiltered();
+      document.getElementById('stats').textContent =
+        `Showing ${filtered.length} of ${opportunities.length} opportunities`;
+    }
+
+    function getFiltered() {
+      const query = document.getElementById('search').value.toLowerCase();
+
+      return opportunities.filter(opp => {
+        // Search filter
+        if (query) {
+          const text = `${opp.name} ${opp.description} ${opp.source}`.toLowerCase();
+          if (!text.includes(query)) return false;
+        }
+
+        // Tag filters (AND across categories, OR within category)
+        for (const [category, values] of Object.entries(activeFilters)) {
+          if (values.length === 0) continue;
+          const oppTags = opp.tags?.[category] || [];
+          if (!values.some(v => oppTags.includes(v))) return false;
+        }
+
+        return true;
+      });
+    }
+
+    function render() {
+      const filtered = getFiltered();
+      const container = document.getElementById('cards');
+
+      if (filtered.length === 0) {
+        container.innerHTML = '<p class="no-results">No opportunities match your filters.</p>';
+        updateStats();
+        return;
+      }
+
+      container.innerHTML = filtered.map(opp => {
+        const tags = [];
+        for (const [cat, values] of Object.entries(opp.tags || {})) {
+          if (cat === 'funding') {
+            values.forEach(v => tags.push(`<span class="tag tag-funding">${v}</span>`));
+          } else {
+            values.forEach(v => {
+              const label = v.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+              tags.push(`<span class="tag tag-${cat}">${label}</span>`);
+            });
+          }
+        }
+
+        return `
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title"><a href="${opp.url}" target="_blank" rel="noopener">${opp.name}</a></h3>
+            </div>
+            <p class="card-source">${opp.source}</p>
+            ${opp.deadline ? `<p class="card-deadline">Deadline: ${opp.deadline}</p>` : ''}
+            <p class="card-description">${opp.description}</p>
+            <div class="card-tags">${tags.join('')}</div>
+          </div>
+        `;
+      }).join('');
+
+      updateStats();
+    }
+
+    // Event listeners
+    document.getElementById('search').addEventListener('input', render);
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => toggleFilter(btn));
+    });
+
+    loadData();
+  </script>
+</body>
+</html>

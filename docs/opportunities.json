@@ -1,0 +1,806 @@
+[
+  {
+    "id": "92f18218d00c",
+    "name": "Theodore de Bary Language Study Fellowship",
+    "description": "Theodore de Bary Language Study Fellowship\nDeadline: March 6th, 2025\nThe Middle East Institute (MEI) offers\u00a0the annual Theodore de Bary Language Study Fellowship for intensive language study in Arabic, Hebrew, Persian, or Turkish. The fellowship is open to Columbia and Barnard undergraduate students who are not US citizens or permanent residents.\nTheodore de Barry awards can be used for intensive summer language study in the U.S. or abroad. The award offers a stipend of $3,500 andup to$5,000 towards summer program tuition. Preference is given to students who have already begun study in the target language. This fellowship complements the Summer FLAS for undergraduates, making summer language training funding available to international students who are not American citizens or permanent res",
+    "url": "https://www.mei.columbia.edu/de-bary-fellowship",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "level": [
+        "undergraduate"
+      ],
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship",
+        "language"
+      ],
+      "field": [
+        "middle_east_studies"
+      ],
+      "funding": [
+        "$3,500",
+        "$5,000"
+      ]
+    },
+    "deadline": "March 6th, 2025",
+    "scraped_at": "2026-01-02T22:42:00.228453+00:00"
+  },
+  {
+    "id": "3c5c2a0b974f",
+    "name": "Language Support",
+    "description": "Language Learning Support\nMEI believes strongly in the importance of language education to build bridges and increase understanding across regions. The Institute is dedicated to creating opportunities for students to improve and use their language skills in Arabic, Hebrew, Persian, or Turkish.\nIn addition to making theFLASandde Baryfellowships available for intensive language study, MEI also offers the following opportunities:\nWeekly Language Circles\nWeekly language circles for Arabic and Persian provide extra practice for language students in a conversational setting. The circles create weekly opportunities for language students of all levels to meet and interact with each other, instructors, TAs, and native speakers from the local community.  Learners of all levels are welcome so long as",
+    "url": "https://www.mei.columbia.edu/language-support",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "type": [
+        "fellowship",
+        "language"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.498560+00:00"
+  },
+  {
+    "id": "9375a3a0b21d",
+    "name": "Conference Travel Grants",
+    "description": "Application Deadline: Ongoing\nProvides reimbursement of up to $350 to doctoral candidates for costs related to presenting a paper at an academic conference. The candidate must first attempt to secure funding from GSAS and/or home department and provide an explanation as to why additional funds are being sought from the Middle East Institute.\nApplication procedure: Applications are accepted on a rolling basis but no later than 4 weeks before the date of the conference for which the student is seeking funding. In your request, please indicate the title/organizer, location, and dates of the conference as well as the title of your paper, session you will present at, and a brief paragraph stating why you want to attend the conference. In addition, please include the following information: acade",
+    "url": "https://www.mei.columbia.edu/conference-travel-grants",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "type": [
+        "grant",
+        "travel"
+      ],
+      "field": [
+        "middle_east_studies"
+      ],
+      "funding": [
+        "$350"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.693914+00:00"
+  },
+  {
+    "id": "b2663870d2d1",
+    "name": "GSAS Fellowships",
+    "description": "GSAS administers a number of fellowships internally.",
+    "url": "https://www.gsas.columbia.edu/content/internal-fellowships",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "type": [
+        "fellowship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.694100+00:00"
+  },
+  {
+    "id": "5d67b6314601",
+    "name": "Fulbright",
+    "description": "Program eligibility and selection procedures vary widely by country. Please see the MEI\u2019s Fulbright Information page for helpful information.",
+    "url": "https://www.mei.columbia.edu/fulbright",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {},
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.694190+00:00"
+  },
+  {
+    "id": "ffffe58994d5",
+    "name": "Additional External Fellowships",
+    "description": "MEI curates a list of available scholarships pertinent to the interdisciplinary study of the Middle East and North Africa.",
+    "url": "https://www.mei.columbia.edu/external-fellowships",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "type": [
+        "fellowship",
+        "scholarship"
+      ],
+      "field": [
+        "middle_east_studies"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.694260+00:00"
+  },
+  {
+    "id": "1cdcbcafd322",
+    "name": "The Columbia University Scholarship for Displaced Students (CUSDS)",
+    "description": "Supports displaced students from anywhere in the world. Applicants must be able to provide documentation of their displaced status, and students awarded funding will receive partial or full tuition, and potentially assistance with living expenses while pursuing a graduate degree at Columbia. Eligible students should apply at the same time that they submit their application for a Columbia graduate program.",
+    "url": "https://globalcenters.columbia.edu/CUSDS",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "scholarship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.995359+00:00"
+  },
+  {
+    "id": "735eff5502ea",
+    "name": "Edward W. Said Fellows",
+    "description": "Named in his honor, Edward W. Said Fellows receive a $5,000 research fellowship award that is intended to offset the financial costs of consulting the Edward W. Said Papers in the Rare Book and Manuscript Library at Columbia University. Researchers early in their careers whose scholarship speaks across disciplinary boundaries, promotes humanistic inquiry in the service of intercultural communication and understanding, and addresses pressing global issues in the public sphere are especially encou",
+    "url": "https://sofheyman.org/fellowships/edward-w-said",
+    "source": "Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "scholarship",
+        "research"
+      ],
+      "field": [
+        "humanities"
+      ],
+      "funding": [
+        "$5,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.995626+00:00"
+  },
+  {
+    "id": "14c065723762",
+    "name": "Harriman Institute for Russian, Eurasian and East European Studies",
+    "description": "The Harriman Institute awardsa number of student fellowships every year to students interested in conducting research on Russia, Eurasia and Eastern Europe.",
+    "url": "https://harriman.columbia.edu/graduate-funding/",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.995724+00:00"
+  },
+  {
+    "id": "75ae90c6df92",
+    "name": "The Institute for Israel and Jewish Studies",
+    "description": "The IIJS is pleased to provide funding for graduate students in the form of named fellowships as well as grants. Funding is available to students throughout the academic year; for summer travel related to research; and for travel grants for students presenting research at academic or professional conferences. Priority for funding will be given to students who are active participants of IIJS programming (an expectation of grantees).",
+    "url": "https://www.iijs.columbia.edu/funding",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "type": [
+        "fellowship",
+        "grant",
+        "research",
+        "travel"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.995862+00:00"
+  },
+  {
+    "id": "35e49ed0599a",
+    "name": "Institute for Religion, Culture and Public Life",
+    "description": "IRCPL Summer Research Fellowships are available to Columbia University students for research related to the completion of their dissertation or other research projects. The fellowship provides each student a maximum of $4,000 to cover expenses directly related to their research, including travel, lodging, and materials. Make sure to check IRCPL\u2019s website for updates.",
+    "url": "https://www.ircpl.columbia.edu/summer-research-fellowships",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "type": [
+        "fellowship",
+        "research",
+        "travel"
+      ],
+      "funding": [
+        "$4,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.996011+00:00"
+  },
+  {
+    "id": "32c795abd2db",
+    "name": "Interschool Fellowships at Columbia",
+    "description": "To receive these need-based awards, which range in amount from $1,000 to $5,000, students must be enrolled in anArts and Sciencesgraduate program, and must meet the requirements of the relevant fellowship. The online application will include a list of all available fellowships and their respective requirements.",
+    "url": "https://shibboleth.columbia.edu/idp/DFormsLogin.jsp?Clear=Y&templateID=b55a6970-74db-4a96-999c-d762fed6457a",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship"
+      ],
+      "funding": [
+        "$1,000",
+        "$5,000,"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.996127+00:00"
+  },
+  {
+    "id": "3997923f1d99",
+    "name": "Mellon Fellowship Program",
+    "description": "In partnership with the Andrew W. Mellon Foundation, Columbia Global Centers (Amman) has established the Mellon Fellowship Program to support emerging displaced scholars working in the humanities and humanistic social sciences. The goal of the program is to create opportunities for scholars to reintegrate into academia and resume their academic pursuits.",
+    "url": "https://globalcenters.columbia.edu/content/mellon-fellowship-program-0",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship"
+      ],
+      "field": [
+        "humanities",
+        "social_sciences"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.996284+00:00"
+  },
+  {
+    "id": "7d00ed636330",
+    "name": "Public Humanities Graduate Fellows",
+    "description": "The Society of Fellows and Heyman Center for the Humanities provides funded opportunities for graduate students to explore the public dimensions of their work. While each fellowship has distinct features and requirements, during the funding period, students work closely with at least one community organization, participate in methods workshops, and present their projects in theBuilding Publicsseries.",
+    "url": "https://sofheyman.org/fellowships/public-humanities-graduate-fellows",
+    "source": "Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "type": [
+        "fellowship"
+      ],
+      "field": [
+        "humanities"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.996474+00:00"
+  },
+  {
+    "id": "bc5d3f10454a",
+    "name": "American Association of University Women Fellowships and Grants",
+    "description": "Provides funding to women who hold a bachelor\u2019s degree and are preparing to advance or change careers or reenter the workforce. Primary consideration is given to women of color and women pursuing their first advanced degree or credentials in nontraditional fields. Applicants must be U.S. citizens or permanent residents whose last degree was received four years previously. Funds are available for tuition, fees, books, supplies, local transportation, and dependent care.",
+    "url": "https://www.aauw.org/resources/programs/fellowships-grants/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "us_citizen",
+        "permanent_resident"
+      ],
+      "type": [
+        "fellowship",
+        "grant"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.996686+00:00"
+  },
+  {
+    "id": "7cc4947d8056",
+    "name": "American Association of University Women International Fellowships",
+    "description": "The fellowships are awarded for full-time study or research in the United States to women who are not U.S. citizens or permanent residents. Both graduate and postgraduate studies at accredited U.S. institutions are supported. Applicants must have earned the equivalent of a U.S. bachelor\u2019s degree and must have applied to their proposed institutions of study by the time of the application. Recipients are selected for academic achievement and demonstrated commitment to women and girls. Recipients r",
+    "url": "https://www.aauw.org/what-we-do/educational-funding-and-awards/international-fellowships/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international",
+        "permanent_resident"
+      ],
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.996891+00:00"
+  },
+  {
+    "id": "52d2af971a79",
+    "name": "American Councils for International Education",
+    "description": "ACIE believes in the fundamental role of education in fostering positive change for individuals, institutions, and societies. The organization has focused its expertise on academic exchange, professional training, distance learning, curriculum and test development, delivery of technical assistance, research, evaluation, and institution building.",
+    "url": "https://www.americancouncils.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.997025+00:00"
+  },
+  {
+    "id": "7040e90fa653",
+    "name": "The American Academic Research Institute for Research in Iraq (AARIIT)",
+    "description": "AARIIT hosts two fellowship programs, one for citizens of Iraq, and one for U.S. citizens. Both competitions have strict eligibility requirements that must be met before applications may be submitted. Before inquiring about a fellowship program, please be sure that you meet the requirements for the program in which you are interested.",
+    "url": "https://www.tarii.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "us_citizen"
+      ],
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.997147+00:00"
+  },
+  {
+    "id": "b2b6c84d6f08",
+    "name": "American Institute for Iranian Studies",
+    "description": "AIRS supports a number of fellowships for scholars of Iranian studies and the Persian language.American Institute for Maghrib StudiesOffers a number of fellowships for Maghrebi scholars, as well as grants for scholars and graduate students conducting research in North Africa.The American Institute for Yemeni Studies (AIYS)AIYS Fellowship for Study and Research in Yemen offers two separate competitions for fellowship programs of in-country residence and research in Yemen, one for U.S. citizens an",
+    "url": "https://www.simorgh-aiis.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "citizenship": [
+        "us_citizen"
+      ],
+      "type": [
+        "fellowship",
+        "grant",
+        "research",
+        "travel",
+        "language"
+      ],
+      "field": [
+        "middle_east_studies",
+        "humanities",
+        "social_sciences"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.997493+00:00"
+  },
+  {
+    "id": "c643ead14011",
+    "name": "The Beinecke Scholarship Program",
+    "description": "The program seeks to encourage and enable highly motivated students to pursue opportunities available to them and to be courageous in the selection of a graduate course of study in the arts, humanities and social sciences. Each scholar receives $4,000 immediately prior to entering graduate school and an additional $30,000 while attending graduate school. There are no geographic restrictions on the use of the scholarship, and recipients are allowed to supplement the award with other scholarships,",
+    "url": "http://fdnweb.org/beinecke/program/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "undergraduate"
+      ],
+      "type": [
+        "scholarship",
+        "grant",
+        "research"
+      ],
+      "field": [
+        "humanities",
+        "social_sciences"
+      ],
+      "funding": [
+        "$4,000",
+        "$30,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.997705+00:00"
+  },
+  {
+    "id": "478f45aa5370",
+    "name": "Council on Foreign Relations",
+    "description": "Council on Foreign Relations (CFR) fellowships offer unique opportunities for U.S. citizens with a demonstrated commitment to a career in foreign policy to gain experience in a new environment. Selected fellows broaden their perspective of foreign affairs either by pursuing work in a policymaking setting or research in an academic environment. CFR is committed to fostering a foreign policy community in the United States that is more representative of American society as a whole. Eligibility crit",
+    "url": "https://www.cfr.org/fellowships",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international",
+        "us_citizen"
+      ],
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.997902+00:00"
+  },
+  {
+    "id": "9d5e116fb278",
+    "name": "David L. Boren Awards for International Travel",
+    "description": "Provides funding for U.S. graduate students to study in world regions critical to U.S. interests, including Africa, Asia, Central & Eastern Europe, Eurasia, Latin America, and the Middle East. In exchange for funding, recipients commit to working in the federal government for a minimum of one year. The applications are now available. These fellowships are open to graduate students of all U.S. universities.",
+    "url": "http://www.borenawards.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship",
+        "travel"
+      ],
+      "field": [
+        "middle_east_studies"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.998104+00:00"
+  },
+  {
+    "id": "5e9a1c5a986a",
+    "name": "The Davis-Putter Scholarship Fund",
+    "description": "The fund aids people active in movements for social and economic justice. These need-based scholarships are awarded to students who are able to do academic work at the college or university level or are enrolled in a trade or technical program and who are active in the progressive movement. Recent grantees have been active in the struggle against racism, sexism, homophobia and other forms of oppression; building the movement for economic justice; and creating peace through international anti-imp",
+    "url": "https://www.davisputter.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "scholarship",
+        "grant"
+      ],
+      "funding": [
+        "$15,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.998402+00:00"
+  },
+  {
+    "id": "043cb6be13f9",
+    "name": "Donald M. Payne International Development Graduate Fellowship Program",
+    "description": "The program is intended for students in graduate school who are also interested in a career in the foreign service of the U.S. Agency for International Development. Payne Fellows work on the front lines of some of the most pressing global challenges including poverty, hunger, injustice, disease, environmental degradation, climate change, conflict and violent extremism and join USAID once they complete the program.",
+    "url": "http://www.paynefellows.org/?areaid=2&contentid=941",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.998615+00:00"
+  },
+  {
+    "id": "8a39f45834b2",
+    "name": "Echoing Green Public Service Fellowships",
+    "description": "The fellowship provides funding to conduct public service projects anywhere in the world. The support is available for up to two years.",
+    "url": "http://www.echoinggreen.org/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.998742+00:00"
+  },
+  {
+    "id": "178c5fee19ba",
+    "name": "Fulbright Foreign Student Program",
+    "description": "The Fulbright Foreign Student Program enables graduate students, young professionals and artists from abroad to study and conduct research in the United States. The Fulbright Foreign Student Program operates in more than 160 countries worldwide. Approximately 4,000 foreign students receive Fulbright scholarships each year.*Only the Columbia portion of the Columbia/AKU-ISMC Dual MA Program is Fulbright eligible.",
+    "url": "https://foreign.fulbrightonline.org/about/foreign-student-program",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "scholarship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.998919+00:00"
+  },
+  {
+    "id": "3cfd321b9cc3",
+    "name": "Humboldt Research Fellowship Program",
+    "description": "The fellowship promotes academic cooperation between scientists and scholars from Germany and abroad. The research fellowships and awards allow researchers to come to Germany to work on a project, they have chosen themselves, in cooperation with a German host and collaborative partner.",
+    "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.999073+00:00"
+  },
+  {
+    "id": "7eaf06a2d183",
+    "name": "Indspire",
+    "description": "Indspire offers scholarships and awards to Canadian First Nations, Inuit and M\u00e9tis students for Post-Secondary Education. There is one application for all of Indspire\u2019s bursaries, scholarships, and awards.",
+    "url": "https://indspire.ca/programs/students/bursaries-scholarships/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "scholarship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.999368+00:00"
+  },
+  {
+    "id": "8b60985ad332",
+    "name": "International Research and Exchange Board",
+    "description": "The International Research and Exchange Board is an international nonprofit organization providing leadership and innovative programs to improve the quality of education, strengthen independent media and foster pluralistic civil society.",
+    "url": "http://www.irex.org/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.999598+00:00"
+  },
+  {
+    "id": "013afbfb9c15",
+    "name": "Islamic Scholarship Fund",
+    "description": "The mission of the Islamic Scholarship Fund is to increase \"American Muslim representation in media and politics in order to improve public opinion and policy.\" ISF awards merit scholarships to U.S. citizens and permanent residents attending graduate school in policy, media, law or film, who are Muslim or are an active member of the Muslim community. Applications generally open in November or December and are due between late March and early April.",
+    "url": "https://islamicscholarshipfund.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "us_citizen",
+        "permanent_resident"
+      ],
+      "type": [
+        "scholarship"
+      ],
+      "field": [
+        "middle_east_studies"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:00.999927+00:00"
+  },
+  {
+    "id": "65dbdb9f6e62",
+    "name": "Mellon Foundation Regranting and Fellowship Programs",
+    "description": "In addition to its regular Higher Learning grantmaking, Mellon provides funding for competitive fellowships and awards. It also hosts theSawyer Seminarsand theNew Directions Fellowship.",
+    "url": "https://mellon.org/programs/higher-learning/regranting-programs/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "grant"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.000255+00:00"
+  },
+  {
+    "id": "8a9bc79f6b2f",
+    "name": "Open Society Foundations",
+    "description": "The Open Society Foundations award grants and fellowships throughout the year to organizations and individuals who share Open Society values. We look for grantees who have a vision and whose efforts will lead to lasting social change. The vast majority of our grants are awarded to organizations that we approach directly, but we do list some open opportunities below. Other funding opportunities are available through Open Society\u2019s network of national and regional foundations.",
+    "url": "https://www.opensocietyfoundations.org/grants",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "grant"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.000501+00:00"
+  },
+  {
+    "id": "836e3efac180",
+    "name": "Oxford Centre for Islamic Studies",
+    "description": "Visiting Fellowships are awarded annually to enable scholars or writers with academic interests in the Islamic world to spend an extended period of independent study and research at Oxford.Palestinian American Resource CenterThe Palestinian American Research Center (PARC) awards a number of fellowships every year. They offer two research fellowships for scholars of Palestine and a travel seminar competition for scholars who are not Palestine experts but who are eager to learn more about Palestin",
+    "url": "https://www.oxcis.ac.uk/visiting-fellowships",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "research",
+        "travel"
+      ],
+      "field": [
+        "middle_east_studies"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.000698+00:00"
+  },
+  {
+    "id": "c9b977ab6923",
+    "name": "The Paul & Daisy Soros Fellowships for New Americans",
+    "description": "The program honors the contributions of immigrants and children of immigrants to the United States. Each year, we invest in the graduate education of 30 New Americans\u2014immigrants and children of immigrants\u2014who are poised to make significant contributions to US society, culture or their academic field. Each Fellow receives up to $90,000 in financial support over two years, and they join a lifelong community of New American Fellows.",
+    "url": "https://www.pdsoros.org/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "grant"
+      ],
+      "funding": [
+        "$90,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.000881+00:00"
+  },
+  {
+    "id": "e85a1ac1da66",
+    "name": "P.E.O. International",
+    "description": "P.E.O. International promotes educational opportunities for women. The Sisterhood proudly sponsors no less than five international philanthropies, or projects, designed to assist women with their educational goals.",
+    "url": "http://www.peointernational.org/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.000996+00:00"
+  },
+  {
+    "id": "ec20bb09af20",
+    "name": "The Thomas R. Pickering Fellowship Program",
+    "description": "This is a U.S. Department of State funded and Washington Center for Internships and Academic Seminars administered fellowship. The fellowship provides graduate students with financial support, mentoring and professional development to prepare them academically and professionally for a career with the U.S. Department of State. Women, members of minority groups historically underrepresented in the Foreign Service, and students with financial need are encouraged to apply.",
+    "url": "https://pickeringfellowship.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.001162+00:00"
+  },
+  {
+    "id": "4c6abdf3cee0",
+    "name": "Rotary International",
+    "description": "Rotary aims to enable members to advance world understanding, goodwill, and peace through the improvement of health, the support of education, and the alleviation of poverty. The division, in conjunction with Rotarians, Rotary clubs, and Rotary districts, provides its assistance through scholarship, fellowship, and grant processes.",
+    "url": "https://www.rotary.org/en/our-programs",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship",
+        "scholarship",
+        "grant"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.001422+00:00"
+  },
+  {
+    "id": "4634f619fe8a",
+    "name": "US Dept of StateCritical Language Scholarships For Intensive Summer Institutes",
+    "description": "This scholarship will provide funding for U.S. citizens, including undergraduates, Master\u2019s and Ph.D. students, and recent graduates to participate in beginning, intermediate and/or advanced level summer language programs at American Overseas Research Centers and affiliated partners.US Dept of State and the Council of American Overseas Research CentersThe Multi-Country Research Fellowship enables US scholars to carry out trans-regional and comparative research in countries across the network of ",
+    "url": "http://www.clscholarship.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "undergraduate",
+        "graduate"
+      ],
+      "citizenship": [
+        "us_citizen"
+      ],
+      "type": [
+        "fellowship",
+        "scholarship",
+        "grant",
+        "research",
+        "language"
+      ],
+      "field": [
+        "humanities",
+        "social_sciences"
+      ],
+      "funding": [
+        "$12,600"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.001816+00:00"
+  },
+  {
+    "id": "3573c5c5aac5",
+    "name": "Woodrow Wilson Center Fellowships in Humanities and Social Sciences",
+    "description": "This awards approximately 20-25 residential fellowships annually to individuals with outstanding project proposals in a broad range of the social sciences and humanities on national and/or international issues. Topics and scholarship should relate to key public policy challenges or provide the historical and/or cultural framework to illuminate policy issues of contemporary importance.",
+    "url": "https://www.wilsoncenter.org/fellowship-application",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship",
+        "scholarship"
+      ],
+      "field": [
+        "humanities",
+        "social_sciences"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.002068+00:00"
+  },
+  {
+    "id": "739b058fca05",
+    "name": "Women in Defense Horizons Scholarship",
+    "description": "The scholarship is intended for women interested in pursuing a career related to U.S. national security and defense. Open to college juniors and above, including those in graduate school, awards are based on academic achievement, participation in defense and national security activities, field of study, work experience, statements of objectives, recommendations and financial need.",
+    "url": "https://www.womenindefense.net/widscholar/apply-for-scholarship",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "scholarship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-02T22:42:01.002397+00:00"
+  }
+]

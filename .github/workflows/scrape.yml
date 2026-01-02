@@ -1,0 +1,33 @@
+name: Scrape Opportunities
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6am UTC
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run MEI scraper
+        run: python scrapers/mei_scraper.py
+
+      - name: Copy data to docs
+        run: cp data/opportunities.json docs/
+
+      - name: Commit changes
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add data/ docs/
+          git diff --staged --quiet || git commit -m "Update opportunities $(date -u +%Y-%m-%d)"
+          git push
