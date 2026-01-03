@@ -20,11 +20,13 @@ jobs:
 
       # URF scraper requires cookies - only run if secret exists
       - name: Create URF cookies file
-        if: ${{ secrets.URF_COOKIES != '' }}
+        env:
+          URF_COOKIES: ${{ secrets.URF_COOKIES }}
+        if: env.URF_COOKIES != ''
         run: echo '${{ secrets.URF_COOKIES }}' > scrapers/cookies.json
 
       - name: Run URF scraper
-        if: ${{ secrets.URF_COOKIES != '' }}
+        if: hashFiles('scrapers/cookies.json') != ''
         run: python scrapers/urf_scraper.py
 
       # MEI scraper (public, no auth needed)
