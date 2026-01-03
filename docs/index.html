@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CU Prowl</title>
+  <title>CU OppDrop</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -23,6 +23,41 @@
     header {
       text-align: center;
       margin-bottom: 2rem;
+    }
+
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      text-align: left;
+    }
+
+    .header-title {
+      flex: 1;
+      text-align: center;
+    }
+
+    .header-links {
+      display: flex;
+      gap: 0.75rem;
+      font-size: 0.85rem;
+      position: absolute;
+      right: 1rem;
+      top: 2rem;
+    }
+
+    .header-links a {
+      color: #0071e3;
+      text-decoration: none;
+      padding: 0.4rem 0.75rem;
+      border: 1px solid #0071e3;
+      border-radius: 6px;
+      transition: all 0.2s;
+    }
+
+    .header-links a:hover {
+      background: #0071e3;
+      color: white;
     }
 
     h1 {
@@ -282,14 +317,9 @@
       color: #166534;
     }
 
-    .status-opens {
-      background: #fef3c7;
-      color: #92400e;
-    }
-
-    .status-expired {
-      background: #f3f4f6;
-      color: #6b7280;
+    .status-closed {
+      background: #fee2e2;
+      color: #991b1b;
     }
 
     .card.expired {
@@ -344,24 +374,15 @@
       color: #86868b;
     }
 
-    .footer-links {
-      display: flex;
-      justify-content: center;
-      gap: 1.5rem;
-      margin-top: 1rem;
-      font-size: 0.85rem;
-    }
-
-    .footer-links a {
-      color: #0071e3;
-      text-decoration: none;
-    }
-
-    .footer-links a:hover {
-      text-decoration: underline;
-    }
-
     @media (max-width: 600px) {
+      .header-links {
+        position: static;
+        justify-content: center;
+        margin-top: 1rem;
+      }
+      .header-top {
+        flex-direction: column;
+      }
       h1 { font-size: 1.8rem; }
       .cards { grid-template-columns: 1fr; }
       .controls { flex-direction: column; align-items: stretch; }
@@ -375,8 +396,16 @@
 <body>
   <div class="container">
     <header>
-      <h1>CU Prowl</h1>
-      <p class="subtitle">Columbia fellowships, grants, and funded opportunities</p>
+      <div class="header-top">
+        <div class="header-title">
+          <h1>CU OppDrop</h1>
+          <p class="subtitle">Database of Columbia funding, grant, research, and study abroad opportunities</p>
+        </div>
+        <div class="header-links">
+          <a href="https://forms.gle/eqUL9FmeF5c6bRre9" target="_blank">Submit an opportunity</a>
+          <a href="https://forms.gle/EBBpzBPwvvyVV8d86" target="_blank">Report issue</a>
+        </div>
+      </div>
       <p class="stats" id="stats">Loading...</p>
     </header>
 
@@ -478,13 +507,9 @@
             <span class="check">✓</span>
             <span>Open</span>
           </div>
-          <div class="filter-option selected" data-value="opens">
+          <div class="filter-option" data-value="closed">
             <span class="check">✓</span>
-            <span>Coming Soon</span>
-          </div>
-          <div class="filter-option" data-value="expired">
-            <span class="check">✓</span>
-            <span>Expired</span>
+            <span>Closed</span>
           </div>
         </div>
       </div>
@@ -499,48 +524,29 @@
 
     <div class="cards" id="cards"></div>
     <p class="last-updated" id="lastUpdated"></p>
-    <div class="footer-links">
-      <a href="https://forms.gle/YOUR_SUBMIT_FORM_ID" target="_blank">Submit an opportunity</a>
-      <a href="https://forms.gle/YOUR_REPORT_FORM_ID" target="_blank">Report an issue</a>
-    </div>
   </div>
 
   <script>
     let opportunities = [];
-    let activeFilters = { level: [], citizenship: [], type: [], field: [], status: ['open', 'opens'] };
+    let activeFilters = { level: [], citizenship: [], type: [], field: [], status: ['open'] };
     let currentSort = 'deadline';
 
-    // Helper to get opportunity status
+    // Helper to get opportunity status (open or closed)
     function getOpportunityStatus(opp) {
       const deadline = parseDeadline(opp);
-      const opens = parseOpensDate(opp);
-      const now = new Date();
-      now.setHours(0, 0, 0, 0);
 
-      // Check if expired (past deadline)
-      if (deadline && getDaysUntil(deadline) < 0) {
-        return 'expired';
+      // Check for explicit "Closed" status from scraper
+      if (opp.deadline_display === 'Closed') {
+        return 'closed';
       }
 
-      // Check if not yet open (has opens date in the future)
-      if (opens && getDaysUntil(opens) > 0) {
-        return 'opens';
+      // Check if past deadline
+      if (deadline && getDaysUntil(deadline) < 0) {
+        return 'closed';
       }
 
       // Otherwise it's open (or no date info = assume open)
       return 'open';
-    }
-
-    function parseOpensDate(opp) {
-      if (opp.opens) {
-        const d = new Date(opp.opens + 'T00:00:00');
-        if (!isNaN(d)) return d;
-      }
-      if (opp.opens_display) {
-        const d = new Date(opp.opens_display);
-        if (!isNaN(d)) return d;
-      }
-      return null;
     }
 
     // Dropdown management
@@ -687,11 +693,11 @@
     function updateStats() {
       const filtered = getFiltered();
       const open = opportunities.filter(o => getOpportunityStatus(o) === 'open').length;
-      const expired = opportunities.filter(o => getOpportunityStatus(o) === 'expired').length;
+      const closed = opportunities.filter(o => getOpportunityStatus(o) === 'closed').length;
 
-      let statsText = `Showing ${filtered.length} of ${opportunities.length} opportunities`;
-      if (activeFilters.status.includes('expired')) {
-        statsText += ` (${open} open, ${expired} expired)`;
+      let statsText = `${filtered.length}/${opportunities.length} opportunities`;
+      if (activeFilters.status.includes('closed')) {
+        statsText += ` (${open} open, ${closed} closed)`;
       }
       document.getElementById('stats').textContent = statsText;
     }
@@ -724,11 +730,11 @@
       filtered.sort((a, b) => {
         switch (currentSort) {
           case 'deadline':
-            // Expired opportunities go to the end
+            // Closed opportunities go to the end
             const aStatus = getOpportunityStatus(a);
             const bStatus = getOpportunityStatus(b);
-            if (aStatus === 'expired' && bStatus !== 'expired') return 1;
-            if (bStatus === 'expired' && aStatus !== 'expired') return -1;
+            if (aStatus === 'closed' && bStatus !== 'closed') return 1;
+            if (bStatus === 'closed' && aStatus !== 'closed') return -1;
 
             const aDate = parseDeadline(a);
             const bDate = parseDeadline(b);
@@ -784,30 +790,17 @@
 
         const status = getOpportunityStatus(opp);
         const deadlineDate = parseDeadline(opp);
-        const opensDate = parseOpensDate(opp);
 
         let statusHtml = '';
         let dateInfoHtml = '';
 
-        if (status === 'expired') {
-          statusHtml = '<span class="status-badge status-expired">Expired</span>';
-          if (deadlineDate) {
+        if (status === 'closed') {
+          statusHtml = '<span class="status-badge status-closed">Closed</span>';
+          if (deadlineDate && opp.deadline_display !== 'Closed') {
             const displayDate = opp.deadline_display || deadlineDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
             dateInfoHtml = `<div class="card-deadline"><span class="deadline-date">Was due ${displayDate}</span></div>`;
-          }
-        } else if (status === 'opens') {
-          const opensDisplay = opp.opens_display || opensDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-          const daysUntilOpen = getDaysUntil(opensDate);
-          statusHtml = '<span class="status-badge status-opens">Coming Soon</span>';
-          dateInfoHtml = `<div class="card-deadline"><span class="deadline-date">Opens ${opensDisplay}</span>`;
-          if (daysUntilOpen <= 30) {
-            dateInfoHtml += `<span class="deadline-relative">(in ${daysUntilOpen} days)</span>`;
-          }
-          dateInfoHtml += '</div>';
-          // Also show deadline if available
-          if (deadlineDate) {
-            const deadlineDisplay = opp.deadline_display || deadlineDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-            dateInfoHtml += `<div class="card-deadline" style="margin-top: 0.25rem;"><span class="deadline-date">Due ${deadlineDisplay}</span></div>`;
+          } else {
+            dateInfoHtml = '<div class="card-deadline"><span class="deadline-date">Applications closed</span></div>';
           }
         } else {
           // Open status
@@ -826,7 +819,7 @@
         }
 
         return `
-          <div class="card${status === 'expired' ? ' expired' : ''}">
+          <div class="card${status === 'closed' ? ' expired' : ''}">
             <div class="card-header">
               <h3 class="card-title">${statusHtml}<a href="${opp.url}" target="_blank" rel="noopener">${opp.name}</a></h3>
             </div>

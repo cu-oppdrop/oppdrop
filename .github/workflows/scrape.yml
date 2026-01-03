@@ -31,6 +31,10 @@ jobs:
       - name: Run MEI scraper
         run: python scrapers/mei_scraper.py
 
+      # Apply manual overrides (preserves manual edits)
+      - name: Apply overrides
+        run: python scrapers/apply_overrides.py
+
       - name: Copy data to docs
         run: cp data/opportunities.json docs/
 

@@ -1,807 +1,19 @@
 [
   {
-    "id": "92f18218d00c",
-    "name": "Theodore de Bary Language Study Fellowship",
-    "description": "Theodore de Bary Language Study Fellowship\nDeadline: March 6th, 2025\nThe Middle East Institute (MEI) offers\u00a0the annual Theodore de Bary Language Study Fellowship for intensive language study in Arabic, Hebrew, Persian, or Turkish. The fellowship is open to Columbia and Barnard undergraduate students who are not US citizens or permanent residents.\nTheodore de Barry awards can be used for intensive summer language study in the U.S. or abroad. The award offers a stipend of $3,500 andup to$5,000 towards summer program tuition. Preference is given to students who have already begun study in the target language. This fellowship complements the Summer FLAS for undergraduates, making summer language training funding available to international students who are not American citizens or permanent res",
-    "url": "https://www.mei.columbia.edu/de-bary-fellowship",
-    "source": "Middle East Institute",
-    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
-    "tags": {
-      "level": [
-        "undergraduate"
-      ],
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "fellowship",
-        "language"
-      ],
-      "field": [
-        "middle_east_studies"
-      ],
-      "funding": [
-        "$3,500",
-        "$5,000"
-      ]
-    },
-    "deadline": "March 6th, 2025",
-    "scraped_at": "2026-01-02T22:42:00.228453+00:00"
-  },
-  {
-    "id": "3c5c2a0b974f",
-    "name": "Language Support",
-    "description": "Language Learning Support\nMEI believes strongly in the importance of language education to build bridges and increase understanding across regions. The Institute is dedicated to creating opportunities for students to improve and use their language skills in Arabic, Hebrew, Persian, or Turkish.\nIn addition to making theFLASandde Baryfellowships available for intensive language study, MEI also offers the following opportunities:\nWeekly Language Circles\nWeekly language circles for Arabic and Persian provide extra practice for language students in a conversational setting. The circles create weekly opportunities for language students of all levels to meet and interact with each other, instructors, TAs, and native speakers from the local community.  Learners of all levels are welcome so long as",
-    "url": "https://www.mei.columbia.edu/language-support",
-    "source": "Middle East Institute",
-    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "id": "8b3db9053c78",
+    "name": "Work Exemption Program",
+    "description": "Columbia Grant-eligible students have the option of applying for an exemption from their summer work expectation (Student Contribution) or their in-school work expectation (Student Employment or Federal Work-Study). WEP grants are applied toward the Fall and/or Spring Student Account balance.",
+    "url": "https://www.careereducation.columbia.edu/programs/work-exemption-program",
+    "source": "The Work Exemption Program:",
+    "source_url": "https://www.careereducation.columbia.edu/programs/work-exemption-program",
     "tags": {
       "type": [
-        "fellowship",
-        "language"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.498560+00:00"
-  },
-  {
-    "id": "9375a3a0b21d",
-    "name": "Conference Travel Grants",
-    "description": "Application Deadline: Ongoing\nProvides reimbursement of up to $350 to doctoral candidates for costs related to presenting a paper at an academic conference. The candidate must first attempt to secure funding from GSAS and/or home department and provide an explanation as to why additional funds are being sought from the Middle East Institute.\nApplication procedure: Applications are accepted on a rolling basis but no later than 4 weeks before the date of the conference for which the student is seeking funding. In your request, please indicate the title/organizer, location, and dates of the conference as well as the title of your paper, session you will present at, and a brief paragraph stating why you want to attend the conference. In addition, please include the following information: acade",
-    "url": "https://www.mei.columbia.edu/conference-travel-grants",
-    "source": "Middle East Institute",
-    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "type": [
-        "grant",
-        "travel"
-      ],
-      "field": [
-        "middle_east_studies"
-      ],
-      "funding": [
-        "$350"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.693914+00:00"
-  },
-  {
-    "id": "b2663870d2d1",
-    "name": "GSAS Fellowships",
-    "description": "GSAS administers a number of fellowships internally.",
-    "url": "https://www.gsas.columbia.edu/content/internal-fellowships",
-    "source": "Middle East Institute",
-    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
-    "tags": {
-      "type": [
-        "fellowship"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.694100+00:00"
-  },
-  {
-    "id": "5d67b6314601",
-    "name": "Fulbright",
-    "description": "Program eligibility and selection procedures vary widely by country. Please see the MEI\u2019s Fulbright Information page for helpful information.",
-    "url": "https://www.mei.columbia.edu/fulbright",
-    "source": "Middle East Institute",
-    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
-    "tags": {},
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.694190+00:00"
-  },
-  {
-    "id": "ffffe58994d5",
-    "name": "Additional External Fellowships",
-    "description": "MEI curates a list of available scholarships pertinent to the interdisciplinary study of the Middle East and North Africa.",
-    "url": "https://www.mei.columbia.edu/external-fellowships",
-    "source": "Middle East Institute",
-    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
-    "tags": {
-      "type": [
-        "fellowship",
-        "scholarship"
-      ],
-      "field": [
-        "middle_east_studies"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.694260+00:00"
-  },
-  {
-    "id": "1cdcbcafd322",
-    "name": "The Columbia University Scholarship for Displaced Students (CUSDS)",
-    "description": "Supports displaced students from anywhere in the world. Applicants must be able to provide documentation of their displaced status, and students awarded funding will receive partial or full tuition, and potentially assistance with living expenses while pursuing a graduate degree at Columbia. Eligible students should apply at the same time that they submit their application for a Columbia graduate program.",
-    "url": "https://globalcenters.columbia.edu/CUSDS",
-    "source": "Columbia - Columbia Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "scholarship"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.995359+00:00"
-  },
-  {
-    "id": "735eff5502ea",
-    "name": "Edward W. Said Fellows",
-    "description": "Named in his honor, Edward W. Said Fellows receive a $5,000 research fellowship award that is intended to offset the financial costs of consulting the Edward W. Said Papers in the Rare Book and Manuscript Library at Columbia University. Researchers early in their careers whose scholarship speaks across disciplinary boundaries, promotes humanistic inquiry in the service of intercultural communication and understanding, and addresses pressing global issues in the public sphere are especially encou",
-    "url": "https://sofheyman.org/fellowships/edward-w-said",
-    "source": "Columbia Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship",
-        "scholarship",
-        "research"
-      ],
-      "field": [
-        "humanities"
-      ],
-      "funding": [
-        "$5,000"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.995626+00:00"
-  },
-  {
-    "id": "14c065723762",
-    "name": "Harriman Institute for Russian, Eurasian and East European Studies",
-    "description": "The Harriman Institute awardsa number of student fellowships every year to students interested in conducting research on Russia, Eurasia and Eastern Europe.",
-    "url": "https://harriman.columbia.edu/graduate-funding/",
-    "source": "Columbia - Columbia Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship",
-        "research"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.995724+00:00"
-  },
-  {
-    "id": "75ae90c6df92",
-    "name": "The Institute for Israel and Jewish Studies",
-    "description": "The IIJS is pleased to provide funding for graduate students in the form of named fellowships as well as grants. Funding is available to students throughout the academic year; for summer travel related to research; and for travel grants for students presenting research at academic or professional conferences. Priority for funding will be given to students who are active participants of IIJS programming (an expectation of grantees).",
-    "url": "https://www.iijs.columbia.edu/funding",
-    "source": "Columbia - Columbia Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "type": [
-        "fellowship",
-        "grant",
-        "research",
-        "travel"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.995862+00:00"
-  },
-  {
-    "id": "35e49ed0599a",
-    "name": "Institute for Religion, Culture and Public Life",
-    "description": "IRCPL Summer Research Fellowships are available to Columbia University students for research related to the completion of their dissertation or other research projects. The fellowship provides each student a maximum of $4,000 to cover expenses directly related to their research, including travel, lodging, and materials. Make sure to check IRCPL\u2019s website for updates.",
-    "url": "https://www.ircpl.columbia.edu/summer-research-fellowships",
-    "source": "Columbia - Columbia Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "type": [
-        "fellowship",
-        "research",
-        "travel"
-      ],
-      "funding": [
-        "$4,000"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.996011+00:00"
-  },
-  {
-    "id": "32c795abd2db",
-    "name": "Interschool Fellowships at Columbia",
-    "description": "To receive these need-based awards, which range in amount from $1,000 to $5,000, students must be enrolled in anArts and Sciencesgraduate program, and must meet the requirements of the relevant fellowship. The online application will include a list of all available fellowships and their respective requirements.",
-    "url": "https://shibboleth.columbia.edu/idp/DFormsLogin.jsp?Clear=Y&templateID=b55a6970-74db-4a96-999c-d762fed6457a",
-    "source": "Columbia - Columbia Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship"
-      ],
-      "funding": [
-        "$1,000",
-        "$5,000,"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.996127+00:00"
-  },
-  {
-    "id": "3997923f1d99",
-    "name": "Mellon Fellowship Program",
-    "description": "In partnership with the Andrew W. Mellon Foundation, Columbia Global Centers (Amman) has established the Mellon Fellowship Program to support emerging displaced scholars working in the humanities and humanistic social sciences. The goal of the program is to create opportunities for scholars to reintegrate into academia and resume their academic pursuits.",
-    "url": "https://globalcenters.columbia.edu/content/mellon-fellowship-program-0",
-    "source": "Columbia - Columbia Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "fellowship"
-      ],
-      "field": [
-        "humanities",
-        "social_sciences"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.996284+00:00"
-  },
-  {
-    "id": "7d00ed636330",
-    "name": "Public Humanities Graduate Fellows",
-    "description": "The Society of Fellows and Heyman Center for the Humanities provides funded opportunities for graduate students to explore the public dimensions of their work. While each fellowship has distinct features and requirements, during the funding period, students work closely with at least one community organization, participate in methods workshops, and present their projects in theBuilding Publicsseries.",
-    "url": "https://sofheyman.org/fellowships/public-humanities-graduate-fellows",
-    "source": "Columbia Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "type": [
-        "fellowship"
-      ],
-      "field": [
-        "humanities"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.996474+00:00"
-  },
-  {
-    "id": "bc5d3f10454a",
-    "name": "American Association of University Women Fellowships and Grants",
-    "description": "Provides funding to women who hold a bachelor\u2019s degree and are preparing to advance or change careers or reenter the workforce. Primary consideration is given to women of color and women pursuing their first advanced degree or credentials in nontraditional fields. Applicants must be U.S. citizens or permanent residents whose last degree was received four years previously. Funds are available for tuition, fees, books, supplies, local transportation, and dependent care.",
-    "url": "https://www.aauw.org/resources/programs/fellowships-grants/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "us_citizen",
-        "permanent_resident"
-      ],
-      "type": [
-        "fellowship",
         "grant"
       ]
     },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.996686+00:00"
-  },
-  {
-    "id": "7cc4947d8056",
-    "name": "American Association of University Women International Fellowships",
-    "description": "The fellowships are awarded for full-time study or research in the United States to women who are not U.S. citizens or permanent residents. Both graduate and postgraduate studies at accredited U.S. institutions are supported. Applicants must have earned the equivalent of a U.S. bachelor\u2019s degree and must have applied to their proposed institutions of study by the time of the application. Recipients are selected for academic achievement and demonstrated commitment to women and girls. Recipients r",
-    "url": "https://www.aauw.org/what-we-do/educational-funding-and-awards/international-fellowships/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international",
-        "permanent_resident"
-      ],
-      "type": [
-        "fellowship",
-        "research"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.996891+00:00"
-  },
-  {
-    "id": "52d2af971a79",
-    "name": "American Councils for International Education",
-    "description": "ACIE believes in the fundamental role of education in fostering positive change for individuals, institutions, and societies. The organization has focused its expertise on academic exchange, professional training, distance learning, curriculum and test development, delivery of technical assistance, research, evaluation, and institution building.",
-    "url": "https://www.americancouncils.org",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "research"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.997025+00:00"
-  },
-  {
-    "id": "7040e90fa653",
-    "name": "The American Academic Research Institute for Research in Iraq (AARIIT)",
-    "description": "AARIIT hosts two fellowship programs, one for citizens of Iraq, and one for U.S. citizens. Both competitions have strict eligibility requirements that must be met before applications may be submitted. Before inquiring about a fellowship program, please be sure that you meet the requirements for the program in which you are interested.",
-    "url": "https://www.tarii.org",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "us_citizen"
-      ],
-      "type": [
-        "fellowship",
-        "research"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.997147+00:00"
-  },
-  {
-    "id": "b2b6c84d6f08",
-    "name": "American Institute for Iranian Studies",
-    "description": "AIRS supports a number of fellowships for scholars of Iranian studies and the Persian language.American Institute for Maghrib StudiesOffers a number of fellowships for Maghrebi scholars, as well as grants for scholars and graduate students conducting research in North Africa.The American Institute for Yemeni Studies (AIYS)AIYS Fellowship for Study and Research in Yemen offers two separate competitions for fellowship programs of in-country residence and research in Yemen, one for U.S. citizens an",
-    "url": "https://www.simorgh-aiis.org",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "citizenship": [
-        "us_citizen"
-      ],
-      "type": [
-        "fellowship",
-        "grant",
-        "research",
-        "travel",
-        "language"
-      ],
-      "field": [
-        "middle_east_studies",
-        "humanities",
-        "social_sciences"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.997493+00:00"
-  },
-  {
-    "id": "c643ead14011",
-    "name": "The Beinecke Scholarship Program",
-    "description": "The program seeks to encourage and enable highly motivated students to pursue opportunities available to them and to be courageous in the selection of a graduate course of study in the arts, humanities and social sciences. Each scholar receives $4,000 immediately prior to entering graduate school and an additional $30,000 while attending graduate school. There are no geographic restrictions on the use of the scholarship, and recipients are allowed to supplement the award with other scholarships,",
-    "url": "http://fdnweb.org/beinecke/program/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "undergraduate"
-      ],
-      "type": [
-        "scholarship",
-        "grant",
-        "research"
-      ],
-      "field": [
-        "humanities",
-        "social_sciences"
-      ],
-      "funding": [
-        "$4,000",
-        "$30,000"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.997705+00:00"
-  },
-  {
-    "id": "478f45aa5370",
-    "name": "Council on Foreign Relations",
-    "description": "Council on Foreign Relations (CFR) fellowships offer unique opportunities for U.S. citizens with a demonstrated commitment to a career in foreign policy to gain experience in a new environment. Selected fellows broaden their perspective of foreign affairs either by pursuing work in a policymaking setting or research in an academic environment. CFR is committed to fostering a foreign policy community in the United States that is more representative of American society as a whole. Eligibility crit",
-    "url": "https://www.cfr.org/fellowships",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international",
-        "us_citizen"
-      ],
-      "type": [
-        "fellowship",
-        "research"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.997902+00:00"
-  },
-  {
-    "id": "9d5e116fb278",
-    "name": "David L. Boren Awards for International Travel",
-    "description": "Provides funding for U.S. graduate students to study in world regions critical to U.S. interests, including Africa, Asia, Central & Eastern Europe, Eurasia, Latin America, and the Middle East. In exchange for funding, recipients commit to working in the federal government for a minimum of one year. The applications are now available. These fellowships are open to graduate students of all U.S. universities.",
-    "url": "http://www.borenawards.org",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "fellowship",
-        "travel"
-      ],
-      "field": [
-        "middle_east_studies"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.998104+00:00"
-  },
-  {
-    "id": "5e9a1c5a986a",
-    "name": "The Davis-Putter Scholarship Fund",
-    "description": "The fund aids people active in movements for social and economic justice. These need-based scholarships are awarded to students who are able to do academic work at the college or university level or are enrolled in a trade or technical program and who are active in the progressive movement. Recent grantees have been active in the struggle against racism, sexism, homophobia and other forms of oppression; building the movement for economic justice; and creating peace through international anti-imp",
-    "url": "https://www.davisputter.org",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "scholarship",
-        "grant"
-      ],
-      "funding": [
-        "$15,000"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.998402+00:00"
-  },
-  {
-    "id": "043cb6be13f9",
-    "name": "Donald M. Payne International Development Graduate Fellowship Program",
-    "description": "The program is intended for students in graduate school who are also interested in a career in the foreign service of the U.S. Agency for International Development. Payne Fellows work on the front lines of some of the most pressing global challenges including poverty, hunger, injustice, disease, environmental degradation, climate change, conflict and violent extremism and join USAID once they complete the program.",
-    "url": "http://www.paynefellows.org/?areaid=2&contentid=941",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "fellowship"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.998615+00:00"
-  },
-  {
-    "id": "8a39f45834b2",
-    "name": "Echoing Green Public Service Fellowships",
-    "description": "The fellowship provides funding to conduct public service projects anywhere in the world. The support is available for up to two years.",
-    "url": "http://www.echoinggreen.org/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.998742+00:00"
-  },
-  {
-    "id": "178c5fee19ba",
-    "name": "Fulbright Foreign Student Program",
-    "description": "The Fulbright Foreign Student Program enables graduate students, young professionals and artists from abroad to study and conduct research in the United States. The Fulbright Foreign Student Program operates in more than 160 countries worldwide. Approximately 4,000 foreign students receive Fulbright scholarships each year.*Only the Columbia portion of the Columbia/AKU-ISMC Dual MA Program is Fulbright eligible.",
-    "url": "https://foreign.fulbrightonline.org/about/foreign-student-program",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "scholarship",
-        "research"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.998919+00:00"
-  },
-  {
-    "id": "3cfd321b9cc3",
-    "name": "Humboldt Research Fellowship Program",
-    "description": "The fellowship promotes academic cooperation between scientists and scholars from Germany and abroad. The research fellowships and awards allow researchers to come to Germany to work on a project, they have chosen themselves, in cooperation with a German host and collaborative partner.",
-    "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship",
-        "research"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.999073+00:00"
-  },
-  {
-    "id": "7eaf06a2d183",
-    "name": "Indspire",
-    "description": "Indspire offers scholarships and awards to Canadian First Nations, Inuit and M\u00e9tis students for Post-Secondary Education. There is one application for all of Indspire\u2019s bursaries, scholarships, and awards.",
-    "url": "https://indspire.ca/programs/students/bursaries-scholarships/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "scholarship"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.999368+00:00"
-  },
-  {
-    "id": "8b60985ad332",
-    "name": "International Research and Exchange Board",
-    "description": "The International Research and Exchange Board is an international nonprofit organization providing leadership and innovative programs to improve the quality of education, strengthen independent media and foster pluralistic civil society.",
-    "url": "http://www.irex.org/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "research"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.999598+00:00"
-  },
-  {
-    "id": "013afbfb9c15",
-    "name": "Islamic Scholarship Fund",
-    "description": "The mission of the Islamic Scholarship Fund is to increase \"American Muslim representation in media and politics in order to improve public opinion and policy.\" ISF awards merit scholarships to U.S. citizens and permanent residents attending graduate school in policy, media, law or film, who are Muslim or are an active member of the Muslim community. Applications generally open in November or December and are due between late March and early April.",
-    "url": "https://islamicscholarshipfund.org",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "us_citizen",
-        "permanent_resident"
-      ],
-      "type": [
-        "scholarship"
-      ],
-      "field": [
-        "middle_east_studies"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:00.999927+00:00"
-  },
-  {
-    "id": "65dbdb9f6e62",
-    "name": "Mellon Foundation Regranting and Fellowship Programs",
-    "description": "In addition to its regular Higher Learning grantmaking, Mellon provides funding for competitive fellowships and awards. It also hosts theSawyer Seminarsand theNew Directions Fellowship.",
-    "url": "https://mellon.org/programs/higher-learning/regranting-programs/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship",
-        "grant"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.000255+00:00"
-  },
-  {
-    "id": "8a9bc79f6b2f",
-    "name": "Open Society Foundations",
-    "description": "The Open Society Foundations award grants and fellowships throughout the year to organizations and individuals who share Open Society values. We look for grantees who have a vision and whose efforts will lead to lasting social change. The vast majority of our grants are awarded to organizations that we approach directly, but we do list some open opportunities below. Other funding opportunities are available through Open Society\u2019s network of national and regional foundations.",
-    "url": "https://www.opensocietyfoundations.org/grants",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship",
-        "grant"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.000501+00:00"
-  },
-  {
-    "id": "836e3efac180",
-    "name": "Oxford Centre for Islamic Studies",
-    "description": "Visiting Fellowships are awarded annually to enable scholars or writers with academic interests in the Islamic world to spend an extended period of independent study and research at Oxford.Palestinian American Resource CenterThe Palestinian American Research Center (PARC) awards a number of fellowships every year. They offer two research fellowships for scholars of Palestine and a travel seminar competition for scholars who are not Palestine experts but who are eager to learn more about Palestin",
-    "url": "https://www.oxcis.ac.uk/visiting-fellowships",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship",
-        "research",
-        "travel"
-      ],
-      "field": [
-        "middle_east_studies"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.000698+00:00"
-  },
-  {
-    "id": "c9b977ab6923",
-    "name": "The Paul & Daisy Soros Fellowships for New Americans",
-    "description": "The program honors the contributions of immigrants and children of immigrants to the United States. Each year, we invest in the graduate education of 30 New Americans\u2014immigrants and children of immigrants\u2014who are poised to make significant contributions to US society, culture or their academic field. Each Fellow receives up to $90,000 in financial support over two years, and they join a lifelong community of New American Fellows.",
-    "url": "https://www.pdsoros.org/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "fellowship",
-        "grant"
-      ],
-      "funding": [
-        "$90,000"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.000881+00:00"
-  },
-  {
-    "id": "e85a1ac1da66",
-    "name": "P.E.O. International",
-    "description": "P.E.O. International promotes educational opportunities for women. The Sisterhood proudly sponsors no less than five international philanthropies, or projects, designed to assist women with their educational goals.",
-    "url": "http://www.peointernational.org/",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.000996+00:00"
-  },
-  {
-    "id": "ec20bb09af20",
-    "name": "The Thomas R. Pickering Fellowship Program",
-    "description": "This is a U.S. Department of State funded and Washington Center for Internships and Academic Seminars administered fellowship. The fellowship provides graduate students with financial support, mentoring and professional development to prepare them academically and professionally for a career with the U.S. Department of State. Women, members of minority groups historically underrepresented in the Foreign Service, and students with financial need are encouraged to apply.",
-    "url": "https://pickeringfellowship.org",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "fellowship"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.001162+00:00"
-  },
-  {
-    "id": "4c6abdf3cee0",
-    "name": "Rotary International",
-    "description": "Rotary aims to enable members to advance world understanding, goodwill, and peace through the improvement of health, the support of education, and the alleviation of poverty. The division, in conjunction with Rotarians, Rotary clubs, and Rotary districts, provides its assistance through scholarship, fellowship, and grant processes.",
-    "url": "https://www.rotary.org/en/our-programs",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "fellowship",
-        "scholarship",
-        "grant"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.001422+00:00"
-  },
-  {
-    "id": "4634f619fe8a",
-    "name": "US Dept of StateCritical Language Scholarships For Intensive Summer Institutes",
-    "description": "This scholarship will provide funding for U.S. citizens, including undergraduates, Master\u2019s and Ph.D. students, and recent graduates to participate in beginning, intermediate and/or advanced level summer language programs at American Overseas Research Centers and affiliated partners.US Dept of State and the Council of American Overseas Research CentersThe Multi-Country Research Fellowship enables US scholars to carry out trans-regional and comparative research in countries across the network of ",
-    "url": "http://www.clscholarship.org",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "level": [
-        "undergraduate",
-        "graduate"
-      ],
-      "citizenship": [
-        "us_citizen"
-      ],
-      "type": [
-        "fellowship",
-        "scholarship",
-        "grant",
-        "research",
-        "language"
-      ],
-      "field": [
-        "humanities",
-        "social_sciences"
-      ],
-      "funding": [
-        "$12,600"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.001816+00:00"
-  },
-  {
-    "id": "3573c5c5aac5",
-    "name": "Woodrow Wilson Center Fellowships in Humanities and Social Sciences",
-    "description": "This awards approximately 20-25 residential fellowships annually to individuals with outstanding project proposals in a broad range of the social sciences and humanities on national and/or international issues. Topics and scholarship should relate to key public policy challenges or provide the historical and/or cultural framework to illuminate policy issues of contemporary importance.",
-    "url": "https://www.wilsoncenter.org/fellowship-application",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "citizenship": [
-        "international"
-      ],
-      "type": [
-        "fellowship",
-        "scholarship"
-      ],
-      "field": [
-        "humanities",
-        "social_sciences"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.002068+00:00"
-  },
-  {
-    "id": "739b058fca05",
-    "name": "Women in Defense Horizons Scholarship",
-    "description": "The scholarship is intended for women interested in pursuing a career related to U.S. national security and defense. Open to college juniors and above, including those in graduate school, awards are based on academic achievement, participation in defense and national security activities, field of study, work experience, statements of objectives, recommendations and financial need.",
-    "url": "https://www.womenindefense.net/widscholar/apply-for-scholarship",
-    "source": "External Funding Opportunities",
-    "source_url": "https://www.mei.columbia.edu/external-fellowships",
-    "tags": {
-      "type": [
-        "scholarship"
-      ]
-    },
-    "deadline": null,
-    "scraped_at": "2026-01-02T22:42:01.002397+00:00"
+    "deadline": "2026-01-20",
+    "deadline_display": null,
+    "scraped_at": "2026-01-03T03:33:41.640688+00:00"
   },
   {
     "id": "96a935b3cabc",
@@ -834,7 +46,9 @@
     },
     "deadline": "2025-04-04",
     "deadline_display": "April 4, 2025",
-    "scraped_at": "2026-01-03T02:13:44.708722+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:46.227230+00:00"
   },
   {
     "id": "8e127ee2959f",
@@ -863,7 +77,9 @@
     },
     "deadline": "2025-10-26",
     "deadline_display": "October 26, 2025",
-    "scraped_at": "2026-01-03T02:13:45.149362+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:46.562807+00:00"
   },
   {
     "id": "ffec27a8013f",
@@ -892,7 +108,9 @@
     },
     "deadline": "2026-01-01",
     "deadline_display": "January 1, 2026",
-    "scraped_at": "2026-01-03T02:13:45.550549+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:46.951920+00:00"
   },
   {
     "id": "9dbb3bd6f694",
@@ -924,7 +142,9 @@
     },
     "deadline": "2025-03-31",
     "deadline_display": "March 31, 2025",
-    "scraped_at": "2026-01-03T02:13:45.945664+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:47.316305+00:00"
   },
   {
     "id": "4b3931215254",
@@ -953,7 +173,9 @@
     },
     "deadline": "2025-02-17",
     "deadline_display": "February 17, 2025",
-    "scraped_at": "2026-01-03T02:13:46.274265+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:47.641052+00:00"
   },
   {
     "id": "fa730d69b5a2",
@@ -981,7 +203,9 @@
     },
     "deadline": "2026-02-18",
     "deadline_display": "February 18, 2026",
-    "scraped_at": "2026-01-03T02:13:46.634013+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:48.115990+00:00"
   },
   {
     "id": "a75b3a49c4b7",
@@ -1010,7 +234,9 @@
     },
     "deadline": "2025-06-30",
     "deadline_display": "June 30, 2025",
-    "scraped_at": "2026-01-03T02:13:47.102721+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:48.489719+00:00"
   },
   {
     "id": "e8f2c946f388",
@@ -1044,7 +270,9 @@
     },
     "deadline": "2025-09-30",
     "deadline_display": "September 30, 2025",
-    "scraped_at": "2026-01-03T02:13:47.489532+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:48.839522+00:00"
   },
   {
     "id": "81ec01fa0a45",
@@ -1075,7 +303,9 @@
     },
     "deadline": "2025-09-30",
     "deadline_display": "September 30, 2025",
-    "scraped_at": "2026-01-03T02:13:47.970104+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:49.386583+00:00"
   },
   {
     "id": "46bcf3f93111",
@@ -1105,7 +335,9 @@
     },
     "deadline": "2026-04-15",
     "deadline_display": "April 15, 2026",
-    "scraped_at": "2026-01-03T02:13:48.310096+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:49.686571+00:00"
   },
   {
     "id": "38fd10a3785b",
@@ -1138,7 +370,9 @@
     },
     "deadline": "2026-01-16",
     "deadline_display": "January 16, 2026",
-    "scraped_at": "2026-01-03T02:13:48.690410+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:50.084853+00:00"
   },
   {
     "id": "b4a6585f48aa",
@@ -1172,7 +406,9 @@
     },
     "deadline": "2025-02-15",
     "deadline_display": "February 15, 2025",
-    "scraped_at": "2026-01-03T02:13:49.115661+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:50.449524+00:00"
   },
   {
     "id": "717c26aa3b0e",
@@ -1199,7 +435,9 @@
     },
     "deadline": "2025-07-02",
     "deadline_display": "July 2, 2025",
-    "scraped_at": "2026-01-03T02:13:49.546534+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:50.770777+00:00"
   },
   {
     "id": "c9a0697dde74",
@@ -1224,7 +462,9 @@
     },
     "deadline": "2025-08-01",
     "deadline_display": "August 1, 2025",
-    "scraped_at": "2026-01-03T02:13:49.936431+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:51.265805+00:00"
   },
   {
     "id": "7186a06bef45",
@@ -1255,7 +495,9 @@
     },
     "deadline": "2025-01-12",
     "deadline_display": "January 12, 2025",
-    "scraped_at": "2026-01-03T02:13:50.404849+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:51.667104+00:00"
   },
   {
     "id": "88a624d1a08b",
@@ -1283,7 +525,9 @@
     },
     "deadline": "2025-03-02",
     "deadline_display": "March 2, 2025",
-    "scraped_at": "2026-01-03T02:13:50.793014+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:52.184708+00:00"
   },
   {
     "id": "472d4e5959c3",
@@ -1311,7 +555,9 @@
     },
     "deadline": "2025-02-28",
     "deadline_display": "February 28, 2025",
-    "scraped_at": "2026-01-03T02:13:51.186782+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:52.581789+00:00"
   },
   {
     "id": "13b4607afd1c",
@@ -1344,7 +590,9 @@
     },
     "deadline": "2026-01-11",
     "deadline_display": "January 11, 2026",
-    "scraped_at": "2026-01-03T02:13:51.496432+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:52.904783+00:00"
   },
   {
     "id": "bdfc7ce65f19",
@@ -1373,7 +621,9 @@
     },
     "deadline": "2025-01-17",
     "deadline_display": "January 17, 2025",
-    "scraped_at": "2026-01-03T02:13:51.877343+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:53.357197+00:00"
   },
   {
     "id": "c70ad4c93a3c",
@@ -1401,7 +651,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:13:52.578676+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:54.053091+00:00"
   },
   {
     "id": "7aea42b4e1e5",
@@ -1431,7 +683,9 @@
     },
     "deadline": "2026-01-31",
     "deadline_display": "January 31, 2026",
-    "scraped_at": "2026-01-03T02:13:53.110359+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:54.490187+00:00"
   },
   {
     "id": "e6a24bc45809",
@@ -1457,7 +711,9 @@
     },
     "deadline": "2017-11-17",
     "deadline_display": "November 17, 2017",
-    "scraped_at": "2026-01-03T02:13:54.368610+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:55.894695+00:00"
   },
   {
     "id": "7857238023b0",
@@ -1486,7 +742,9 @@
     },
     "deadline": "2025-02-28",
     "deadline_display": "February 28, 2025",
-    "scraped_at": "2026-01-03T02:13:54.785284+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:56.276227+00:00"
   },
   {
     "id": "2a75326d74f2",
@@ -1522,7 +780,9 @@
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
-    "scraped_at": "2026-01-03T02:13:55.163883+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:56.699331+00:00"
   },
   {
     "id": "11128e244b31",
@@ -1549,7 +809,9 @@
     },
     "deadline": "2026-02-01",
     "deadline_display": "February 1, 2026",
-    "scraped_at": "2026-01-03T02:13:55.645264+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:57.034509+00:00"
   },
   {
     "id": "76bfc7519cce",
@@ -1577,7 +839,9 @@
     },
     "deadline": "2025-03-31",
     "deadline_display": "March 31, 2025",
-    "scraped_at": "2026-01-03T02:13:56.033952+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:57.414010+00:00"
   },
   {
     "id": "d1a998d47170",
@@ -1604,7 +868,9 @@
     },
     "deadline": "2025-11-19",
     "deadline_display": "November 19, 2025",
-    "scraped_at": "2026-01-03T02:13:56.413513+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:57.805875+00:00"
   },
   {
     "id": "78239c3043ae",
@@ -1635,7 +901,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:13:57.547776+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:59.228650+00:00"
   },
   {
     "id": "2979bd136c3d",
@@ -1666,7 +934,9 @@
     },
     "deadline": "2025-01-17",
     "deadline_display": "January 17, 2025",
-    "scraped_at": "2026-01-03T02:13:57.961946+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:02:59.661953+00:00"
   },
   {
     "id": "7cad23d1050a",
@@ -1692,7 +962,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:13:58.587116+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:00.353935+00:00"
   },
   {
     "id": "2075b642689e",
@@ -1722,7 +994,9 @@
     },
     "deadline": "2025-10-31",
     "deadline_display": "October 31, 2025",
-    "scraped_at": "2026-01-03T02:13:58.981208+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:00.748308+00:00"
   },
   {
     "id": "cce8ac6f7781",
@@ -1754,7 +1028,9 @@
     },
     "deadline": "2025-10-03",
     "deadline_display": "October 3, 2025",
-    "scraped_at": "2026-01-03T02:13:59.360986+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:01.133028+00:00"
   },
   {
     "id": "f4290ffed669",
@@ -1780,7 +1056,9 @@
     },
     "deadline": "2025-09-30",
     "deadline_display": "September 30, 2025",
-    "scraped_at": "2026-01-03T02:13:59.842735+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:01.479328+00:00"
   },
   {
     "id": "ba98303cca74",
@@ -1806,7 +1084,9 @@
     },
     "deadline": "2025-12-30",
     "deadline_display": "December 30, 2025",
-    "scraped_at": "2026-01-03T02:14:00.251778+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:01.968967+00:00"
   },
   {
     "id": "806454e287a1",
@@ -1838,7 +1118,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:01.439787+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:02.905092+00:00"
   },
   {
     "id": "e818bab01035",
@@ -1866,7 +1148,9 @@
     },
     "deadline": null,
     "deadline_display": "January",
-    "scraped_at": "2026-01-03T02:14:02.365618+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:03.731885+00:00"
   },
   {
     "id": "554bd4b44c18",
@@ -1897,7 +1181,9 @@
     },
     "deadline": "2026-02-26",
     "deadline_display": "February 26, 2026",
-    "scraped_at": "2026-01-03T02:14:02.865458+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:04.142583+00:00"
   },
   {
     "id": "5b2936cb87a4",
@@ -1929,7 +1215,9 @@
     },
     "deadline": "2025-03-15",
     "deadline_display": "March 15, 2025",
-    "scraped_at": "2026-01-03T02:14:03.376514+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:04.440688+00:00"
   },
   {
     "id": "c0c515eb7783",
@@ -1957,7 +1245,9 @@
     },
     "deadline": "2025-10-13",
     "deadline_display": "October 13, 2025",
-    "scraped_at": "2026-01-03T02:14:03.806204+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:04.774244+00:00"
   },
   {
     "id": "0d30edf240d9",
@@ -1987,7 +1277,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:04.535308+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:05.391248+00:00"
   },
   {
     "id": "a651c0b1aa16",
@@ -2015,7 +1307,9 @@
     },
     "deadline": "2026-01-16",
     "deadline_display": "January 16, 2026",
-    "scraped_at": "2026-01-03T02:14:04.924917+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:05.710811+00:00"
   },
   {
     "id": "834ecb106ed7",
@@ -2045,8 +1339,10 @@
       ]
     },
     "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:08.440617+00:00"
+    "deadline_display": "Coming Soon",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:08.039765+00:00"
   },
   {
     "id": "66b7479a90a2",
@@ -2079,7 +1375,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:08.928634+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:08.421108+00:00"
   },
   {
     "id": "a2dedae31022",
@@ -2104,7 +1402,9 @@
     },
     "deadline": "2025-12-15",
     "deadline_display": "December 15, 2025",
-    "scraped_at": "2026-01-03T02:14:09.318009+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:08.837810+00:00"
   },
   {
     "id": "e2e537f02cb5",
@@ -2140,7 +1440,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:09.664535+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:09.349548+00:00"
   },
   {
     "id": "428b18da9f51",
@@ -2173,7 +1475,9 @@
     },
     "deadline": "2025-04-14",
     "deadline_display": "April 14, 2025",
-    "scraped_at": "2026-01-03T02:14:10.074665+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:09.639452+00:00"
   },
   {
     "id": "b9e102340365",
@@ -2208,7 +1512,9 @@
     },
     "deadline": "2025-12-08",
     "deadline_display": "December 8, 2025",
-    "scraped_at": "2026-01-03T02:14:10.557883+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:10.042782+00:00"
   },
   {
     "id": "d73d0589c618",
@@ -2233,7 +1539,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:14:11.024427+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:10.390889+00:00"
   },
   {
     "id": "284b741c040e",
@@ -2261,7 +1569,9 @@
     },
     "deadline": "2025-04-03",
     "deadline_display": "April 3, 2025",
-    "scraped_at": "2026-01-03T02:14:11.368602+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:10.709113+00:00"
   },
   {
     "id": "a602aed2f81d",
@@ -2289,7 +1599,9 @@
     },
     "deadline": "2024-09-19",
     "deadline_display": "September 19, 2024",
-    "scraped_at": "2026-01-03T02:14:11.800276+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:11.191561+00:00"
   },
   {
     "id": "1a7193270c81",
@@ -2320,7 +1632,9 @@
     },
     "deadline": "2025-02-05",
     "deadline_display": "February 5, 2025",
-    "scraped_at": "2026-01-03T02:14:12.258262+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:11.556493+00:00"
   },
   {
     "id": "99be90a9b974",
@@ -2353,7 +1667,9 @@
     },
     "deadline": "2025-12-01",
     "deadline_display": "December 1, 2025",
-    "scraped_at": "2026-01-03T02:14:12.701207+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:12.008301+00:00"
   },
   {
     "id": "0837d7f913c2",
@@ -2381,7 +1697,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:14:13.128000+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:12.452376+00:00"
   },
   {
     "id": "56af6902ad10",
@@ -2407,7 +1725,9 @@
     },
     "deadline": "2025-08-05",
     "deadline_display": "August 5, 2025",
-    "scraped_at": "2026-01-03T02:14:13.644768+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:12.833874+00:00"
   },
   {
     "id": "be7ea65cf1fe",
@@ -2437,7 +1757,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:14.375347+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:13.660922+00:00"
   },
   {
     "id": "5b951aa9a84a",
@@ -2462,7 +1784,9 @@
     },
     "deadline": "2024-06-28",
     "deadline_display": "June 28, 2024",
-    "scraped_at": "2026-01-03T02:14:14.756340+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:14.041849+00:00"
   },
   {
     "id": "8b42a34a8201",
@@ -2490,7 +1814,9 @@
     },
     "deadline": "2025-06-30",
     "deadline_display": "June 30, 2025",
-    "scraped_at": "2026-01-03T02:14:15.286517+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:14.522689+00:00"
   },
   {
     "id": "c037f5bf6190",
@@ -2513,7 +1839,9 @@
     },
     "deadline": "2025-12-02",
     "deadline_display": "December 2, 2025",
-    "scraped_at": "2026-01-03T02:14:15.578583+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:14.861867+00:00"
   },
   {
     "id": "a51f2057fbb5",
@@ -2547,7 +1875,9 @@
     },
     "deadline": "2024-04-14",
     "deadline_display": "April 14, 2024",
-    "scraped_at": "2026-01-03T02:14:15.949050+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:15.268942+00:00"
   },
   {
     "id": "81f88fe9a769",
@@ -2574,7 +1904,9 @@
     },
     "deadline": "2025-03-01",
     "deadline_display": "March 1, 2025",
-    "scraped_at": "2026-01-03T02:14:16.357578+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:15.736388+00:00"
   },
   {
     "id": "805cd40fc3b4",
@@ -2601,7 +1933,9 @@
     },
     "deadline": "2025-02-14",
     "deadline_display": "February 14, 2025",
-    "scraped_at": "2026-01-03T02:14:16.709874+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:16.109571+00:00"
   },
   {
     "id": "5a79e82686f8",
@@ -2629,7 +1963,9 @@
     },
     "deadline": "2025-03-14",
     "deadline_display": "March 14, 2025",
-    "scraped_at": "2026-01-03T02:14:17.039159+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:16.643964+00:00"
   },
   {
     "id": "74e42d8e099d",
@@ -2654,7 +1990,9 @@
     },
     "deadline": "2025-03-21",
     "deadline_display": "March 21, 2025",
-    "scraped_at": "2026-01-03T02:14:17.428126+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:16.979644+00:00"
   },
   {
     "id": "fb88f401135c",
@@ -2686,7 +2024,9 @@
     },
     "deadline": "2025-03-01",
     "deadline_display": "March 1, 2025",
-    "scraped_at": "2026-01-03T02:14:17.840194+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:17.352148+00:00"
   },
   {
     "id": "1995d8960ea1",
@@ -2712,7 +2052,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:18.193002+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:17.746919+00:00"
   },
   {
     "id": "0bd95b6f88df",
@@ -2737,7 +2079,9 @@
     },
     "deadline": "2022-11-01",
     "deadline_display": "November 1, 2022",
-    "scraped_at": "2026-01-03T02:14:18.484187+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:18.197796+00:00"
   },
   {
     "id": "a5613af0be89",
@@ -2767,7 +2111,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:18.813832+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:18.779190+00:00"
   },
   {
     "id": "c82f7160ec25",
@@ -2799,7 +2145,9 @@
     },
     "deadline": "2024-05-31",
     "deadline_display": "May 31, 2024",
-    "scraped_at": "2026-01-03T02:14:19.098997+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:19.094376+00:00"
   },
   {
     "id": "9d2e8257cf95",
@@ -2828,7 +2176,9 @@
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
-    "scraped_at": "2026-01-03T02:14:19.455918+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:19.432968+00:00"
   },
   {
     "id": "72c7ca01de21",
@@ -2858,7 +2208,9 @@
     },
     "deadline": "2025-12-01",
     "deadline_display": "December 1, 2025",
-    "scraped_at": "2026-01-03T02:14:19.782707+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:19.795556+00:00"
   },
   {
     "id": "bc4a196ec9f4",
@@ -2883,7 +2235,9 @@
     },
     "deadline": "2025-01-12",
     "deadline_display": "January 12, 2025",
-    "scraped_at": "2026-01-03T02:14:20.169905+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:20.096537+00:00"
   },
   {
     "id": "0bd2daa6541c",
@@ -2911,7 +2265,9 @@
     },
     "deadline": "2025-11-18",
     "deadline_display": "November 18, 2025",
-    "scraped_at": "2026-01-03T02:14:20.599156+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:20.537123+00:00"
   },
   {
     "id": "490f3996ad6e",
@@ -2943,7 +2299,9 @@
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
-    "scraped_at": "2026-01-03T02:14:21.058676+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:20.973683+00:00"
   },
   {
     "id": "55a66ce04e0b",
@@ -2975,7 +2333,9 @@
     },
     "deadline": "2025-10-31",
     "deadline_display": "October 31, 2025",
-    "scraped_at": "2026-01-03T02:14:21.671426+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:21.392998+00:00"
   },
   {
     "id": "9a91e76e8f6b",
@@ -3007,7 +2367,9 @@
     },
     "deadline": "2025-11-30",
     "deadline_display": "November 30, 2025",
-    "scraped_at": "2026-01-03T02:14:22.065886+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:21.864531+00:00"
   },
   {
     "id": "20d240ccbf95",
@@ -3036,7 +2398,9 @@
     },
     "deadline": "2025-02-15",
     "deadline_display": "February 15, 2025",
-    "scraped_at": "2026-01-03T02:14:22.451839+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:22.203143+00:00"
   },
   {
     "id": "17ce65d91da8",
@@ -3067,7 +2431,9 @@
     },
     "deadline": "2025-03-21",
     "deadline_display": "March 21, 2025",
-    "scraped_at": "2026-01-03T02:14:22.795544+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:22.592546+00:00"
   },
   {
     "id": "55a5e94d90b5",
@@ -3093,7 +2459,9 @@
     },
     "deadline": "2025-12-15",
     "deadline_display": "December 15, 2025",
-    "scraped_at": "2026-01-03T02:14:23.315863+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:22.997995+00:00"
   },
   {
     "id": "ff59fd0f4e36",
@@ -3126,7 +2494,9 @@
     },
     "deadline": "2025-04-01",
     "deadline_display": "April 1, 2025",
-    "scraped_at": "2026-01-03T02:14:23.737584+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:23.279904+00:00"
   },
   {
     "id": "4190316984c6",
@@ -3156,7 +2526,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:24.457595+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:23.993214+00:00"
   },
   {
     "id": "f0dfcf804837",
@@ -3179,7 +2551,9 @@
     },
     "deadline": "2025-03-28",
     "deadline_display": "March 28, 2025",
-    "scraped_at": "2026-01-03T02:14:24.815129+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:24.293948+00:00"
   },
   {
     "id": "0f7ce6b8a4d9",
@@ -3210,7 +2584,9 @@
     },
     "deadline": "2025-01-16",
     "deadline_display": "January 16, 2025",
-    "scraped_at": "2026-01-03T02:14:25.234804+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:24.682368+00:00"
   },
   {
     "id": "1a395ffe295e",
@@ -3238,7 +2614,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:25.628653+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:25.082970+00:00"
   },
   {
     "id": "3a5a3c8ae9e3",
@@ -3271,12 +2649,14 @@
     },
     "deadline": "2025-02-28",
     "deadline_display": "February 28, 2025",
-    "scraped_at": "2026-01-03T02:14:25.951344+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:25.377715+00:00"
   },
   {
     "id": "da253faf3519",
     "name": "Doctorow Fellowship",
-    "description": "Arts and Architecture, Humanities, Social Sciences, STEM",
+    "description": "The Jarvis and Constance Doctorow Fellowship, established in 2005, provides one graduating Columbia College senior annually with funding for one year of post-baccalaureate study at theUniversity of Oxfordin a social science or related field. The Fellow will live atSt. Edmund Hall. Each fellowship provides for direct payment of its recipient\u2019s University and College fees, plus a stipend for travel and living expenses.The selection committee considers academic distinction and the suitability of the proposed course to be the most important considerations in evaluating candidates, but each candidate\u2019s ability to contribute to his or her community in the U.K. will also be considered, as will the potential for the fellowship to be a truly broadening experience.Some preference is also given for c",
     "discipline": "Arts and Architecture, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/doctorow-fellowship",
     "source": "URF",
@@ -3288,7 +2668,8 @@
         "permanent_resident"
       ],
       "type": [
-        "fellowship"
+        "fellowship",
+        "travel"
       ],
       "field": [
         "arts",
@@ -3297,9 +2678,11 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:26.143601+00:00"
+    "deadline": "2025-12-11",
+    "deadline_display": "December 11, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:25.767310+00:00"
   },
   {
     "id": "d557bbdc3411",
@@ -3331,7 +2714,9 @@
     },
     "deadline": "2025-07-08",
     "deadline_display": "July 8, 2025",
-    "scraped_at": "2026-01-03T02:14:26.440383+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:26.133257+00:00"
   },
   {
     "id": "4a65f68c1e7a",
@@ -3359,7 +2744,9 @@
     },
     "deadline": null,
     "deadline_display": "August",
-    "scraped_at": "2026-01-03T02:14:26.870807+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:26.427997+00:00"
   },
   {
     "id": "efd0d99c1b3a",
@@ -3392,7 +2779,9 @@
     },
     "deadline": "2025-01-16",
     "deadline_display": "January 16, 2025",
-    "scraped_at": "2026-01-03T02:14:27.265394+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:26.788798+00:00"
   },
   {
     "id": "de82c05e69ab",
@@ -3422,12 +2811,14 @@
     },
     "deadline": "2025-05-01",
     "deadline_display": "May 1, 2025",
-    "scraped_at": "2026-01-03T02:14:27.622577+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:27.177297+00:00"
   },
   {
     "id": "89313c4b0186",
     "name": "East-West Center Scholarships and Fellowships",
-    "description": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
+    "description": "The East-West Center promotes better relations and understanding among the people and nations of the United States, Asia, and the Pacific through cooperative study, research and dialogue.The East-West Center offers a wide variety of both short- and long-term programs for individuals. Academic scholarships and fellowships as well as educational exchange and professional development programs are available.Programs take place across the globe, and are generally organized around the following themes: Leadership, Pacific Islands, Environment & Climate, Governance, and Arts & Culture.",
     "discipline": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/east-west-center-scholarships-and-fellowships",
     "source": "URF",
@@ -3441,7 +2832,7 @@
       "type": [
         "fellowship",
         "scholarship",
-        "language"
+        "research"
       ],
       "field": [
         "arts",
@@ -3453,12 +2844,14 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:27.776664+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:27.935002+00:00"
   },
   {
     "id": "a87f284ecb95",
     "name": "Echoing Green Global Fellowships",
-    "description": "Arts and Architecture, Humanities, Social Sciences, STEM",
+    "description": "Echoing Green invests in Fellows to help build and shift power in their communities, drive inclusive and intersectional solutions forward, and fuel radical leaps of imagination that transform systems and power social movements.Echoing Green Global Fellowships provide generous support, over two years, to promising social entrepreneurs, giving them start-up capital and technical assistance as they launch their organizations and build the capacity of their social enterprise, anywhere in the world.Each fellowship provides a generous stipend, plus a health insurance stipend and an annual professional development stipend. (Two-person partnerships will receive a slightly larger stipend.)  Echoing Green also provides conferences for fellows, led by organizational and development experts, access to",
     "discipline": "Arts and Architecture, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/echoing-green-global-fellowships",
     "source": "URF",
@@ -3479,9 +2872,11 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:27.929183+00:00"
+    "deadline": "2024-10-08",
+    "deadline_display": "October 8, 2024",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:28.232274+00:00"
   },
   {
     "id": "77196c708907",
@@ -3510,7 +2905,9 @@
     },
     "deadline": "2026-02-14",
     "deadline_display": "February 14, 2026",
-    "scraped_at": "2026-01-03T02:14:28.308105+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:28.527428+00:00"
   },
   {
     "id": "aae57b048411",
@@ -3539,12 +2936,14 @@
     },
     "deadline": "2025-01-15",
     "deadline_display": "January 15, 2025",
-    "scraped_at": "2026-01-03T02:14:28.576375+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:29.011449+00:00"
   },
   {
     "id": "d68c829d07df",
     "name": "Ella Lyman Cabot Trust Grants",
-    "description": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
+    "description": "The Ella Lyman Cabot Trust (ELCT) offers grants to individuals with charitable, religious, artistic, educational, and scientific projects that promote the good of others. Within this general guideline, the trustees pay special attention to how the proposed project will be essential to the applicant\u2019s own growth and development.While there is no formal limit on the size of an individual grant, the trustees expect grants to be in the range of $15,000 per recipient, and do not expect any grant to exceed $25,000.  Grants may not be renewed.ELCT\u2019s interests are broad and not limited to any single area of endeavor or geographical location.  That said, there are certain specific limitations.  The trust does not make grants to institutions, organizations, or group endeavors; it does not offer gran",
     "discipline": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/ella-lyman-cabot-trust-grants",
     "source": "URF",
@@ -3556,8 +2955,11 @@
         "permanent_resident"
       ],
       "type": [
-        "grant",
-        "language"
+        "grant"
+      ],
+      "funding": [
+        "$15,000",
+        "$25,000"
       ],
       "field": [
         "arts",
@@ -3569,7 +2971,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:28.702933+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:30.419559+00:00"
   },
   {
     "id": "f1aef6184071",
@@ -3597,7 +3001,9 @@
     },
     "deadline": "2025-12-01",
     "deadline_display": "December 1, 2025",
-    "scraped_at": "2026-01-03T02:14:28.981307+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:30.822247+00:00"
   },
   {
     "id": "2ba4dff772bb",
@@ -3625,12 +3031,14 @@
     },
     "deadline": null,
     "deadline_display": "January",
-    "scraped_at": "2026-01-03T02:14:30.121243+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:32.430071+00:00"
   },
   {
     "id": "9bf0f5b2583b",
     "name": "Ertegun Graduate Scholarships in the Humanities",
-    "description": "Humanities",
+    "description": "The Ertegun Graduate Scholarships in the Humanities provide full support to students pursuing one-year and two-year full-time master\u2019s degree courses in the humanities at the University of Oxford. Applicants must propose graduate study in a field covered by the following faculties at Oxford:  Classics (including Classical archeology); English Language and Literature; History (including the history of art and the history of architecture); Linguistics, Philology, and Phonetics; Medieval and Modern Languages (covering most European languages and their literatures); Music; Oriental Studies (including Far Eastern and Middle Eastern Studies, and the study of a wide range of languages); Philosophy; and Theology.Each scholarship provides payment of its recipient\u2019s University and College fees plus ",
     "discipline": "Humanities",
     "url": "https://urf.columbia.edu/fellowship/ertegun-graduate-scholarships-humanities",
     "source": "URF",
@@ -3642,7 +3050,8 @@
         "permanent_resident"
       ],
       "type": [
-        "scholarship"
+        "scholarship",
+        "language"
       ],
       "field": [
         "humanities"
@@ -3650,7 +3059,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:30.284109+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:34.022234+00:00"
   },
   {
     "id": "9078e1b2441a",
@@ -3684,7 +3095,9 @@
     },
     "deadline": "2026-01-07",
     "deadline_display": "January 7, 2026",
-    "scraped_at": "2026-01-03T02:14:31.265507+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:34.715624+00:00"
   },
   {
     "id": "dac091a6924e",
@@ -3713,29 +3126,36 @@
     },
     "deadline": "2026-02-01",
     "deadline_display": "February 1, 2026",
-    "scraped_at": "2026-01-03T02:14:31.568706+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:35.056052+00:00"
   },
   {
     "id": "8616b736f7f6",
     "name": "Fast Pitch Competition",
-    "description": "STEM",
+    "description": "Fast Pitch is Columbia Engineering\u2019scampus-wideannual elevator pitch competition where teams have60 secondsto sell their business ideas to a panel of judges to win up to$5,000for their idea.The Fast Pitch competition will help improve your marketing, sales, and promotional capabilities. Teams are judged on their appeal, conciseness, and completeness.",
     "discipline": "STEM",
     "url": "https://urf.columbia.edu/fellowship/fast-pitch-competition",
     "source": "URF",
     "source_url": "https://urf.columbia.edu/opportunity/search",
     "tags": {
+      "funding": [
+        "$5,000"
+      ],
       "field": [
         "stem"
       ]
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:31.727006+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:36.140265+00:00"
   },
   {
     "id": "0b40abcaa3c9",
     "name": "Foreign Affairs Information Technology (FAIT) Fellowship",
-    "description": "STEM",
+    "description": "Funded by the State Department, this two-year fellowship program is a unique opportunity for individuals pursuing an IT-related bachelor\u2019s or master\u2019s degree, and who want to use their tech skills to serve diplomacy in the U.S. Foreign Service.The FAIT Fellowship provides academic funding for two years, two summer internships (with stipends), professional development and mentorships, and culminates in an appointment in the Foreign Service as an Information Management Specialist.Program BenefitsForeign Affairs IT Fellows will receive:Annual academic funding for tuition, room and board, books, mandatory fees and some travel expense, for the junior and senior years of undergraduate study, OR a two-year master\u2019s degree program in an IT-related field.Stipends, housing and travel allowances for ",
     "discipline": "STEM",
     "url": "https://urf.columbia.edu/fellowship/foreign-affairs-information-technology-fait-fellowship",
     "source": "URF",
@@ -3749,15 +3169,19 @@
         "us_citizen"
       ],
       "type": [
-        "fellowship"
+        "fellowship",
+        "travel",
+        "internship"
       ],
       "field": [
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:31.875470+00:00"
+    "deadline": "2025-01-07",
+    "deadline_display": "January 7, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:36.477037+00:00"
   },
   {
     "id": "f7a06b0ee09e",
@@ -3787,12 +3211,14 @@
     },
     "deadline": "2025-02-06",
     "deadline_display": "February 6, 2025",
-    "scraped_at": "2026-01-03T02:14:32.176666+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:36.828246+00:00"
   },
   {
     "id": "6ca7ecb80573",
     "name": "Forrest PhD Scholarships",
-    "description": "Arts and Architecture, Humanities, Social Sciences, STEM",
+    "description": "Forrest Scholars break with convention, push at boundaries, and go further than they imagined possible. They are at the forefront of world-leading research in their chosen discipline and their research has the potential to change the world.Forrest PhD Scholarships can be held at any of Western Australia\u2019s five universities, and are open to candidates in all subject areas, and from any country and nationality. The duration of Forrest PhD Scholarships is up to 4 years and the scholarships are offered to those whose proposed doctoral research is innovative and exciting, and have exceptional academic profiles and who have the desire, drive and imagination to undertake doctoral research of the highest standard.All Forrest Scholars will receive a scholarship package which includes fees, stipend,",
     "discipline": "Arts and Architecture, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/forrest-phd-scholarships",
     "source": "URF",
@@ -3808,7 +3234,8 @@
       ],
       "type": [
         "fellowship",
-        "scholarship"
+        "scholarship",
+        "research"
       ],
       "field": [
         "arts",
@@ -3817,14 +3244,16 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:32.331146+00:00"
+    "deadline": "2025-10-19",
+    "deadline_display": "October 19, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:37.221532+00:00"
   },
   {
     "id": "0d2e2a58b499",
     "name": "Freedom and Citizenship Teaching Assistantships and Resident Advisor Positions",
-    "description": "",
+    "description": "Freedom and Citizenship is a nonprofit community engagement program that provides low-income NYC high school students with a political philosophy seminar, college preparedness support and civic engagement opportunities. Each year, the program hires around 15 paid undergraduate TAs who guide students in making the difficult transition from high school to college-level work in the humanities.The program begins in July with an intensive summer seminar modeled on the CC curriculum. Seminar professors include Roosevelt Mont\u00e1s (Columbia) and Humberto Ballesteros (Hostos) and texts include Plato, Aristotle, Thomas Hobbes, John Locke, Frederick Douglass, W. E. B Du Bois, John Dewey and Martin Luther King, Jr, among others. Undergraduate TAs are a crucial part of our program: during the summer they",
     "discipline": "",
     "url": "https://urf.columbia.edu/fellowship/freedom-and-citizenship-teaching-assistantships-and-resident-advisor-positions",
     "source": "URF",
@@ -3834,9 +3263,11 @@
         "undergraduate"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:32.467996+00:00"
+    "deadline": "2025-02-09",
+    "deadline_display": "February 9, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:37.596459+00:00"
   },
   {
     "id": "e2acda948bb1",
@@ -3868,7 +3299,9 @@
     },
     "deadline": "2025-04-01",
     "deadline_display": "April 1, 2025",
-    "scraped_at": "2026-01-03T02:14:32.760994+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:37.956959+00:00"
   },
   {
     "id": "a838cbbb369c",
@@ -3898,12 +3331,14 @@
     },
     "deadline": "2025-09-17",
     "deadline_display": "September 17, 2025",
-    "scraped_at": "2026-01-03T02:14:33.067865+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:38.335342+00:00"
   },
   {
     "id": "68cacb32831e",
     "name": "Fulbright Grants for Study, Research, and English Teaching Assistantships Abroad",
-    "description": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
+    "description": "Fulbright Grants for Study and Research Abroad provide for one year of academic study or research in over 140 countries around the world. Projects may include university coursework, independent library, lab, or field research, classes in a music conservatory or art school, special projects in the social or life sciences, or a combination. Some countries support enrollment in graduate degree programs.Fulbright Grants for English Teaching Assistantships (ETA) provide funding and placements for one year in primary, secondary schools or universities where grantees contribute to English-language instruction.  ETA grants are offered in over 60 countries around the world.  Recipients are expected to propose small research projects or community engagement activities beyond their teaching responsib",
     "discipline": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/fulbright-grants-study-research-and-english-teaching-assistantships-abroad",
     "source": "URF",
@@ -3913,7 +3348,6 @@
         "graduate"
       ],
       "citizenship": [
-        "international",
         "us_citizen"
       ],
       "type": [
@@ -3929,9 +3363,11 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:33.202450+00:00"
+    "deadline": "2025-08-20",
+    "deadline_display": "August 20, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:38.815297+00:00"
   },
   {
     "id": "4a19d7b74b8a",
@@ -3960,12 +3396,14 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:33.793008+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:39.735620+00:00"
   },
   {
     "id": "6fd56cb7f057",
     "name": "Future Leaders in Action (FLIA) Fellowships",
-    "description": "Social Sciences",
+    "description": "Future Leaders in Action (FLIA) place fellows in youth-oriented nonprofit organizations to develop or implement enrichment programs which cultivate their leadership skills.FLIAplaces fellows in youth-oriented nonprofit organizations to develop or implement enrichment programs which cultivate their leadership skills. Fellows work full-time for three months, on-site with a partner on an enrichment program that focuses on one of the following areas: advancing skills for success, promoting public health and protecting the environment.Fellowship positions are available in New York, Portland and Iowa and past partners have included Boys & Girls Clubs, the Fiver Children\u2019s Foundation, Big Brothers Big Sisters and other health-related organizations.During their program, fellows receive remote supp",
     "discipline": "Social Sciences",
     "url": "https://urf.columbia.edu/fellowship/future-leaders-action-flia-fellowships",
     "source": "URF",
@@ -3988,25 +3426,29 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:34.082747+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:40.496797+00:00"
   },
   {
     "id": "6a7388b6d69e",
     "name": "Gates Cambridge Scholarships",
-    "description": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
+    "description": "Gates Cambridge Scholarships are highly competitive full-cost scholarships awarded to outstanding applicants from countries outside the U.K. to pursue a full-time postgraduate degree in any subject available at the University of Cambridge.  The program aims to build a global network of future leaders committed to improving the lives of others. To date, the Gates Cambridge Scholarship has supported over 1,000 scholars from 90 countries.A Gates Cambridge Scholarship covers the full cost of studying at Cambridge, including a maintenance allowance and round-trip airfare to and from the U.K.Applicants can pursue a residential Ph.D., Masters, or M.Litt at the University of Cambridge. Part-time PhD courses are also eligible. Currently enrolled students at Cambridge can apply for a new postgraduat",
     "discipline": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/gates-cambridge-scholarships",
     "source": "URF",
     "source_url": "https://urf.columbia.edu/opportunity/search",
     "tags": {
+      "level": [
+        "graduate"
+      ],
       "citizenship": [
         "international",
         "us_citizen",
         "permanent_resident"
       ],
       "type": [
-        "scholarship",
-        "language"
+        "scholarship"
       ],
       "field": [
         "arts",
@@ -4016,9 +3458,11 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:34.223657+00:00"
+    "deadline": "2025-10-15",
+    "deadline_display": "October 15, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:40.985085+00:00"
   },
   {
     "id": "2f485a5d18b8",
@@ -4050,7 +3494,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:35.367058+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:42.546059+00:00"
   },
   {
     "id": "64f47cda3bba",
@@ -4077,12 +3523,14 @@
     },
     "deadline": "2025-04-15",
     "deadline_display": "April 15, 2025",
-    "scraped_at": "2026-01-03T02:14:35.894646+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:43.044533+00:00"
   },
   {
     "id": "993954db88fb",
     "name": "George William Curtis Prize in Oratory",
-    "description": "Arts and Architecture, Humanities, Social Sciences, STEM",
+    "description": "The 2025 competition will take place on Thursday, May 8, from 3pm-5pm in 202 Hamilton Conference Room.Sign up to participate here!The George William Curtis Prize provides an annual cash prize to Columbia College students who demonstrate excellence in public speaking. The prize was established by Samuel Putnam Avery, class of 1896, an associate of George William Curtis in the work of civil service reform.Participants may sign up to make either an informative speech or a persuasive speech. One prize is awarded in the informative speaking category, and one prize is awarded in the persuasive speaking category. Speeches are made without the use of devices, tools, materials, or notecards.An informative speech should last 4-6 minutes in length; it should educate the audience about a particular su",
     "discipline": "Arts and Architecture, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/george-william-curtis-prize-oratory",
     "source": "URF",
@@ -4095,14 +3543,16 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:36.305476+00:00"
+    "deadline": "2025-04-15",
+    "deadline_display": "April 15, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:43.509768+00:00"
   },
   {
     "id": "0eaff33c4975",
     "name": "German Bundestag - International Parliamentary Scholarships",
-    "description": "Foreign Language Learning, Social Sciences",
+    "description": "Would you like to work at the German Parliament? If you are from Central, Eastern or South Eastern Europe, France, Israel, North America, Latin America, Asia-Pacific or the Arab region, Namibia or South Africa, then the International Parliamentary Scholarship (IPS) at the German Bundestag could give you the opportunity to experience how the Bundestag works over the course of five months, with three of these spent working in a Member's office.Each year, the German Bundestag, in cooperation with the Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin and the Technische Universit\u00e4t Berlin, offers around 120 scholarships to young university graduates from 50 countries. The program runs each year from 1 March to 31 July. The program aims to promote relations between Germany and the partici",
     "discipline": "Foreign Language Learning, Social Sciences",
     "url": "https://urf.columbia.edu/fellowship/german-bundestag-international-parliamentary-scholarships",
     "source": "URF",
@@ -4125,9 +3575,11 @@
         "social_sciences"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:36.508336+00:00"
+    "deadline": "2025-08-31",
+    "deadline_display": "August 31, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:44.064715+00:00"
   },
   {
     "id": "004b3e9265cc",
@@ -4156,7 +3608,9 @@
     },
     "deadline": "2025-10-01",
     "deadline_display": "October 1, 2025",
-    "scraped_at": "2026-01-03T02:14:36.936088+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:44.436770+00:00"
   },
   {
     "id": "a7a38d1a213e",
@@ -4186,7 +3640,9 @@
     },
     "deadline": "2025-03-18",
     "deadline_display": "March 18, 2025",
-    "scraped_at": "2026-01-03T02:14:37.338403+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:44.842245+00:00"
   },
   {
     "id": "ddecbe82d442",
@@ -4209,17 +3665,22 @@
     },
     "deadline": "2025-10-12",
     "deadline_display": "October 12, 2025",
-    "scraped_at": "2026-01-03T02:14:37.638500+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:45.279126+00:00"
   },
   {
     "id": "ef362a0da9e9",
     "name": "Goldwater Scholarships",
-    "description": "STEM",
+    "description": "Goldwater Scholarships provides up to 450 scholarships each year to highly qualified rising juniors and seniors in the sciences, mathematics and engineering who intend to pursue careers in these fields.A program of the Barry M. Goldwater Scholarship and Excellence in Education Foundation,each scholarship covers eligible expenses for undergraduate tuition, fees, books, and room and board, up to a maximum of $7,500 annually.  Junior-level scholarship recipients are eligible for a maximum of two years of scholarship support, and senior-level scholarship recipients are eligible for a maximum of one year of scholarship support.EligibilityA candidate for nomination as a Goldwater Scholar must:Be a full-time matriculated sophomore or junior pursuing a degree at an accredited 2- or 4-year institut",
     "discipline": "STEM",
     "url": "https://urf.columbia.edu/fellowship/goldwater-scholarships",
     "source": "URF",
     "source_url": "https://urf.columbia.edu/opportunity/search",
     "tags": {
+      "level": [
+        "undergraduate"
+      ],
       "citizenship": [
         "us_citizen",
         "permanent_resident"
@@ -4227,13 +3688,18 @@
       "type": [
         "scholarship"
       ],
+      "funding": [
+        "$7,500"
+      ],
       "field": [
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:37.953007+00:00"
+    "deadline": "2025-12-09",
+    "deadline_display": "December 9, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:45.687474+00:00"
   },
   {
     "id": "f27ffb91c638",
@@ -4265,12 +3731,14 @@
     },
     "deadline": "2025-12-08",
     "deadline_display": "December 8, 2025",
-    "scraped_at": "2026-01-03T02:14:38.377232+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:46.155696+00:00"
   },
   {
     "id": "8fc32ed75c42",
     "name": "Graduate Fellowships for Science, Technology, Engineering, and Mathematics Diversity (GFSD)",
-    "description": "STEM",
+    "description": "Formerly known as the National Physical Science Consortium, Graduate Fellowships for STEM Diversity is a partnership between government agencies and laboratories, industry, and higher education. GFSD is open for application by all U.S. citizens regardless of race or gender. GFSD's goal is to increase the number of American citizens with graduate degrees in STEM fields, emphasizing recruitment of a diverse applicant pool.Each year, GFSD awards a number of graduate fellowships for up to six years of graduate study in major research universities in the U.S. Host universities waive tuition and other educational fees for fellows, and GFSD provides stipends of $20,000 per year of support.Supported fields of study may vary each year according to employer considerations, in general GFSD Fellowship",
     "discipline": "STEM",
     "url": "https://urf.columbia.edu/fellowship/graduate-fellowships-science-technology-engineering-and-mathematics-diversity-gfsd",
     "source": "URF",
@@ -4280,25 +3748,34 @@
         "us_citizen"
       ],
       "type": [
-        "fellowship"
+        "fellowship",
+        "research"
+      ],
+      "funding": [
+        "$20,000"
       ],
       "field": [
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:38.505368+00:00"
+    "deadline": "2026-01-15",
+    "deadline_display": "January 15, 2026",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:46.648773+00:00"
   },
   {
     "id": "4ee6699a9d31",
     "name": "GS Summer Research Fellowships",
-    "description": "Arts and Architecture, Humanities, Social Sciences, STEM",
+    "description": "The intent of the GS Summer Research funding is to give students the opportunity to pursue their intellectual goals, gain valuable research experience, and cultivate stronger relationships with academic experts in their field.Awards cannot be used for the completion of formal coursework or structured internships. Fellows will be required to present their research in poster format at the annualUndergraduate Research Symposiumin the Fall, and may be asked to speak at information sessions for interested prospective applicants.Please note, this opportunity funds full-time research (meaning a minimum of 30 hours/week), and is therefore not compatible with coursework.Eligibility is limited to current Columbia General Studies students.Graduating seniors are not eligible. Eligible students may sub",
     "discipline": "Arts and Architecture, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/gs-summer-research-fellowships",
     "source": "URF",
     "source_url": "https://urf.columbia.edu/opportunity/search",
     "tags": {
+      "level": [
+        "undergraduate"
+      ],
       "citizenship": [
         "international",
         "us_citizen",
@@ -4306,7 +3783,8 @@
       ],
       "type": [
         "fellowship",
-        "research"
+        "research",
+        "internship"
       ],
       "field": [
         "arts",
@@ -4317,19 +3795,22 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:38.799695+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:47.039544+00:00"
   },
   {
     "id": "191c29cb0c04",
     "name": "GSAS-Leadership Alliance Summer Research Program",
-    "description": "Humanities, Social Sciences, STEM",
+    "description": "Apply Here!The Graduate School of Arts and Sciences hosts the eight- to ten-week Summer Research Program (SRP) for undergraduates with a demonstrated commitment to diversity and inclusion. Participants conduct graduate-level research under the supervision of a Columbia faculty mentor, approximating the graduate experience through exposure to the mentor/advisee relationship, scholarly research opportunities, and independent living.The aim of the program is to foster a deeper knowledge of the field in question, to hone skills that are necessary for success in doctoral study, and to encourage students to pursue academic careers. SRP does not offer preparation for the professional schools (e.g., business, education, engineering, journalism, medical, law, and social work).There is no charge for",
     "discipline": "Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/gsas-leadership-alliance-summer-research-program",
     "source": "URF",
     "source_url": "https://urf.columbia.edu/opportunity/search",
     "tags": {
       "level": [
-        "undergraduate"
+        "undergraduate",
+        "graduate"
       ],
       "citizenship": [
         "us_citizen",
@@ -4343,11 +3824,17 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$500",
+        "$5,000"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:39.034923+00:00"
+    "deadline": "2025-02-01",
+    "deadline_display": "February 1, 2025",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:47.380859+00:00"
   },
   {
     "id": "1a7f99ec29c7",
@@ -4370,7 +3857,9 @@
     },
     "deadline": "2025-04-30",
     "deadline_display": "April 30, 2025",
-    "scraped_at": "2026-01-03T02:14:39.418295+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:47.781313+00:00"
   },
   {
     "id": "2e51a91822b5",
@@ -4402,7 +3891,9 @@
     },
     "deadline": "2026-03-15",
     "deadline_display": "March 15, 2026",
-    "scraped_at": "2026-01-03T02:14:39.731635+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:48.170058+00:00"
   },
   {
     "id": "ea081174d10e",
@@ -4425,7 +3916,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:14:40.108524+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:48.465883+00:00"
   },
   {
     "id": "42d02cfa136a",
@@ -4456,7 +3949,9 @@
     },
     "deadline": "2025-04-01",
     "deadline_display": "April 1, 2025",
-    "scraped_at": "2026-01-03T02:14:40.584634+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:48.856727+00:00"
   },
   {
     "id": "080a62651edc",
@@ -4487,7 +3982,9 @@
     },
     "deadline": "2025-12-07",
     "deadline_display": "December 7, 2025",
-    "scraped_at": "2026-01-03T02:14:40.986122+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:49.319539+00:00"
   },
   {
     "id": "9331d594a484",
@@ -4520,7 +4017,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:41.555828+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:49.692932+00:00"
   },
   {
     "id": "98ed4e8dd10d",
@@ -4548,7 +4047,9 @@
     },
     "deadline": "2025-06-01",
     "deadline_display": "June 1, 2025",
-    "scraped_at": "2026-01-03T02:14:41.977956+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:50.181321+00:00"
   },
   {
     "id": "bc0184088073",
@@ -4575,7 +4076,9 @@
     },
     "deadline": "2025-03-01",
     "deadline_display": "March 1, 2025",
-    "scraped_at": "2026-01-03T02:14:42.405900+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:50.547044+00:00"
   },
   {
     "id": "a2acc358d2cd",
@@ -4609,7 +4112,9 @@
     },
     "deadline": "2024-12-18",
     "deadline_display": "December 18, 2024",
-    "scraped_at": "2026-01-03T02:14:42.842485+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:50.933518+00:00"
   },
   {
     "id": "3ac675795ae9",
@@ -4647,7 +4152,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:43.363944+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:51.300480+00:00"
   },
   {
     "id": "682be3864e39",
@@ -4677,7 +4184,9 @@
     },
     "deadline": "2025-10-31",
     "deadline_display": "October 31, 2025",
-    "scraped_at": "2026-01-03T02:14:43.734242+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:51.599137+00:00"
   },
   {
     "id": "9d1d1229dc78",
@@ -4705,7 +4214,9 @@
     },
     "deadline": "2026-01-31",
     "deadline_display": "January 31, 2026",
-    "scraped_at": "2026-01-03T02:14:44.275142+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:51.995343+00:00"
   },
   {
     "id": "b99721828db6",
@@ -4734,7 +4245,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:44.666600+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:52.433178+00:00"
   },
   {
     "id": "aa3ee3bc64fe",
@@ -4766,7 +4279,9 @@
     },
     "deadline": "2026-01-09",
     "deadline_display": "January 9, 2026",
-    "scraped_at": "2026-01-03T02:14:44.971073+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:52.813358+00:00"
   },
   {
     "id": "b172aa7d3f1e",
@@ -4794,7 +4309,9 @@
     },
     "deadline": "2025-03-16",
     "deadline_display": "March 16, 2025",
-    "scraped_at": "2026-01-03T02:14:45.456559+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:53.182185+00:00"
   },
   {
     "id": "64e5fd210d57",
@@ -4822,7 +4339,9 @@
     },
     "deadline": "2025-01-10",
     "deadline_display": "January 10, 2025",
-    "scraped_at": "2026-01-03T02:14:45.824764+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:53.558915+00:00"
   },
   {
     "id": "ee84ce0188e1",
@@ -4851,7 +4370,9 @@
     },
     "deadline": "2026-02-03",
     "deadline_display": "February 3, 2026",
-    "scraped_at": "2026-01-03T02:14:46.205241+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:53.951442+00:00"
   },
   {
     "id": "77f5262b12b8",
@@ -4882,7 +4403,9 @@
     },
     "deadline": "2025-03-01",
     "deadline_display": "March 1, 2025",
-    "scraped_at": "2026-01-03T02:14:46.771841+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:54.448113+00:00"
   },
   {
     "id": "c98f55f05597",
@@ -4916,7 +4439,9 @@
     },
     "deadline": "2024-12-06",
     "deadline_display": "December 6, 2024",
-    "scraped_at": "2026-01-03T02:14:47.120977+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:54.751783+00:00"
   },
   {
     "id": "4290ddf655f7",
@@ -4945,7 +4470,9 @@
     },
     "deadline": "2025-04-25",
     "deadline_display": "April 25, 2025",
-    "scraped_at": "2026-01-03T02:14:47.593603+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:55.101505+00:00"
   },
   {
     "id": "8a2f2909a703",
@@ -4974,7 +4501,9 @@
     },
     "deadline": "2026-02-16",
     "deadline_display": "February 16, 2026",
-    "scraped_at": "2026-01-03T02:14:47.970094+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:55.506353+00:00"
   },
   {
     "id": "ee11f767de57",
@@ -5007,7 +4536,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:14:48.501518+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:55.926666+00:00"
   },
   {
     "id": "dd6899a6d776",
@@ -5032,7 +4563,9 @@
     },
     "deadline": "2025-03-01",
     "deadline_display": "March 1, 2025",
-    "scraped_at": "2026-01-03T02:14:48.953701+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:56.213032+00:00"
   },
   {
     "id": "6edc79f996ff",
@@ -5060,7 +4593,9 @@
     },
     "deadline": "2025-06-15",
     "deadline_display": "June 15, 2025",
-    "scraped_at": "2026-01-03T02:14:49.355212+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:56.522342+00:00"
   },
   {
     "id": "6a30be360090",
@@ -5090,7 +4625,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:49.952584+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:56.990863+00:00"
   },
   {
     "id": "297bf436f225",
@@ -5126,7 +4663,9 @@
     },
     "deadline": "2024-07-15",
     "deadline_display": "July 15, 2024",
-    "scraped_at": "2026-01-03T02:14:50.362657+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:57.306598+00:00"
   },
   {
     "id": "cf16ba3b49b4",
@@ -5159,7 +4698,9 @@
     },
     "deadline": "2025-01-15",
     "deadline_display": "January 15, 2025",
-    "scraped_at": "2026-01-03T02:14:50.756881+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:57.637094+00:00"
   },
   {
     "id": "6b261fb29317",
@@ -5187,7 +4728,9 @@
     },
     "deadline": "2025-01-18",
     "deadline_display": "January 18, 2025",
-    "scraped_at": "2026-01-03T02:14:51.133971+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:57.955099+00:00"
   },
   {
     "id": "a9e82b954531",
@@ -5223,7 +4766,9 @@
     },
     "deadline": "2025-03-17",
     "deadline_display": "March 17, 2025",
-    "scraped_at": "2026-01-03T02:14:51.617804+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:58.265384+00:00"
   },
   {
     "id": "e1158cc80c12",
@@ -5254,7 +4799,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:14:51.991227+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:58.628383+00:00"
   },
   {
     "id": "c3c84eb92eb3",
@@ -5283,7 +4830,9 @@
     },
     "deadline": "2025-03-17",
     "deadline_display": "March 17, 2025",
-    "scraped_at": "2026-01-03T02:14:52.340764+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:58.939956+00:00"
   },
   {
     "id": "2809059b3f7a",
@@ -5313,7 +4862,9 @@
     },
     "deadline": "2025-12-09",
     "deadline_display": "December 9, 2025",
-    "scraped_at": "2026-01-03T02:14:52.798615+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:59.302591+00:00"
   },
   {
     "id": "6ab132b3134c",
@@ -5343,7 +4894,9 @@
     },
     "deadline": "2025-03-09",
     "deadline_display": "March 9, 2025",
-    "scraped_at": "2026-01-03T02:14:53.215952+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:03:59.729347+00:00"
   },
   {
     "id": "ae32614cdae0",
@@ -5371,7 +4924,9 @@
     },
     "deadline": "2025-11-14",
     "deadline_display": "November 14, 2025",
-    "scraped_at": "2026-01-03T02:14:53.714632+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:00.156876+00:00"
   },
   {
     "id": "fa819b8411ad",
@@ -5398,7 +4953,9 @@
     },
     "deadline": "2025-02-10",
     "deadline_display": "February 10, 2025",
-    "scraped_at": "2026-01-03T02:14:54.255543+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:00.673760+00:00"
   },
   {
     "id": "614a11813d12",
@@ -5433,7 +4990,9 @@
     },
     "deadline": "2024-01-31",
     "deadline_display": "January 31, 2024",
-    "scraped_at": "2026-01-03T02:14:54.766500+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:01.007903+00:00"
   },
   {
     "id": "1966201b8c32",
@@ -5458,7 +5017,9 @@
     },
     "deadline": "2025-10-08",
     "deadline_display": "October 8, 2025",
-    "scraped_at": "2026-01-03T02:14:55.276835+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:01.391341+00:00"
   },
   {
     "id": "755da4f64bf6",
@@ -5490,7 +5051,9 @@
     },
     "deadline": "2025-12-11",
     "deadline_display": "December 11, 2025",
-    "scraped_at": "2026-01-03T02:14:55.679804+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:01.761651+00:00"
   },
   {
     "id": "56790abb9b95",
@@ -5519,7 +5082,9 @@
     },
     "deadline": "2025-10-08",
     "deadline_display": "October 8, 2025",
-    "scraped_at": "2026-01-03T02:14:56.191596+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:02.282820+00:00"
   },
   {
     "id": "bb6d971af0e0",
@@ -5548,7 +5113,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:14:56.748083+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:02.945445+00:00"
   },
   {
     "id": "395a5adb5d00",
@@ -5579,7 +5146,9 @@
     },
     "deadline": "2024-03-22",
     "deadline_display": "March 22, 2024",
-    "scraped_at": "2026-01-03T02:14:57.214829+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:03.384385+00:00"
   },
   {
     "id": "26b78fe1f6f0",
@@ -5609,7 +5178,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:14:57.536907+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:03.842405+00:00"
   },
   {
     "id": "ae5559c860ef",
@@ -5639,7 +5210,9 @@
     },
     "deadline": "2025-11-30",
     "deadline_display": "November 30, 2025",
-    "scraped_at": "2026-01-03T02:14:57.921588+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:04.151507+00:00"
   },
   {
     "id": "e08f15d4df1b",
@@ -5673,7 +5246,9 @@
     },
     "deadline": null,
     "deadline_display": "October",
-    "scraped_at": "2026-01-03T02:15:00.153975+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:06.321286+00:00"
   },
   {
     "id": "018f96b4e0be",
@@ -5695,7 +5270,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:00.563479+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:06.779510+00:00"
   },
   {
     "id": "6c43e3dcaf58",
@@ -5719,7 +5296,9 @@
     },
     "deadline": "2024-06-15",
     "deadline_display": "June 15, 2024",
-    "scraped_at": "2026-01-03T02:15:00.914552+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:07.163466+00:00"
   },
   {
     "id": "c53fcc751dc5",
@@ -5743,7 +5322,9 @@
     },
     "deadline": "2024-10-27",
     "deadline_display": "October 27, 2024",
-    "scraped_at": "2026-01-03T02:15:01.413170+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:07.523079+00:00"
   },
   {
     "id": "0bfc2cea62e8",
@@ -5773,7 +5354,9 @@
     },
     "deadline": "2025-01-21",
     "deadline_display": "January 21, 2025",
-    "scraped_at": "2026-01-03T02:15:01.736458+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:07.932015+00:00"
   },
   {
     "id": "002bfcda01ce",
@@ -5795,7 +5378,9 @@
     },
     "deadline": "2024-12-30",
     "deadline_display": "December 30, 2024",
-    "scraped_at": "2026-01-03T02:15:02.233854+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:08.353846+00:00"
   },
   {
     "id": "3f59475f71ab",
@@ -5828,9 +5413,11 @@
         "$10,000"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:02.835215+00:00"
+    "deadline": "2026-01-02",
+    "deadline_display": "Closed",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:10.754149+00:00"
   },
   {
     "id": "c6670d2f96c3",
@@ -5865,7 +5452,9 @@
     },
     "deadline": "2026-01-02",
     "deadline_display": "January 2, 2026",
-    "scraped_at": "2026-01-03T02:15:03.725493+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:13.302686+00:00"
   },
   {
     "id": "91b832521893",
@@ -5899,7 +5488,9 @@
     },
     "deadline": "2025-04-06",
     "deadline_display": "April 6, 2025",
-    "scraped_at": "2026-01-03T02:15:04.209059+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:13.617445+00:00"
   },
   {
     "id": "ccbbec1d649b",
@@ -5931,7 +5522,9 @@
     },
     "deadline": "2025-09-15",
     "deadline_display": "September 15, 2025",
-    "scraped_at": "2026-01-03T02:15:04.622975+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:13.973642+00:00"
   },
   {
     "id": "f538d50e5be9",
@@ -5962,7 +5555,9 @@
     },
     "deadline": "2026-02-16",
     "deadline_display": "February 16, 2026",
-    "scraped_at": "2026-01-03T02:15:05.037784+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:14.356186+00:00"
   },
   {
     "id": "2c40cc1c39cf",
@@ -5994,7 +5589,9 @@
     },
     "deadline": "2025-01-15",
     "deadline_display": "January 15, 2025",
-    "scraped_at": "2026-01-03T02:15:05.413050+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:14.648752+00:00"
   },
   {
     "id": "19339d57ce6a",
@@ -6025,7 +5622,9 @@
     },
     "deadline": "2025-04-21",
     "deadline_display": "April 21, 2025",
-    "scraped_at": "2026-01-03T02:15:05.790844+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:15.030853+00:00"
   },
   {
     "id": "cc84f6613970",
@@ -6053,7 +5652,9 @@
     },
     "deadline": "2025-01-24",
     "deadline_display": "January 24, 2025",
-    "scraped_at": "2026-01-03T02:15:06.293652+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:15.384163+00:00"
   },
   {
     "id": "d0af480d3fb6",
@@ -6081,7 +5682,9 @@
     },
     "deadline": "2025-08-05",
     "deadline_display": "August 5, 2025",
-    "scraped_at": "2026-01-03T02:15:06.676551+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:15.685875+00:00"
   },
   {
     "id": "82afa85fa96b",
@@ -6106,7 +5709,9 @@
     },
     "deadline": "2025-02-05",
     "deadline_display": "February 5, 2025",
-    "scraped_at": "2026-01-03T02:15:07.015254+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:16.077623+00:00"
   },
   {
     "id": "f0b6857187db",
@@ -6136,7 +5741,9 @@
     },
     "deadline": "2025-09-24",
     "deadline_display": "September 24, 2025",
-    "scraped_at": "2026-01-03T02:15:07.479732+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:16.421552+00:00"
   },
   {
     "id": "2603f5df678b",
@@ -6167,7 +5774,9 @@
     },
     "deadline": "2025-12-08",
     "deadline_display": "December 8, 2025",
-    "scraped_at": "2026-01-03T02:15:08.040643+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:16.726830+00:00"
   },
   {
     "id": "a739087b7d9a",
@@ -6197,7 +5806,9 @@
     },
     "deadline": "2025-02-03",
     "deadline_display": "February 3, 2025",
-    "scraped_at": "2026-01-03T02:15:08.401817+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:17.017711+00:00"
   },
   {
     "id": "64e3f67fae5d",
@@ -6233,7 +5844,9 @@
     },
     "deadline": null,
     "deadline_display": "May",
-    "scraped_at": "2026-01-03T02:15:10.639480+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:18.250641+00:00"
   },
   {
     "id": "c17d0d1fb02e",
@@ -6262,7 +5875,9 @@
     },
     "deadline": "2025-11-02",
     "deadline_display": "November 2, 2025",
-    "scraped_at": "2026-01-03T02:15:11.031739+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:18.549476+00:00"
   },
   {
     "id": "1e546c4d2c44",
@@ -6291,7 +5906,9 @@
     },
     "deadline": "2025-10-13",
     "deadline_display": "October 13, 2025",
-    "scraped_at": "2026-01-03T02:15:11.442682+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:18.865653+00:00"
   },
   {
     "id": "bec3d721d6a3",
@@ -6317,7 +5934,9 @@
     },
     "deadline": "2025-03-31",
     "deadline_display": "March 31, 2025",
-    "scraped_at": "2026-01-03T02:15:11.961943+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:19.145242+00:00"
   },
   {
     "id": "0752f597b636",
@@ -6350,7 +5969,9 @@
     },
     "deadline": "2025-05-23",
     "deadline_display": "May 23, 2025",
-    "scraped_at": "2026-01-03T02:15:12.395737+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:19.477194+00:00"
   },
   {
     "id": "466ceba0cb9e",
@@ -6383,7 +6004,9 @@
     },
     "deadline": "2025-01-20",
     "deadline_display": "January 20, 2025",
-    "scraped_at": "2026-01-03T02:15:12.798125+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:19.802614+00:00"
   },
   {
     "id": "c541652a653e",
@@ -6415,7 +6038,9 @@
     },
     "deadline": "2026-04-15",
     "deadline_display": "April 15, 2026",
-    "scraped_at": "2026-01-03T02:15:13.118979+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:20.092906+00:00"
   },
   {
     "id": "6130b4d165ff",
@@ -6443,7 +6068,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:14.582174+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:21.206309+00:00"
   },
   {
     "id": "6bfef545b551",
@@ -6477,7 +6104,9 @@
     },
     "deadline": "2024-02-29",
     "deadline_display": "February 29, 2024",
-    "scraped_at": "2026-01-03T02:15:15.109594+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:21.580379+00:00"
   },
   {
     "id": "7d420a7d5577",
@@ -6504,7 +6133,9 @@
     },
     "deadline": "2025-01-15",
     "deadline_display": "January 15, 2025",
-    "scraped_at": "2026-01-03T02:15:15.547310+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:21.886726+00:00"
   },
   {
     "id": "ee4245fad1ff",
@@ -6534,7 +6165,9 @@
     },
     "deadline": "2025-02-01",
     "deadline_display": "February 1, 2025",
-    "scraped_at": "2026-01-03T02:15:15.936670+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:22.220954+00:00"
   },
   {
     "id": "3b1741d641c4",
@@ -6566,7 +6199,9 @@
     },
     "deadline": "2024-05-30",
     "deadline_display": "May 30, 2024",
-    "scraped_at": "2026-01-03T02:15:16.276409+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:22.542996+00:00"
   },
   {
     "id": "20f14a14ae93",
@@ -6584,9 +6219,11 @@
         "$250,000"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:17.263546+00:00"
+    "deadline": "2026-01-02",
+    "deadline_display": "Closed",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:23.250783+00:00"
   },
   {
     "id": "2a13f99b4cb4",
@@ -6619,7 +6256,9 @@
     },
     "deadline": "2025-03-07",
     "deadline_display": "March 7, 2025",
-    "scraped_at": "2026-01-03T02:15:17.660582+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:23.551474+00:00"
   },
   {
     "id": "5f9cedeefbea",
@@ -6645,7 +6284,9 @@
     },
     "deadline": "2025-11-15",
     "deadline_display": "November 15, 2025",
-    "scraped_at": "2026-01-03T02:15:18.150890+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:23.860089+00:00"
   },
   {
     "id": "c7684dc26a4d",
@@ -6668,7 +6309,9 @@
     },
     "deadline": "2025-05-08",
     "deadline_display": "May 8, 2025",
-    "scraped_at": "2026-01-03T02:15:18.491171+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:24.160671+00:00"
   },
   {
     "id": "2c2cd524dabf",
@@ -6700,7 +6343,9 @@
     },
     "deadline": "2025-01-01",
     "deadline_display": "January 1, 2025",
-    "scraped_at": "2026-01-03T02:15:18.882089+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:24.473948+00:00"
   },
   {
     "id": "cbcd900814b1",
@@ -6728,7 +6373,9 @@
     },
     "deadline": "2025-12-02",
     "deadline_display": "December 2, 2025",
-    "scraped_at": "2026-01-03T02:15:20.291864+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:24.779103+00:00"
   },
   {
     "id": "22b4d2086fb0",
@@ -6760,7 +6407,9 @@
     },
     "deadline": "2024-03-29",
     "deadline_display": "March 29, 2024",
-    "scraped_at": "2026-01-03T02:15:20.619139+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:25.064684+00:00"
   },
   {
     "id": "a4878689b327",
@@ -6796,7 +6445,9 @@
     },
     "deadline": "2024-03-01",
     "deadline_display": "March 1, 2024",
-    "scraped_at": "2026-01-03T02:15:21.114256+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:25.373815+00:00"
   },
   {
     "id": "c534558a6e4d",
@@ -6826,7 +6477,9 @@
     },
     "deadline": "2025-11-07",
     "deadline_display": "November 7, 2025",
-    "scraped_at": "2026-01-03T02:15:21.448788+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:25.665711+00:00"
   },
   {
     "id": "48af2c4dbd45",
@@ -6858,7 +6511,9 @@
     },
     "deadline": "2025-11-08",
     "deadline_display": "November 8, 2025",
-    "scraped_at": "2026-01-03T02:15:21.877031+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:25.987908+00:00"
   },
   {
     "id": "610879870e9a",
@@ -6888,7 +6543,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:22.356662+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:26.440645+00:00"
   },
   {
     "id": "7da1a21a0aec",
@@ -6919,9 +6576,11 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:23.435595+00:00"
+    "deadline": "2026-01-02",
+    "deadline_display": "Closed",
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:27.418329+00:00"
   },
   {
     "id": "dd9b63b3c8df",
@@ -6951,7 +6610,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:15:23.759984+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:27.740528+00:00"
   },
   {
     "id": "491399d65ca5",
@@ -6978,7 +6639,9 @@
     },
     "deadline": "2026-01-12",
     "deadline_display": "January 12, 2026",
-    "scraped_at": "2026-01-03T02:15:24.113995+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:28.104973+00:00"
   },
   {
     "id": "8ab7e83dfae4",
@@ -7011,7 +6674,9 @@
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
-    "scraped_at": "2026-01-03T02:15:24.512788+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:28.506823+00:00"
   },
   {
     "id": "f959ef83bfa6",
@@ -7034,7 +6699,9 @@
     },
     "deadline": "2025-12-01",
     "deadline_display": "December 1, 2025",
-    "scraped_at": "2026-01-03T02:15:24.843224+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:28.858242+00:00"
   },
   {
     "id": "5442c7ed39bd",
@@ -7063,7 +6730,9 @@
     },
     "deadline": "2024-12-04",
     "deadline_display": "December 4, 2024",
-    "scraped_at": "2026-01-03T02:15:25.179876+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:29.251273+00:00"
   },
   {
     "id": "7fead1ab1e71",
@@ -7090,7 +6759,9 @@
     },
     "deadline": null,
     "deadline_display": "June",
-    "scraped_at": "2026-01-03T02:15:26.928771+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:30.960391+00:00"
   },
   {
     "id": "7592d6ccf64f",
@@ -7119,7 +6790,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:29.617463+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:33.331588+00:00"
   },
   {
     "id": "ece0374e4096",
@@ -7151,7 +6824,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:33.260908+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:34.646411+00:00"
   },
   {
     "id": "08c5087d5573",
@@ -7179,7 +6854,9 @@
     },
     "deadline": "2025-01-06",
     "deadline_display": "January 6, 2025",
-    "scraped_at": "2026-01-03T02:15:33.598228+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:35.167847+00:00"
   },
   {
     "id": "bb89bda497ec",
@@ -7215,7 +6892,9 @@
     },
     "deadline": "2025-04-01",
     "deadline_display": "April 1, 2025",
-    "scraped_at": "2026-01-03T02:15:33.968331+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:35.674046+00:00"
   },
   {
     "id": "3ba9a6350b1c",
@@ -7240,7 +6919,9 @@
     },
     "deadline": "2024-11-04",
     "deadline_display": "November 4, 2024",
-    "scraped_at": "2026-01-03T02:15:34.413748+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:36.206679+00:00"
   },
   {
     "id": "5cafbce90725",
@@ -7270,7 +6951,9 @@
     },
     "deadline": "2025-03-15",
     "deadline_display": "March 15, 2025",
-    "scraped_at": "2026-01-03T02:15:34.837565+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:36.726025+00:00"
   },
   {
     "id": "6a963b0df3cd",
@@ -7300,7 +6983,9 @@
     },
     "deadline": "2025-01-21",
     "deadline_display": "January 21, 2025",
-    "scraped_at": "2026-01-03T02:15:35.166089+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:37.383206+00:00"
   },
   {
     "id": "526c53056c1a",
@@ -7333,7 +7018,9 @@
     },
     "deadline": "2024-09-26",
     "deadline_display": "September 26, 2024",
-    "scraped_at": "2026-01-03T02:15:35.549493+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:37.908759+00:00"
   },
   {
     "id": "5e57d87e7598",
@@ -7359,7 +7046,9 @@
     },
     "deadline": "2025-02-13",
     "deadline_display": "February 13, 2025",
-    "scraped_at": "2026-01-03T02:15:35.989083+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:38.294934+00:00"
   },
   {
     "id": "eedc1ca91af7",
@@ -7383,7 +7072,9 @@
     },
     "deadline": "2024-11-21",
     "deadline_display": "November 21, 2024",
-    "scraped_at": "2026-01-03T02:15:36.320484+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:39.080524+00:00"
   },
   {
     "id": "f9f7a5f1ed34",
@@ -7411,7 +7102,9 @@
     },
     "deadline": "2025-10-20",
     "deadline_display": "October 20, 2025",
-    "scraped_at": "2026-01-03T02:15:36.689943+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:39.662895+00:00"
   },
   {
     "id": "8bbb37f6d59c",
@@ -7439,7 +7132,9 @@
     },
     "deadline": "2025-03-09",
     "deadline_display": "March 9, 2025",
-    "scraped_at": "2026-01-03T02:15:37.082576+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:40.008796+00:00"
   },
   {
     "id": "4d01eebef9c2",
@@ -7464,7 +7159,9 @@
     },
     "deadline": "2025-02-15",
     "deadline_display": "February 15, 2025",
-    "scraped_at": "2026-01-03T02:15:37.543527+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:40.658590+00:00"
   },
   {
     "id": "320cd44389a4",
@@ -7494,7 +7191,9 @@
     },
     "deadline": "2025-10-27",
     "deadline_display": "October 27, 2025",
-    "scraped_at": "2026-01-03T02:15:37.963731+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:41.154812+00:00"
   },
   {
     "id": "3e463788f6b7",
@@ -7526,7 +7225,9 @@
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
-    "scraped_at": "2026-01-03T02:15:38.300637+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:41.576002+00:00"
   },
   {
     "id": "5ef08c31f818",
@@ -7555,7 +7256,9 @@
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
-    "scraped_at": "2026-01-03T02:15:38.711392+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:41.934361+00:00"
   },
   {
     "id": "780b665330fa",
@@ -7587,7 +7290,9 @@
     },
     "deadline": "2025-03-02",
     "deadline_display": "March 2, 2025",
-    "scraped_at": "2026-01-03T02:15:39.210810+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:42.294678+00:00"
   },
   {
     "id": "efedf0285e3b",
@@ -7621,7 +7326,9 @@
     },
     "deadline": "2025-12-09",
     "deadline_display": "December 9, 2025",
-    "scraped_at": "2026-01-03T02:15:39.532685+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:42.643762+00:00"
   },
   {
     "id": "4d3ef8801ec7",
@@ -7652,7 +7359,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:40.233593+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:43.470133+00:00"
   },
   {
     "id": "9a5a9eba0614",
@@ -7677,7 +7386,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:40.718716+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:44.358278+00:00"
   },
   {
     "id": "4a7ad2fd9d77",
@@ -7711,7 +7422,9 @@
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
-    "scraped_at": "2026-01-03T02:15:41.115247+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:44.789936+00:00"
   },
   {
     "id": "cc362943f677",
@@ -7741,7 +7454,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:46.079009+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:48.774829+00:00"
   },
   {
     "id": "4fbaf462b8f3",
@@ -7770,7 +7485,9 @@
     },
     "deadline": "2026-04-01",
     "deadline_display": "April 1, 2026",
-    "scraped_at": "2026-01-03T02:15:46.599114+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:49.237883+00:00"
   },
   {
     "id": "983f3e15c235",
@@ -7796,7 +7513,9 @@
     },
     "deadline": null,
     "deadline_display": "December",
-    "scraped_at": "2026-01-03T02:15:49.478037+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:51.560565+00:00"
   },
   {
     "id": "ad267f370792",
@@ -7825,7 +7544,9 @@
     },
     "deadline": "2025-01-15",
     "deadline_display": "January 15, 2025",
-    "scraped_at": "2026-01-03T02:15:49.819607+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:51.941092+00:00"
   },
   {
     "id": "3ebd5f9eb654",
@@ -7853,7 +7574,9 @@
     },
     "deadline": "2025-03-03",
     "deadline_display": "March 3, 2025",
-    "scraped_at": "2026-01-03T02:15:50.125440+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:52.304587+00:00"
   },
   {
     "id": "3cb808ac514e",
@@ -7884,7 +7607,9 @@
     },
     "deadline": "2025-07-24",
     "deadline_display": "July 24, 2025",
-    "scraped_at": "2026-01-03T02:15:50.439228+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:52.645339+00:00"
   },
   {
     "id": "be84f532d0e4",
@@ -7917,7 +7642,9 @@
     },
     "deadline": "2025-07-14",
     "deadline_display": "July 14, 2025",
-    "scraped_at": "2026-01-03T02:15:50.761978+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:52.967091+00:00"
   },
   {
     "id": "96fbccae76dd",
@@ -7946,7 +7673,9 @@
     },
     "deadline": "2025-08-05",
     "deadline_display": "August 5, 2025",
-    "scraped_at": "2026-01-03T02:15:51.031760+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:53.321494+00:00"
   },
   {
     "id": "cfe8dee4735b",
@@ -7972,7 +7701,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:51.331471+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:53.634432+00:00"
   },
   {
     "id": "a9a516a01713",
@@ -7997,7 +7728,9 @@
     },
     "deadline": "2024-12-11",
     "deadline_display": "December 11, 2024",
-    "scraped_at": "2026-01-03T02:15:51.650827+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:54.021300+00:00"
   },
   {
     "id": "47a6b13b0adc",
@@ -8028,7 +7761,9 @@
     },
     "deadline": "2024-12-11",
     "deadline_display": "December 11, 2024",
-    "scraped_at": "2026-01-03T02:15:51.952371+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:54.409197+00:00"
   },
   {
     "id": "62c7513ea9ab",
@@ -8064,7 +7799,9 @@
     },
     "deadline": "2025-02-01",
     "deadline_display": "February 1, 2025",
-    "scraped_at": "2026-01-03T02:15:52.246811+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:54.737795+00:00"
   },
   {
     "id": "797e0c51cd68",
@@ -8097,7 +7834,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:52.841843+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:55.565362+00:00"
   },
   {
     "id": "56fe66a4c42a",
@@ -8128,7 +7867,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:53.382903+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:56.302042+00:00"
   },
   {
     "id": "25e479bfbc7a",
@@ -8155,7 +7896,9 @@
     },
     "deadline": "2025-04-14",
     "deadline_display": "April 14, 2025",
-    "scraped_at": "2026-01-03T02:15:53.974604+00:00"
+    "opens": "2023-02-13",
+    "opens_display": "February 13, 2023",
+    "scraped_at": "2026-01-03T06:04:56.708435+00:00"
   },
   {
     "id": "453cd19c4650",
@@ -8178,7 +7921,9 @@
     },
     "deadline": "2025-01-17",
     "deadline_display": "January 17, 2025",
-    "scraped_at": "2026-01-03T02:15:54.411462+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:57.178443+00:00"
   },
   {
     "id": "46e7fb1334fc",
@@ -8205,7 +7950,9 @@
     },
     "deadline": "2025-11-21",
     "deadline_display": "November 21, 2025",
-    "scraped_at": "2026-01-03T02:15:54.862370+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:57.576638+00:00"
   },
   {
     "id": "9480d7bb9849",
@@ -8231,7 +7978,9 @@
     },
     "deadline": "2025-11-07",
     "deadline_display": "November 7, 2025",
-    "scraped_at": "2026-01-03T02:15:55.194420+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:57.905045+00:00"
   },
   {
     "id": "6a435236e2d6",
@@ -8257,7 +8006,9 @@
     },
     "deadline": "2025-09-10",
     "deadline_display": "September 10, 2025",
-    "scraped_at": "2026-01-03T02:15:55.604179+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:58.367896+00:00"
   },
   {
     "id": "c716b4fd4ab5",
@@ -8286,7 +8037,9 @@
     },
     "deadline": "2025-01-08",
     "deadline_display": "January 8, 2025",
-    "scraped_at": "2026-01-03T02:15:55.988697+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:58.728209+00:00"
   },
   {
     "id": "96c9c418b28f",
@@ -8321,7 +8074,9 @@
     },
     "deadline": "2025-12-05",
     "deadline_display": "December 5, 2025",
-    "scraped_at": "2026-01-03T02:15:56.290685+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:59.095543+00:00"
   },
   {
     "id": "1866893617ae",
@@ -8351,7 +8106,9 @@
     },
     "deadline": "2025-10-06",
     "deadline_display": "October 6, 2025",
-    "scraped_at": "2026-01-03T02:15:56.667890+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:59.468723+00:00"
   },
   {
     "id": "a04fe11dc48b",
@@ -8372,7 +8129,9 @@
     },
     "deadline": "2025-02-28",
     "deadline_display": "February 28, 2025",
-    "scraped_at": "2026-01-03T02:15:57.132827+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:04:59.930979+00:00"
   },
   {
     "id": "9b176ca8093c",
@@ -8403,7 +8162,9 @@
     },
     "deadline": "2025-01-22",
     "deadline_display": "January 22, 2025",
-    "scraped_at": "2026-01-03T02:15:57.525803+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:00.315884+00:00"
   },
   {
     "id": "49486c93239e",
@@ -8432,7 +8193,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:15:58.010467+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:00.786635+00:00"
   },
   {
     "id": "3345f1acd1d3",
@@ -8455,7 +8218,9 @@
     },
     "deadline": "2026-01-13",
     "deadline_display": "January 13, 2026",
-    "scraped_at": "2026-01-03T02:15:58.344969+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:01.193818+00:00"
   },
   {
     "id": "52db3d273776",
@@ -8485,7 +8250,9 @@
     },
     "deadline": "2025-11-03",
     "deadline_display": "November 3, 2025",
-    "scraped_at": "2026-01-03T02:15:58.737479+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:01.688185+00:00"
   },
   {
     "id": "f57fb6463bdb",
@@ -8515,7 +8282,9 @@
     },
     "deadline": "2025-12-20",
     "deadline_display": "December 20, 2025",
-    "scraped_at": "2026-01-03T02:15:59.129176+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:02.086904+00:00"
   },
   {
     "id": "0802d796d002",
@@ -8539,7 +8308,9 @@
     },
     "deadline": "2025-03-17",
     "deadline_display": "March 17, 2025",
-    "scraped_at": "2026-01-03T02:15:59.416567+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:02.554330+00:00"
   },
   {
     "id": "6918be6e6581",
@@ -8571,7 +8342,9 @@
     },
     "deadline": "2025-01-15",
     "deadline_display": "January 15, 2025",
-    "scraped_at": "2026-01-03T02:15:59.782634+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:02.930485+00:00"
   },
   {
     "id": "1e7895eab9dc",
@@ -8603,7 +8376,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:16:00.172512+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:03.308986+00:00"
   },
   {
     "id": "3b2fd3a05e79",
@@ -8635,7 +8410,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:00.709876+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:03.897412+00:00"
   },
   {
     "id": "d5ef1daf19fa",
@@ -8663,7 +8440,9 @@
     },
     "deadline": "2025-03-19",
     "deadline_display": "March 19, 2025",
-    "scraped_at": "2026-01-03T02:16:01.205756+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:04.162474+00:00"
   },
   {
     "id": "3e553333e335",
@@ -8695,7 +8474,9 @@
     },
     "deadline": "2025-02-07",
     "deadline_display": "February 7, 2025",
-    "scraped_at": "2026-01-03T02:16:01.526662+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:04.650010+00:00"
   },
   {
     "id": "7332cc2f15c8",
@@ -8726,7 +8507,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:16:01.891027+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:05.037860+00:00"
   },
   {
     "id": "6ecff1593684",
@@ -8758,7 +8541,9 @@
     },
     "deadline": "2025-10-30",
     "deadline_display": "October 30, 2025",
-    "scraped_at": "2026-01-03T02:16:02.398719+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:05.413356+00:00"
   },
   {
     "id": "29196d614406",
@@ -8786,7 +8571,9 @@
     },
     "deadline": "2025-10-13",
     "deadline_display": "October 13, 2025",
-    "scraped_at": "2026-01-03T02:16:02.789017+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:05.899693+00:00"
   },
   {
     "id": "24d0b5248236",
@@ -8814,7 +8601,9 @@
     },
     "deadline": "2025-02-01",
     "deadline_display": "February 1, 2025",
-    "scraped_at": "2026-01-03T02:16:03.256781+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:06.211423+00:00"
   },
   {
     "id": "44ee99efe842",
@@ -8847,7 +8636,9 @@
     },
     "deadline": "2026-01-15",
     "deadline_display": "January 15, 2026",
-    "scraped_at": "2026-01-03T02:16:03.625418+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:06.606820+00:00"
   },
   {
     "id": "1d9337c11366",
@@ -8867,7 +8658,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:04.269980+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:07.240861+00:00"
   },
   {
     "id": "f1ead2b5b7c2",
@@ -8894,7 +8687,9 @@
     },
     "deadline": "2026-02-05",
     "deadline_display": "February 5, 2026",
-    "scraped_at": "2026-01-03T02:16:04.629093+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:07.653602+00:00"
   },
   {
     "id": "4667506728bd",
@@ -8928,7 +8723,9 @@
     },
     "deadline": "2025-03-15",
     "deadline_display": "March 15, 2025",
-    "scraped_at": "2026-01-03T02:16:05.023752+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:08.029049+00:00"
   },
   {
     "id": "22edb3872308",
@@ -8956,7 +8753,9 @@
     },
     "deadline": "2025-01-10",
     "deadline_display": "January 10, 2025",
-    "scraped_at": "2026-01-03T02:16:05.531667+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:08.352659+00:00"
   },
   {
     "id": "7dcdda59da49",
@@ -8982,7 +8781,9 @@
     },
     "deadline": "2026-01-25",
     "deadline_display": "January 25, 2026",
-    "scraped_at": "2026-01-03T02:16:05.914001+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:08.845964+00:00"
   },
   {
     "id": "83ae51b462ee",
@@ -9011,7 +8812,9 @@
     },
     "deadline": "2025-02-10",
     "deadline_display": "February 10, 2025",
-    "scraped_at": "2026-01-03T02:16:06.288582+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:09.195234+00:00"
   },
   {
     "id": "b74b634ba50e",
@@ -9039,7 +8842,9 @@
     },
     "deadline": "2025-02-14",
     "deadline_display": "February 14, 2025",
-    "scraped_at": "2026-01-03T02:16:06.729371+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:09.581578+00:00"
   },
   {
     "id": "2da4eab0b8e5",
@@ -9072,7 +8877,9 @@
     },
     "deadline": "2025-02-03",
     "deadline_display": "February 3, 2025",
-    "scraped_at": "2026-01-03T02:16:07.134319+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:09.959271+00:00"
   },
   {
     "id": "876d5978434b",
@@ -9101,7 +8908,9 @@
     },
     "deadline": "2025-02-01",
     "deadline_display": "February 1, 2025",
-    "scraped_at": "2026-01-03T02:16:07.527108+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:10.419625+00:00"
   },
   {
     "id": "02eccac82402",
@@ -9134,7 +8943,9 @@
     },
     "deadline": "2025-02-22",
     "deadline_display": "February 22, 2025",
-    "scraped_at": "2026-01-03T02:16:07.973486+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:10.838977+00:00"
   },
   {
     "id": "3ec722394f20",
@@ -9167,7 +8978,9 @@
     },
     "deadline": "2025-02-07",
     "deadline_display": "February 7, 2025",
-    "scraped_at": "2026-01-03T02:16:08.349021+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:11.227833+00:00"
   },
   {
     "id": "2d5f7538839e",
@@ -9192,7 +9005,9 @@
     },
     "deadline": "2025-03-28",
     "deadline_display": "March 28, 2025",
-    "scraped_at": "2026-01-03T02:16:08.736818+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:11.513661+00:00"
   },
   {
     "id": "286874ec1fb5",
@@ -9221,7 +9036,9 @@
     },
     "deadline": "2025-03-01",
     "deadline_display": "March 1, 2025",
-    "scraped_at": "2026-01-03T02:16:09.209322+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:11.987458+00:00"
   },
   {
     "id": "9e94b8f1f341",
@@ -9249,7 +9066,9 @@
     },
     "deadline": "2026-03-15",
     "deadline_display": "March 15, 2026",
-    "scraped_at": "2026-01-03T02:16:09.616645+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:12.479562+00:00"
   },
   {
     "id": "2a59d46ba70a",
@@ -9272,7 +9091,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:10.138440+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:13.116641+00:00"
   },
   {
     "id": "09c243599252",
@@ -9297,7 +9118,9 @@
     },
     "deadline": "2025-02-28",
     "deadline_display": "February 28, 2025",
-    "scraped_at": "2026-01-03T02:16:10.600652+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:13.549032+00:00"
   },
   {
     "id": "2d901071beca",
@@ -9328,7 +9151,9 @@
     },
     "deadline": "2025-03-14",
     "deadline_display": "March 14, 2025",
-    "scraped_at": "2026-01-03T02:16:10.921038+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:13.945569+00:00"
   },
   {
     "id": "b0611474a257",
@@ -9358,7 +9183,9 @@
     },
     "deadline": "2025-04-05",
     "deadline_display": "April 5, 2025",
-    "scraped_at": "2026-01-03T02:16:11.314298+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:14.301997+00:00"
   },
   {
     "id": "9e9d2e87a3f1",
@@ -9384,7 +9211,9 @@
     },
     "deadline": "2025-11-17",
     "deadline_display": "November 17, 2025",
-    "scraped_at": "2026-01-03T02:16:11.699410+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:14.650451+00:00"
   },
   {
     "id": "56964d302fa5",
@@ -9416,7 +9245,9 @@
     },
     "deadline": "2026-01-09",
     "deadline_display": "January 9, 2026",
-    "scraped_at": "2026-01-03T02:16:12.305254+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:15.007944+00:00"
   },
   {
     "id": "1e6c8dbe8d72",
@@ -9446,7 +9277,9 @@
     },
     "deadline": "2024-12-01",
     "deadline_display": "December 1, 2024",
-    "scraped_at": "2026-01-03T02:16:12.716312+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:15.393459+00:00"
   },
   {
     "id": "95ce03a76cd1",
@@ -9475,7 +9308,9 @@
     },
     "deadline": "2024-05-01",
     "deadline_display": "May 1, 2024",
-    "scraped_at": "2026-01-03T02:16:13.023359+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:15.703151+00:00"
   },
   {
     "id": "35c70de3c95f",
@@ -9502,7 +9337,9 @@
     },
     "deadline": "2025-01-31",
     "deadline_display": "January 31, 2025",
-    "scraped_at": "2026-01-03T02:16:13.410879+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:16.187762+00:00"
   },
   {
     "id": "611b4c9db05c",
@@ -9526,7 +9363,9 @@
     },
     "deadline": "2025-02-24",
     "deadline_display": "February 24, 2025",
-    "scraped_at": "2026-01-03T02:16:13.781528+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:16.544923+00:00"
   },
   {
     "id": "7eaad2d1adc2",
@@ -9555,7 +9394,9 @@
     },
     "deadline": "2025-07-01",
     "deadline_display": "July 1, 2025",
-    "scraped_at": "2026-01-03T02:16:14.093511+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:16.927696+00:00"
   },
   {
     "id": "6643551bd003",
@@ -9580,7 +9421,9 @@
     },
     "deadline": "2025-01-15",
     "deadline_display": "January 15, 2025",
-    "scraped_at": "2026-01-03T02:16:14.470032+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:17.312281+00:00"
   },
   {
     "id": "04a29fd63883",
@@ -9611,7 +9454,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:15.205813+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:18.613543+00:00"
   },
   {
     "id": "ae311d01d0e0",
@@ -9640,7 +9485,9 @@
     },
     "deadline": "2025-04-13",
     "deadline_display": "April 13, 2025",
-    "scraped_at": "2026-01-03T02:16:15.779823+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:19.002309+00:00"
   },
   {
     "id": "75bcafd33510",
@@ -9671,7 +9518,9 @@
     },
     "deadline": "2025-03-06",
     "deadline_display": "March 6, 2025",
-    "scraped_at": "2026-01-03T02:16:16.599005+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:19.410117+00:00"
   },
   {
     "id": "18b8aeb14294",
@@ -9704,7 +9553,9 @@
     },
     "deadline": "2026-01-31",
     "deadline_display": "January 31, 2026",
-    "scraped_at": "2026-01-03T02:16:16.941526+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:19.876356+00:00"
   },
   {
     "id": "8109172aecc8",
@@ -9733,7 +9584,9 @@
     },
     "deadline": "2025-02-01",
     "deadline_display": "February 1, 2025",
-    "scraped_at": "2026-01-03T02:16:17.328178+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:20.256125+00:00"
   },
   {
     "id": "73e59bcb8bbe",
@@ -9762,7 +9615,9 @@
     },
     "deadline": "2026-02-02",
     "deadline_display": "February 2, 2026",
-    "scraped_at": "2026-01-03T02:16:17.750408+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:20.732974+00:00"
   },
   {
     "id": "296d04b4287d",
@@ -9798,7 +9653,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:18.765254+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:21.834545+00:00"
   },
   {
     "id": "2742b57443d1",
@@ -9825,7 +9682,9 @@
     },
     "deadline": "2025-12-09",
     "deadline_display": "December 9, 2025",
-    "scraped_at": "2026-01-03T02:16:19.097305+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:22.210679+00:00"
   },
   {
     "id": "eb0630caf03d",
@@ -9859,7 +9718,9 @@
     },
     "deadline": "2025-08-01",
     "deadline_display": "August 1, 2025",
-    "scraped_at": "2026-01-03T02:16:19.489532+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:22.659703+00:00"
   },
   {
     "id": "afc86cc71e51",
@@ -9887,7 +9748,9 @@
     },
     "deadline": "2026-01-15",
     "deadline_display": "January 15, 2026",
-    "scraped_at": "2026-01-03T02:16:19.892064+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:23.001877+00:00"
   },
   {
     "id": "d24e553b38c7",
@@ -9916,7 +9779,9 @@
     },
     "deadline": "2026-02-02",
     "deadline_display": "February 2, 2026",
-    "scraped_at": "2026-01-03T02:16:20.239162+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:23.401463+00:00"
   },
   {
     "id": "458f3e1f936c",
@@ -9941,7 +9806,9 @@
     },
     "deadline": "2026-01-31",
     "deadline_display": "January 31, 2026",
-    "scraped_at": "2026-01-03T02:16:20.750596+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:23.937748+00:00"
   },
   {
     "id": "992d691fd8a5",
@@ -9966,7 +9833,9 @@
     },
     "deadline": "2026-02-13",
     "deadline_display": "February 13, 2026",
-    "scraped_at": "2026-01-03T02:16:21.187402+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:24.431880+00:00"
   },
   {
     "id": "1f1ad3a36148",
@@ -10001,7 +9870,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:22.462115+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:25.602154+00:00"
   },
   {
     "id": "fb848f97725c",
@@ -10028,7 +9899,9 @@
     },
     "deadline": "2025-02-13",
     "deadline_display": "February 13, 2025",
-    "scraped_at": "2026-01-03T02:16:22.851749+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:26.009201+00:00"
   },
   {
     "id": "c857845d4282",
@@ -10052,7 +9925,9 @@
     },
     "deadline": "2026-02-22",
     "deadline_display": "February 22, 2026",
-    "scraped_at": "2026-01-03T02:16:23.266345+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:26.395434+00:00"
   },
   {
     "id": "3ddfaeea7b0f",
@@ -10077,7 +9952,9 @@
     },
     "deadline": "2026-01-31",
     "deadline_display": "January 31, 2026",
-    "scraped_at": "2026-01-03T02:16:23.697058+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:26.925231+00:00"
   },
   {
     "id": "3c10b24c29ce",
@@ -10102,7 +9979,9 @@
     },
     "deadline": "2026-01-09",
     "deadline_display": "January 9, 2026",
-    "scraped_at": "2026-01-03T02:16:24.070963+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:27.229878+00:00"
   },
   {
     "id": "a5114aea30f0",
@@ -10130,7 +10009,9 @@
     },
     "deadline": "2026-02-01",
     "deadline_display": "February 1, 2026",
-    "scraped_at": "2026-01-03T02:16:24.408457+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:27.728323+00:00"
   },
   {
     "id": "83db3e101b81",
@@ -10164,7 +10045,9 @@
     },
     "deadline": "2025-04-01",
     "deadline_display": "April 1, 2025",
-    "scraped_at": "2026-01-03T02:16:24.785231+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:28.100290+00:00"
   },
   {
     "id": "5ae37d6c1ceb",
@@ -10195,7 +10078,9 @@
     },
     "deadline": "2025-03-01",
     "deadline_display": "March 1, 2025",
-    "scraped_at": "2026-01-03T02:16:25.165032+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:28.491092+00:00"
   },
   {
     "id": "551296dab363",
@@ -10223,7 +10108,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:25.754978+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:29.495701+00:00"
   },
   {
     "id": "6f4c1cce31ca",
@@ -10257,7 +10144,9 @@
     },
     "deadline": "2025-03-07",
     "deadline_display": "March 7, 2025",
-    "scraped_at": "2026-01-03T02:16:26.177118+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:29.917226+00:00"
   },
   {
     "id": "d7a808ce9d24",
@@ -10290,7 +10179,9 @@
     },
     "deadline": "2025-01-29",
     "deadline_display": "January 29, 2025",
-    "scraped_at": "2026-01-03T02:16:26.492133+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:30.330960+00:00"
   },
   {
     "id": "b5d8a69685c1",
@@ -10318,7 +10209,9 @@
     },
     "deadline": "2025-01-03",
     "deadline_display": "January 3, 2025",
-    "scraped_at": "2026-01-03T02:16:26.908213+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:30.722418+00:00"
   },
   {
     "id": "215dfbf7a305",
@@ -10346,7 +10239,9 @@
     },
     "deadline": "2024-12-30",
     "deadline_display": "December 30, 2024",
-    "scraped_at": "2026-01-03T02:16:27.351497+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:31.129288+00:00"
   },
   {
     "id": "4029d8c0bda6",
@@ -10378,7 +10273,9 @@
     },
     "deadline": "2024-04-29",
     "deadline_display": "April 29, 2024",
-    "scraped_at": "2026-01-03T02:16:27.705975+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:31.486802+00:00"
   },
   {
     "id": "88acdcb25666",
@@ -10408,7 +10305,9 @@
     },
     "deadline": "2024-04-07",
     "deadline_display": "April 7, 2024",
-    "scraped_at": "2026-01-03T02:16:28.097150+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:31.946135+00:00"
   },
   {
     "id": "14a11cc52058",
@@ -10436,7 +10335,9 @@
     },
     "deadline": "2025-04-15",
     "deadline_display": "April 15, 2025",
-    "scraped_at": "2026-01-03T02:16:28.453774+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:32.257445+00:00"
   },
   {
     "id": "a7bf04a5b0a0",
@@ -10465,7 +10366,9 @@
     },
     "deadline": "2025-10-13",
     "deadline_display": "October 13, 2025",
-    "scraped_at": "2026-01-03T02:16:28.797051+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:32.647505+00:00"
   },
   {
     "id": "f450ebf2a09d",
@@ -10494,7 +10397,9 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:30.469382+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:34.764723+00:00"
   },
   {
     "id": "3ea5fdd5150c",
@@ -10525,6 +10430,812 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-03T02:16:31.916871+00:00"
+    "opens": null,
+    "opens_display": null,
+    "scraped_at": "2026-01-03T06:05:35.847487+00:00"
+  },
+  {
+    "id": "92f18218d00c",
+    "name": "Theodore de Bary Language Study Fellowship",
+    "description": "Theodore de Bary Language Study Fellowship\nDeadline: March 6th, 2025\nThe Middle East Institute (MEI) offers\u00a0the annual Theodore de Bary Language Study Fellowship for intensive language study in Arabic, Hebrew, Persian, or Turkish. The fellowship is open to Columbia and Barnard undergraduate students who are not US citizens or permanent residents.\nTheodore de Barry awards can be used for intensive summer language study in the U.S. or abroad. The award offers a stipend of $3,500 andup to$5,000 towards summer program tuition. Preference is given to students who have already begun study in the target language. This fellowship complements the Summer FLAS for undergraduates, making summer language training funding available to international students who are not American citizens or permanent res",
+    "url": "https://www.mei.columbia.edu/de-bary-fellowship",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "level": [
+        "undergraduate"
+      ],
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship",
+        "language"
+      ],
+      "field": [
+        "middle_east_studies"
+      ],
+      "funding": [
+        "$3,500",
+        "$5,000"
+      ]
+    },
+    "deadline": "March 6th, 2025",
+    "scraped_at": "2026-01-03T06:05:52.004003+00:00"
+  },
+  {
+    "id": "3c5c2a0b974f",
+    "name": "Language Support",
+    "description": "Language Learning Support\nMEI believes strongly in the importance of language education to build bridges and increase understanding across regions. The Institute is dedicated to creating opportunities for students to improve and use their language skills in Arabic, Hebrew, Persian, or Turkish.\nIn addition to making theFLASandde Baryfellowships available for intensive language study, MEI also offers the following opportunities:\nWeekly Language Circles\nWeekly language circles for Arabic and Persian provide extra practice for language students in a conversational setting. The circles create weekly opportunities for language students of all levels to meet and interact with each other, instructors, TAs, and native speakers from the local community.  Learners of all levels are welcome so long as",
+    "url": "https://www.mei.columbia.edu/language-support",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "type": [
+        "fellowship",
+        "language"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.183503+00:00"
+  },
+  {
+    "id": "9375a3a0b21d",
+    "name": "Conference Travel Grants",
+    "description": "Application Deadline: Ongoing\nProvides reimbursement of up to $350 to doctoral candidates for costs related to presenting a paper at an academic conference. The candidate must first attempt to secure funding from GSAS and/or home department and provide an explanation as to why additional funds are being sought from the Middle East Institute.\nApplication procedure: Applications are accepted on a rolling basis but no later than 4 weeks before the date of the conference for which the student is seeking funding. In your request, please indicate the title/organizer, location, and dates of the conference as well as the title of your paper, session you will present at, and a brief paragraph stating why you want to attend the conference. In addition, please include the following information: acade",
+    "url": "https://www.mei.columbia.edu/conference-travel-grants",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "type": [
+        "grant",
+        "travel"
+      ],
+      "field": [
+        "middle_east_studies"
+      ],
+      "funding": [
+        "$350"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.464309+00:00"
+  },
+  {
+    "id": "b2663870d2d1",
+    "name": "GSAS Fellowships",
+    "description": "GSAS administers a number of fellowships internally.",
+    "url": "https://www.gsas.columbia.edu/content/internal-fellowships",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "type": [
+        "fellowship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.464432+00:00"
+  },
+  {
+    "id": "5d67b6314601",
+    "name": "Fulbright",
+    "description": "Program eligibility and selection procedures vary widely by country. Please see the MEI\u2019s Fulbright Information page for helpful information.",
+    "url": "https://www.mei.columbia.edu/fulbright",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {},
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.464574+00:00"
+  },
+  {
+    "id": "ffffe58994d5",
+    "name": "Additional External Fellowships",
+    "description": "MEI curates a list of available scholarships pertinent to the interdisciplinary study of the Middle East and North Africa.",
+    "url": "https://www.mei.columbia.edu/external-fellowships",
+    "source": "Middle East Institute",
+    "source_url": "https://www.mei.columbia.edu/fellowships-and-grants",
+    "tags": {
+      "type": [
+        "fellowship",
+        "scholarship"
+      ],
+      "field": [
+        "middle_east_studies"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.464692+00:00"
+  },
+  {
+    "id": "1cdcbcafd322",
+    "name": "The Columbia University Scholarship for Displaced Students (CUSDS)",
+    "description": "Supports displaced students from anywhere in the world. Applicants must be able to provide documentation of their displaced status, and students awarded funding will receive partial or full tuition, and potentially assistance with living expenses while pursuing a graduate degree at Columbia. Eligible students should apply at the same time that they submit their application for a Columbia graduate program.",
+    "url": "https://globalcenters.columbia.edu/CUSDS",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "scholarship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.787945+00:00"
+  },
+  {
+    "id": "735eff5502ea",
+    "name": "Edward W. Said Fellows",
+    "description": "Named in his honor, Edward W. Said Fellows receive a $5,000 research fellowship award that is intended to offset the financial costs of consulting the Edward W. Said Papers in the Rare Book and Manuscript Library at Columbia University. Researchers early in their careers whose scholarship speaks across disciplinary boundaries, promotes humanistic inquiry in the service of intercultural communication and understanding, and addresses pressing global issues in the public sphere are especially encou",
+    "url": "https://sofheyman.org/fellowships/edward-w-said",
+    "source": "Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "scholarship",
+        "research"
+      ],
+      "field": [
+        "humanities"
+      ],
+      "funding": [
+        "$5,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.788211+00:00"
+  },
+  {
+    "id": "14c065723762",
+    "name": "Harriman Institute for Russian, Eurasian and East European Studies",
+    "description": "The Harriman Institute awardsa number of student fellowships every year to students interested in conducting research on Russia, Eurasia and Eastern Europe.",
+    "url": "https://harriman.columbia.edu/graduate-funding/",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.788312+00:00"
+  },
+  {
+    "id": "75ae90c6df92",
+    "name": "The Institute for Israel and Jewish Studies",
+    "description": "The IIJS is pleased to provide funding for graduate students in the form of named fellowships as well as grants. Funding is available to students throughout the academic year; for summer travel related to research; and for travel grants for students presenting research at academic or professional conferences. Priority for funding will be given to students who are active participants of IIJS programming (an expectation of grantees).",
+    "url": "https://www.iijs.columbia.edu/funding",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "type": [
+        "fellowship",
+        "grant",
+        "research",
+        "travel"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.788457+00:00"
+  },
+  {
+    "id": "35e49ed0599a",
+    "name": "Institute for Religion, Culture and Public Life",
+    "description": "IRCPL Summer Research Fellowships are available to Columbia University students for research related to the completion of their dissertation or other research projects. The fellowship provides each student a maximum of $4,000 to cover expenses directly related to their research, including travel, lodging, and materials. Make sure to check IRCPL\u2019s website for updates.",
+    "url": "https://www.ircpl.columbia.edu/summer-research-fellowships",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "type": [
+        "fellowship",
+        "research",
+        "travel"
+      ],
+      "funding": [
+        "$4,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.788614+00:00"
+  },
+  {
+    "id": "32c795abd2db",
+    "name": "Interschool Fellowships at Columbia",
+    "description": "To receive these need-based awards, which range in amount from $1,000 to $5,000, students must be enrolled in anArts and Sciencesgraduate program, and must meet the requirements of the relevant fellowship. The online application will include a list of all available fellowships and their respective requirements.",
+    "url": "https://shibboleth.columbia.edu/idp/DFormsLogin.jsp?Clear=Y&templateID=b55a6970-74db-4a96-999c-d762fed6457a",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship"
+      ],
+      "funding": [
+        "$1,000",
+        "$5,000,"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.788746+00:00"
+  },
+  {
+    "id": "3997923f1d99",
+    "name": "Mellon Fellowship Program",
+    "description": "In partnership with the Andrew W. Mellon Foundation, Columbia Global Centers (Amman) has established the Mellon Fellowship Program to support emerging displaced scholars working in the humanities and humanistic social sciences. The goal of the program is to create opportunities for scholars to reintegrate into academia and resume their academic pursuits.",
+    "url": "https://globalcenters.columbia.edu/content/mellon-fellowship-program-0",
+    "source": "Columbia - Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship"
+      ],
+      "field": [
+        "humanities",
+        "social_sciences"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.788899+00:00"
+  },
+  {
+    "id": "7d00ed636330",
+    "name": "Public Humanities Graduate Fellows",
+    "description": "The Society of Fellows and Heyman Center for the Humanities provides funded opportunities for graduate students to explore the public dimensions of their work. While each fellowship has distinct features and requirements, during the funding period, students work closely with at least one community organization, participate in methods workshops, and present their projects in theBuilding Publicsseries.",
+    "url": "https://sofheyman.org/fellowships/public-humanities-graduate-fellows",
+    "source": "Columbia Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "type": [
+        "fellowship"
+      ],
+      "field": [
+        "humanities"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.789044+00:00"
+  },
+  {
+    "id": "bc5d3f10454a",
+    "name": "American Association of University Women Fellowships and Grants",
+    "description": "Provides funding to women who hold a bachelor\u2019s degree and are preparing to advance or change careers or reenter the workforce. Primary consideration is given to women of color and women pursuing their first advanced degree or credentials in nontraditional fields. Applicants must be U.S. citizens or permanent residents whose last degree was received four years previously. Funds are available for tuition, fees, books, supplies, local transportation, and dependent care.",
+    "url": "https://www.aauw.org/resources/programs/fellowships-grants/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "us_citizen",
+        "permanent_resident"
+      ],
+      "type": [
+        "fellowship",
+        "grant"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.789254+00:00"
+  },
+  {
+    "id": "7cc4947d8056",
+    "name": "American Association of University Women International Fellowships",
+    "description": "The fellowships are awarded for full-time study or research in the United States to women who are not U.S. citizens or permanent residents. Both graduate and postgraduate studies at accredited U.S. institutions are supported. Applicants must have earned the equivalent of a U.S. bachelor\u2019s degree and must have applied to their proposed institutions of study by the time of the application. Recipients are selected for academic achievement and demonstrated commitment to women and girls. Recipients r",
+    "url": "https://www.aauw.org/what-we-do/educational-funding-and-awards/international-fellowships/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international",
+        "permanent_resident"
+      ],
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.789552+00:00"
+  },
+  {
+    "id": "52d2af971a79",
+    "name": "American Councils for International Education",
+    "description": "ACIE believes in the fundamental role of education in fostering positive change for individuals, institutions, and societies. The organization has focused its expertise on academic exchange, professional training, distance learning, curriculum and test development, delivery of technical assistance, research, evaluation, and institution building.",
+    "url": "https://www.americancouncils.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.789723+00:00"
+  },
+  {
+    "id": "7040e90fa653",
+    "name": "The American Academic Research Institute for Research in Iraq (AARIIT)",
+    "description": "AARIIT hosts two fellowship programs, one for citizens of Iraq, and one for U.S. citizens. Both competitions have strict eligibility requirements that must be met before applications may be submitted. Before inquiring about a fellowship program, please be sure that you meet the requirements for the program in which you are interested.",
+    "url": "https://www.tarii.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "us_citizen"
+      ],
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.789848+00:00"
+  },
+  {
+    "id": "b2b6c84d6f08",
+    "name": "American Institute for Iranian Studies",
+    "description": "AIRS supports a number of fellowships for scholars of Iranian studies and the Persian language.American Institute for Maghrib StudiesOffers a number of fellowships for Maghrebi scholars, as well as grants for scholars and graduate students conducting research in North Africa.The American Institute for Yemeni Studies (AIYS)AIYS Fellowship for Study and Research in Yemen offers two separate competitions for fellowship programs of in-country residence and research in Yemen, one for U.S. citizens an",
+    "url": "https://www.simorgh-aiis.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "citizenship": [
+        "us_citizen"
+      ],
+      "type": [
+        "fellowship",
+        "grant",
+        "research",
+        "travel",
+        "language"
+      ],
+      "field": [
+        "middle_east_studies",
+        "humanities",
+        "social_sciences"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.790202+00:00"
+  },
+  {
+    "id": "c643ead14011",
+    "name": "The Beinecke Scholarship Program",
+    "description": "The program seeks to encourage and enable highly motivated students to pursue opportunities available to them and to be courageous in the selection of a graduate course of study in the arts, humanities and social sciences. Each scholar receives $4,000 immediately prior to entering graduate school and an additional $30,000 while attending graduate school. There are no geographic restrictions on the use of the scholarship, and recipients are allowed to supplement the award with other scholarships,",
+    "url": "http://fdnweb.org/beinecke/program/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "undergraduate"
+      ],
+      "type": [
+        "scholarship",
+        "grant",
+        "research"
+      ],
+      "field": [
+        "humanities",
+        "social_sciences"
+      ],
+      "funding": [
+        "$4,000",
+        "$30,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.790421+00:00"
+  },
+  {
+    "id": "478f45aa5370",
+    "name": "Council on Foreign Relations",
+    "description": "Council on Foreign Relations (CFR) fellowships offer unique opportunities for U.S. citizens with a demonstrated commitment to a career in foreign policy to gain experience in a new environment. Selected fellows broaden their perspective of foreign affairs either by pursuing work in a policymaking setting or research in an academic environment. CFR is committed to fostering a foreign policy community in the United States that is more representative of American society as a whole. Eligibility crit",
+    "url": "https://www.cfr.org/fellowships",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international",
+        "us_citizen"
+      ],
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.790614+00:00"
+  },
+  {
+    "id": "9d5e116fb278",
+    "name": "David L. Boren Awards for International Travel",
+    "description": "Provides funding for U.S. graduate students to study in world regions critical to U.S. interests, including Africa, Asia, Central & Eastern Europe, Eurasia, Latin America, and the Middle East. In exchange for funding, recipients commit to working in the federal government for a minimum of one year. The applications are now available. These fellowships are open to graduate students of all U.S. universities.",
+    "url": "http://www.borenawards.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship",
+        "travel"
+      ],
+      "field": [
+        "middle_east_studies"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.790749+00:00"
+  },
+  {
+    "id": "5e9a1c5a986a",
+    "name": "The Davis-Putter Scholarship Fund",
+    "description": "The fund aids people active in movements for social and economic justice. These need-based scholarships are awarded to students who are able to do academic work at the college or university level or are enrolled in a trade or technical program and who are active in the progressive movement. Recent grantees have been active in the struggle against racism, sexism, homophobia and other forms of oppression; building the movement for economic justice; and creating peace through international anti-imp",
+    "url": "https://www.davisputter.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "scholarship",
+        "grant"
+      ],
+      "funding": [
+        "$15,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.791046+00:00"
+  },
+  {
+    "id": "043cb6be13f9",
+    "name": "Donald M. Payne International Development Graduate Fellowship Program",
+    "description": "The program is intended for students in graduate school who are also interested in a career in the foreign service of the U.S. Agency for International Development. Payne Fellows work on the front lines of some of the most pressing global challenges including poverty, hunger, injustice, disease, environmental degradation, climate change, conflict and violent extremism and join USAID once they complete the program.",
+    "url": "http://www.paynefellows.org/?areaid=2&contentid=941",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.791368+00:00"
+  },
+  {
+    "id": "8a39f45834b2",
+    "name": "Echoing Green Public Service Fellowships",
+    "description": "The fellowship provides funding to conduct public service projects anywhere in the world. The support is available for up to two years.",
+    "url": "http://www.echoinggreen.org/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.791560+00:00"
+  },
+  {
+    "id": "178c5fee19ba",
+    "name": "Fulbright Foreign Student Program",
+    "description": "The Fulbright Foreign Student Program enables graduate students, young professionals and artists from abroad to study and conduct research in the United States. The Fulbright Foreign Student Program operates in more than 160 countries worldwide. Approximately 4,000 foreign students receive Fulbright scholarships each year.*Only the Columbia portion of the Columbia/AKU-ISMC Dual MA Program is Fulbright eligible.",
+    "url": "https://foreign.fulbrightonline.org/about/foreign-student-program",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "scholarship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.791877+00:00"
+  },
+  {
+    "id": "3cfd321b9cc3",
+    "name": "Humboldt Research Fellowship Program",
+    "description": "The fellowship promotes academic cooperation between scientists and scholars from Germany and abroad. The research fellowships and awards allow researchers to come to Germany to work on a project, they have chosen themselves, in cooperation with a German host and collaborative partner.",
+    "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.792021+00:00"
+  },
+  {
+    "id": "7eaf06a2d183",
+    "name": "Indspire",
+    "description": "Indspire offers scholarships and awards to Canadian First Nations, Inuit and M\u00e9tis students for Post-Secondary Education. There is one application for all of Indspire\u2019s bursaries, scholarships, and awards.",
+    "url": "https://indspire.ca/programs/students/bursaries-scholarships/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "scholarship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.792213+00:00"
+  },
+  {
+    "id": "8b60985ad332",
+    "name": "International Research and Exchange Board",
+    "description": "The International Research and Exchange Board is an international nonprofit organization providing leadership and innovative programs to improve the quality of education, strengthen independent media and foster pluralistic civil society.",
+    "url": "http://www.irex.org/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "research"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.792366+00:00"
+  },
+  {
+    "id": "013afbfb9c15",
+    "name": "Islamic Scholarship Fund",
+    "description": "The mission of the Islamic Scholarship Fund is to increase \"American Muslim representation in media and politics in order to improve public opinion and policy.\" ISF awards merit scholarships to U.S. citizens and permanent residents attending graduate school in policy, media, law or film, who are Muslim or are an active member of the Muslim community. Applications generally open in November or December and are due between late March and early April.",
+    "url": "https://islamicscholarshipfund.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "us_citizen",
+        "permanent_resident"
+      ],
+      "type": [
+        "scholarship"
+      ],
+      "field": [
+        "middle_east_studies"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.792520+00:00"
+  },
+  {
+    "id": "65dbdb9f6e62",
+    "name": "Mellon Foundation Regranting and Fellowship Programs",
+    "description": "In addition to its regular Higher Learning grantmaking, Mellon provides funding for competitive fellowships and awards. It also hosts theSawyer Seminarsand theNew Directions Fellowship.",
+    "url": "https://mellon.org/programs/higher-learning/regranting-programs/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "grant"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.792620+00:00"
+  },
+  {
+    "id": "8a9bc79f6b2f",
+    "name": "Open Society Foundations",
+    "description": "The Open Society Foundations award grants and fellowships throughout the year to organizations and individuals who share Open Society values. We look for grantees who have a vision and whose efforts will lead to lasting social change. The vast majority of our grants are awarded to organizations that we approach directly, but we do list some open opportunities below. Other funding opportunities are available through Open Society\u2019s network of national and regional foundations.",
+    "url": "https://www.opensocietyfoundations.org/grants",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "grant"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.792804+00:00"
+  },
+  {
+    "id": "836e3efac180",
+    "name": "Oxford Centre for Islamic Studies",
+    "description": "Visiting Fellowships are awarded annually to enable scholars or writers with academic interests in the Islamic world to spend an extended period of independent study and research at Oxford.Palestinian American Resource CenterThe Palestinian American Research Center (PARC) awards a number of fellowships every year. They offer two research fellowships for scholars of Palestine and a travel seminar competition for scholars who are not Palestine experts but who are eager to learn more about Palestin",
+    "url": "https://www.oxcis.ac.uk/visiting-fellowships",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "research",
+        "travel"
+      ],
+      "field": [
+        "middle_east_studies"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.793195+00:00"
+  },
+  {
+    "id": "c9b977ab6923",
+    "name": "The Paul & Daisy Soros Fellowships for New Americans",
+    "description": "The program honors the contributions of immigrants and children of immigrants to the United States. Each year, we invest in the graduate education of 30 New Americans\u2014immigrants and children of immigrants\u2014who are poised to make significant contributions to US society, culture or their academic field. Each Fellow receives up to $90,000 in financial support over two years, and they join a lifelong community of New American Fellows.",
+    "url": "https://www.pdsoros.org/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "fellowship",
+        "grant"
+      ],
+      "funding": [
+        "$90,000"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.793400+00:00"
+  },
+  {
+    "id": "e85a1ac1da66",
+    "name": "P.E.O. International",
+    "description": "P.E.O. International promotes educational opportunities for women. The Sisterhood proudly sponsors no less than five international philanthropies, or projects, designed to assist women with their educational goals.",
+    "url": "http://www.peointernational.org/",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.793535+00:00"
+  },
+  {
+    "id": "ec20bb09af20",
+    "name": "The Thomas R. Pickering Fellowship Program",
+    "description": "This is a U.S. Department of State funded and Washington Center for Internships and Academic Seminars administered fellowship. The fellowship provides graduate students with financial support, mentoring and professional development to prepare them academically and professionally for a career with the U.S. Department of State. Women, members of minority groups historically underrepresented in the Foreign Service, and students with financial need are encouraged to apply.",
+    "url": "https://pickeringfellowship.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "graduate"
+      ],
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.793785+00:00"
+  },
+  {
+    "id": "4c6abdf3cee0",
+    "name": "Rotary International",
+    "description": "Rotary aims to enable members to advance world understanding, goodwill, and peace through the improvement of health, the support of education, and the alleviation of poverty. The division, in conjunction with Rotarians, Rotary clubs, and Rotary districts, provides its assistance through scholarship, fellowship, and grant processes.",
+    "url": "https://www.rotary.org/en/our-programs",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship",
+        "scholarship",
+        "grant"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.793919+00:00"
+  },
+  {
+    "id": "4634f619fe8a",
+    "name": "US Dept of StateCritical Language Scholarships For Intensive Summer Institutes",
+    "description": "This scholarship will provide funding for U.S. citizens, including undergraduates, Master\u2019s and Ph.D. students, and recent graduates to participate in beginning, intermediate and/or advanced level summer language programs at American Overseas Research Centers and affiliated partners.US Dept of State and the Council of American Overseas Research CentersThe Multi-Country Research Fellowship enables US scholars to carry out trans-regional and comparative research in countries across the network of ",
+    "url": "http://www.clscholarship.org",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "level": [
+        "undergraduate",
+        "graduate"
+      ],
+      "citizenship": [
+        "us_citizen"
+      ],
+      "type": [
+        "fellowship",
+        "scholarship",
+        "grant",
+        "research",
+        "language"
+      ],
+      "field": [
+        "humanities",
+        "social_sciences"
+      ],
+      "funding": [
+        "$12,600"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.794384+00:00"
+  },
+  {
+    "id": "3573c5c5aac5",
+    "name": "Woodrow Wilson Center Fellowships in Humanities and Social Sciences",
+    "description": "This awards approximately 20-25 residential fellowships annually to individuals with outstanding project proposals in a broad range of the social sciences and humanities on national and/or international issues. Topics and scholarship should relate to key public policy challenges or provide the historical and/or cultural framework to illuminate policy issues of contemporary importance.",
+    "url": "https://www.wilsoncenter.org/fellowship-application",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "citizenship": [
+        "international"
+      ],
+      "type": [
+        "fellowship",
+        "scholarship"
+      ],
+      "field": [
+        "humanities",
+        "social_sciences"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.794694+00:00"
+  },
+  {
+    "id": "739b058fca05",
+    "name": "Women in Defense Horizons Scholarship",
+    "description": "The scholarship is intended for women interested in pursuing a career related to U.S. national security and defense. Open to college juniors and above, including those in graduate school, awards are based on academic achievement, participation in defense and national security activities, field of study, work experience, statements of objectives, recommendations and financial need.",
+    "url": "https://www.womenindefense.net/widscholar/apply-for-scholarship",
+    "source": "External Funding Opportunities",
+    "source_url": "https://www.mei.columbia.edu/external-fellowships",
+    "tags": {
+      "type": [
+        "scholarship"
+      ]
+    },
+    "deadline": null,
+    "scraped_at": "2026-01-03T06:05:52.794968+00:00"
   }
 ]

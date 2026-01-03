@@ -3,10 +3,15 @@ from __future__ import annotations
 import json
 import re
 import hashlib
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
+
+try:
+    from scrapers import cache
+except ImportError:
+    import cache
 
 BASE_URL = "https://urf.columbia.edu"
 SEARCH_URL = BASE_URL + "/opportunity/search"
@@ -258,12 +263,132 @@ def scrape_all_pages(cookies: dict) -> list[dict]:
     return all_opportunities
 
 
+def parse_date_from_text(date_str: str) -> datetime | None:
+    """Try to parse a date string into a datetime object."""
+    date_str = re.sub(r'(\d+)(?:st|nd|rd|th)', r'\1', date_str.strip())
+    formats = [
+        '%B %d, %Y', '%B %d %Y', '%b %d, %Y', '%b %d %Y',
+        '%B %d', '%b %d',  # No year - will assume current context
+    ]
+    for fmt in formats:
+        try:
+            dt = datetime.strptime(date_str, fmt)
+            # If no year in format, we need to infer it
+            if '%Y' not in fmt:
+                # This is tricky - for now just return None for yearless dates
+                return None
+            return dt
+        except ValueError:
+            continue
+    return None
+
+
+def check_date_range_closed(text: str) -> bool:
+    """
+    Check if text contains a date range like "open from X to Y" where Y is in the past.
+    Returns True if the application window has closed.
+    """
+    # Pattern: "open from October 3 to November 3, 2025"
+    range_patterns = [
+        r'open\s+from\s+([A-Za-z]+\s+\d{1,2})\s+to\s+([A-Za-z]+\s+\d{1,2},?\s+\d{4})',
+        r'open\s+([A-Za-z]+\s+\d{1,2})\s*[-–]\s*([A-Za-z]+\s+\d{1,2},?\s+\d{4})',
+        r'from\s+([A-Za-z]+\s+\d{1,2})\s+(?:to|through|until)\s+([A-Za-z]+\s+\d{1,2},?\s+\d{4})',
+        r'between\s+([A-Za-z]+\s+\d{1,2})\s+and\s+([A-Za-z]+\s+\d{1,2},?\s+\d{4})',
+    ]
+
+    for pattern in range_patterns:
+        match = re.search(pattern, text, re.IGNORECASE)
+        if match:
+            end_date_str = match.group(2)
+            end_date = parse_date_from_text(end_date_str)
+            if end_date:
+                now = datetime.now(timezone.utc).replace(tzinfo=None)
+                if end_date < now:
+                    return True
+    return False
+
+
+def detect_status(text: str) -> str | None:
+    """
+    Detect application status from page text.
+    Returns: 'closed', 'open', or None if unclear.
+    """
+    t = text.lower()
+
+    # --- OPEN patterns (check first - "now open" beats future dates) ---
+    open_patterns = [
+        r'(?:is\s+)?now\s+open\s+for\s+applications?',
+        r'applications?\s+(?:are\s+)?(?:now\s+)?open',
+        r'now\s+accepting\s+applications?',
+        r'currently\s+accepting\s+applications?',
+        r'applications?\s+(?:are\s+)?(?:being\s+)?accepted',
+        r'apply\s+(?:now|today)',
+        r'submit\s+your\s+application',
+        r'application\s+(?:is\s+)?open',
+    ]
+
+    for pattern in open_patterns:
+        if re.search(pattern, t):
+            return 'open'
+
+    # --- Check for date ranges that indicate closed ---
+    if check_date_range_closed(text):
+        return 'closed'
+
+    # --- CLOSED patterns ---
+    closed_patterns = [
+        # Direct statements
+        r'applications?\s+(?:are\s+)?(?:now\s+)?closed',
+        r'applications?\s+(?:have\s+)?(?:been\s+)?closed',
+        r'application\s+(?:period|window|cycle)\s+(?:has\s+)?(?:ended|closed|is\s+closed)',
+        r'submissions?\s+(?:are\s+)?(?:now\s+)?closed',
+        r'(?:the\s+)?deadline\s+(?:has\s+)?passed',
+        r'no\s+longer\s+accepting\s+applications?',
+        r'not\s+(?:currently\s+)?accepting\s+applications?',
+        r'we\s+are\s+(?:no\s+longer|not)\s+accepting',
+        # Past tense indicators
+        r'applications?\s+(?:have\s+)?closed',
+        r'program\s+(?:is\s+)?(?:now\s+)?closed',
+        r'registration\s+(?:is\s+)?(?:now\s+)?closed',
+        r'enrollment\s+(?:is\s+)?(?:now\s+)?closed',
+        # Year-specific closures
+        r'20\d{2}\s+applications?\s+(?:are\s+)?(?:now\s+)?closed',
+        # Check back later
+        r'check\s+back\s+(?:later|soon|next)',
+        r'applications?\s+will\s+reopen',
+    ]
+
+    for pattern in closed_patterns:
+        if re.search(pattern, t):
+            return 'closed'
+
+    return None
+
+
+def detect_closed(text: str) -> bool:
+    """
+    Detect if applications are closed based on page text.
+    Returns True if the page indicates applications are closed.
+    """
+    status = detect_status(text)
+    return status == 'closed'
+
+
 def scrape_external_page(url: str) -> dict | None:
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        if resp.status_code != 200:
-            return None
-        soup = BeautifulSoup(resp.text, "html.parser")
+        # Check cache first (12 hour TTL)
+        cached_html = cache.get(url)
+        if cached_html:
+            html = cached_html
+        else:
+            resp = requests.get(url, headers=HEADERS, timeout=15)
+            if resp.status_code != 200:
+                return None
+            html = resp.text
+            # Save to cache
+            cache.set(url, html)
+
+        soup = BeautifulSoup(html, "html.parser")
 
         body = soup.find("body")
         if not body:
@@ -276,6 +401,9 @@ def scrape_external_page(url: str) -> dict | None:
 
         deadline_iso, deadline_display = parse_deadline(text)
 
+        # Detect application status from text
+        detected_status = detect_status(text)
+
         amounts = re.findall(r'\$[\d,]+', text)
         funding = list(dict.fromkeys(amounts))[:3]
 
@@ -283,6 +411,7 @@ def scrape_external_page(url: str) -> dict | None:
             "deadline": deadline_iso,
             "deadline_display": deadline_display,
             "funding": funding,
+            "detected_status": detected_status,
         }
     except Exception as e:
         print(f"    Error scraping external: {e}")
@@ -386,6 +515,9 @@ def scrape_detail_page(url: str, cookies: dict) -> dict | None:
                     external_url = href
                     break
 
+    # Detect application status from URF page text
+    detected_status = detect_status(full_text)
+
     # If no deadline from URF and we have an external URL, try scraping it
     if not deadline_display and external_url:
         print(f"      Following external: {external_url[:60]}...")
@@ -396,6 +528,25 @@ def scrape_detail_page(url: str, cookies: dict) -> dict | None:
                 deadline_display = external_data["deadline_display"]
             if external_data.get("funding") and not funding:
                 funding = external_data["funding"]
+            # External status can override if we didn't detect one
+            if external_data.get("detected_status") and not detected_status:
+                detected_status = external_data["detected_status"]
+            # But closed always wins (more specific)
+            if external_data.get("detected_status") == 'closed':
+                detected_status = 'closed'
+
+    # Set deadline based on detected status (if no deadline found)
+    if detected_status and not deadline_iso:
+        if detected_status == 'closed':
+            # Use yesterday's date so it's always in the past
+            yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).strftime('%Y-%m-%d')
+            deadline_iso = yesterday
+            deadline_display = "Closed"
+            print(f"      Detected: applications closed")
+        elif detected_status == 'coming_soon':
+            # Leave deadline null but mark as coming soon
+            deadline_display = "Coming Soon"
+            print(f"      Detected: applications coming soon")
 
     return {
         "full_text": full_text,
@@ -405,6 +556,7 @@ def scrape_detail_page(url: str, cookies: dict) -> dict | None:
         "opens_display": opens_display,
         "funding": funding,
         "external_url": external_url,
+        "detected_status": detected_status,
     }
 
 

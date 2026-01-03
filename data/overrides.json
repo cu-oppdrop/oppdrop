@@ -1,0 +1,17 @@
+{
+  "_comment": "Manual overrides that persist across scraper runs. Key is opportunity ID.",
+  "overrides": {
+    "0d30edf240d9": {
+      "deadline": "2025-12-31",
+      "deadline_display": "December 31, 2025",
+      "note": "CBS site blocks scrapers - checked manually 2026-01-03"
+    }
+  },
+  "blocked_sites": [
+    {
+      "domain": "business.columbia.edu",
+      "reason": "403 Forbidden - blocks automated requests",
+      "last_checked": "2026-01-03"
+    }
+  ]
+}

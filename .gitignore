@@ -18,6 +18,13 @@ env/
 
 # Local testing
 *.log
+*.tmp
+
+# Cache
+data/cache/
 
 # Secrets - DO NOT COMMIT
 scrapers/cookies.json
+
+# Context files
+context.md
