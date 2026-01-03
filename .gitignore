@@ -18,3 +18,6 @@ env/
 
 # Local testing
 *.log
+
+# Secrets - DO NOT COMMIT
+scrapers/cookies.json

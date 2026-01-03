@@ -18,6 +18,16 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
+      # URF scraper requires cookies - only run if secret exists
+      - name: Create URF cookies file
+        if: ${{ secrets.URF_COOKIES != '' }}
+        run: echo '${{ secrets.URF_COOKIES }}' > scrapers/cookies.json
+
+      - name: Run URF scraper
+        if: ${{ secrets.URF_COOKIES != '' }}
+        run: python scrapers/urf_scraper.py
+
+      # MEI scraper (public, no auth needed)
       - name: Run MEI scraper
         run: python scrapers/mei_scraper.py
 
