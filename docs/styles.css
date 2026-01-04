@@ -57,11 +57,31 @@ h1 {
   font-size: 2.5rem;
   font-weight: 600;
   margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+
+h1:hover {
+  color: #0071e3;
 }
 
 .subtitle {
   color: #86868b;
   font-size: 1.1rem;
+}
+
+.info-note {
+  color: #86868b;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.info-note a {
+  color: #0071e3;
+  text-decoration: none;
+}
+
+.info-note a:hover {
+  text-decoration: underline;
 }
 
 .stats {
@@ -397,6 +417,57 @@ h1 {
   text-align: center;
   margin-top: 2rem;
   font-size: 0.8rem;
+  color: #86868b;
+}
+
+/* Pagination */
+.pagination {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.pagination-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.page-btn {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #d2d2d7;
+  border-radius: 6px;
+  background: #fff;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.page-btn:hover:not(:disabled) {
+  border-color: #0071e3;
+  color: #0071e3;
+}
+
+.page-btn.active {
+  background: #0071e3;
+  border-color: #0071e3;
+  color: #fff;
+}
+
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.page-ellipsis {
+  padding: 0 0.25rem;
+  color: #86868b;
+}
+
+.page-info {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
   color: #86868b;
 }
 

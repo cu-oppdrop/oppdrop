@@ -59,7 +59,10 @@ def parse_deadline(text: str) -> tuple[str | None, str | None]:
         r'(?:by|before)\s+([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
         r'([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})\s+deadline',
         # Standalone date pattern (less reliable, use last)
-        r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4}',
+        r'((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
+        # Numeric formats
+        r'(\d{1,2}/\d{1,2}/\d{4})',  # 04/04/2025 or 4/4/2025
+        r'(\d{4}-\d{2}-\d{2})',       # 2025-04-04 (ISO)
     ]
 
     for p in patterns:
@@ -71,8 +74,9 @@ def parse_deadline(text: str) -> tuple[str | None, str | None]:
             try:
                 # Remove ordinal suffixes
                 clean = re.sub(r'(\d+)(?:st|nd|rd|th)', r'\1', display)
-                # Try parsing
-                for fmt in ['%B %d, %Y', '%B %d %Y', '%b %d, %Y', '%b %d %Y']:
+                # Try parsing with various formats
+                for fmt in ['%B %d, %Y', '%B %d %Y', '%b %d, %Y', '%b %d %Y',
+                            '%m/%d/%Y', '%Y-%m-%d']:
                     try:
                         dt = datetime.strptime(clean, fmt)
                         iso = dt.strftime('%Y-%m-%d')

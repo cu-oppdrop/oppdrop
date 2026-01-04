@@ -1,6 +1,8 @@
 let opportunities = [];
 let activeFilters = { level: [], citizenship: [], type: [], field: [], status: ['open'] };
 let currentSort = 'deadline';
+let currentPage = 1;
+const PAGE_SIZE = 24;
 
 // Helper to get opportunity status (open or closed)
 function getOpportunityStatus(opp) {
@@ -55,6 +57,7 @@ function setupDropdowns() {
       }
 
       updateTriggerState(dropdown);
+      currentPage = 1;
       render();
     });
   });
@@ -225,9 +228,6 @@ function getFiltered() {
       case 'name':
         return a.name.localeCompare(b.name);
 
-      case 'recent':
-        return new Date(b.scraped_at) - new Date(a.scraped_at);
-
       default:
         return 0;
     }
@@ -242,11 +242,21 @@ function render() {
 
   if (filtered.length === 0) {
     container.innerHTML = '<p class="no-results">No opportunities match your filters.</p>';
+    renderPagination(0);
     updateStats();
     return;
   }
 
-  container.innerHTML = filtered.map(opp => {
+  // Pagination
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+  if (currentPage > totalPages) currentPage = totalPages;
+  if (currentPage < 1) currentPage = 1;
+
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const end = start + PAGE_SIZE;
+  const pageItems = filtered.slice(start, end);
+
+  container.innerHTML = pageItems.map(opp => {
     const tags = [];
     for (const [cat, values] of Object.entries(opp.tags || {})) {
       if (cat === 'funding') {
@@ -303,12 +313,88 @@ function render() {
     `;
   }).join('');
 
+  renderPagination(filtered.length);
   updateStats();
 }
 
-document.getElementById('search').addEventListener('input', render);
+function renderPagination(totalItems) {
+  let paginationEl = document.getElementById('pagination');
+  if (!paginationEl) {
+    paginationEl = document.createElement('div');
+    paginationEl.id = 'pagination';
+    paginationEl.className = 'pagination';
+    document.getElementById('cards').after(paginationEl);
+  }
+
+  if (totalItems === 0) {
+    paginationEl.innerHTML = '';
+    return;
+  }
+
+  const totalPages = Math.ceil(totalItems / PAGE_SIZE);
+  if (totalPages <= 1) {
+    paginationEl.innerHTML = '';
+    return;
+  }
+
+  let html = '<div class="pagination-inner">';
+
+  // Previous button
+  html += `<button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}">← Prev</button>`;
+
+  // Page numbers
+  const maxVisible = 5;
+  let startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+  let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+  if (endPage - startPage < maxVisible - 1) {
+    startPage = Math.max(1, endPage - maxVisible + 1);
+  }
+
+  if (startPage > 1) {
+    html += `<button class="page-btn" data-page="1">1</button>`;
+    if (startPage > 2) html += `<span class="page-ellipsis">...</span>`;
+  }
+
+  for (let i = startPage; i <= endPage; i++) {
+    html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" data-page="${i}">${i}</button>`;
+  }
+
+  if (endPage < totalPages) {
+    if (endPage < totalPages - 1) html += `<span class="page-ellipsis">...</span>`;
+    html += `<button class="page-btn" data-page="${totalPages}">${totalPages}</button>`;
+  }
+
+  // Next button
+  html += `<button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} data-page="${currentPage + 1}">Next →</button>`;
+
+  html += '</div>';
+  html += `<div class="page-info">Page ${currentPage} of ${totalPages} (${totalItems} results)</div>`;
+
+  paginationEl.innerHTML = html;
+}
+
+document.addEventListener('click', (e) => {
+  const pageBtn = e.target.closest('.page-btn');
+  if (pageBtn && !pageBtn.disabled) {
+    currentPage = parseInt(pageBtn.dataset.page, 10);
+    render();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+});
+
+document.getElementById('search').addEventListener('input', () => {
+  currentPage = 1;
+  render();
+});
+
+document.getElementById('site-title').addEventListener('click', () => {
+  currentPage = 1;
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
 document.getElementById('sort').addEventListener('change', (e) => {
   currentSort = e.target.value;
+  currentPage = 1;
   render();
 });
 
