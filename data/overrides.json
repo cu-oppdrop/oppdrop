@@ -16,9 +16,31 @@
       "deadline_display": "Closed",
       "note": "Manually marked as closed"
     },
-    "6643551bd003": {
-      "deadline": "2026-01-15",
-      "deadline_display": "January 15, 2026"
+    "6918be6e6581": {
+      "deadline": "2026-01-30",
+      "deadline_display": "January 30, 2026"
+    },
+    "22b4d2086fb0": {
+      "deadline": "2026-03-24",
+      "deadline_display": "March 24, 2026"
+    },
+    "e6a24bc45809": {
+      "deleted": true,
+      "note": "Fellowship no longer available"
+    },
+    "2ba4dff772bb": {
+      "deadline": "2026-01-30",
+      "deadline_display": "January 30, 2026"
+    },
+    "0bd2daa6541c": {
+      "deadline": "2026-01-03",
+      "deadline_display": "January 3, 2026",
+      "note": "Program closed, follow up next year"
+    },
+    "4634f619fe8a": {
+      "deadline": "2026-01-03",
+      "deadline_display": "January 3, 2026",
+      "note": "Program closed, follow up next year"
     }
   },
   "blocked_sites": [

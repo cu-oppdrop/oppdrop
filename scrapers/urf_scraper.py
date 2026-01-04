@@ -51,18 +51,26 @@ def parse_deadline(text: str) -> tuple[str | None, str | None]:
     Returns (iso_date, display_date) tuple.
     """
     patterns = [
-        # URF format: "Friday, April 4, 2025" or "Application Deadline:Friday, April 4, 2025"
-        r'(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+([A-Za-z]+\s+\d{1,2},?\s+\d{4})',
+        # High confidence: explicit deadline/close keywords
         r'deadline[:\s]+(?:[A-Za-z]+,?\s+)?([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
         r'due[:\s]+([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
         r'applications?\s+(?:due|close)[:\s]*([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
         r'(?:by|before)\s+([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
         r'([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})\s+deadline',
+        # Close date patterns (for pages with open/close dates) - check before standalone
+        r'close[sd]?[:\s]+(?:on\s+)?(?:[A-Za-z]+,?\s+)?([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
+        r'closing\s+(?:date[:\s]+)?(?:[A-Za-z]+,?\s+)?([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
+        # URF format: "Friday, April 4, 2025" - day of week suggests a specific deadline
+        r'(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+([A-Za-z]+\s+\d{1,2},?\s+\d{4})',
         # Standalone date pattern (less reliable, use last)
         r'((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
+        # Abbreviated months: "Jan. 30, 2025" or "Jan 30, 2025"
+        r'((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\.?\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
         # Numeric formats
         r'(\d{1,2}/\d{1,2}/\d{4})',  # 04/04/2025 or 4/4/2025
         r'(\d{4}-\d{2}-\d{2})',       # 2025-04-04 (ISO)
+        # Dates without year (will infer year) - must have deadline context
+        r'deadline\s+(?:is\s+)?((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\.?\s+\d{1,2})(?:\s|\.|\,|$)',
     ]
 
     for p in patterns:
@@ -74,15 +82,33 @@ def parse_deadline(text: str) -> tuple[str | None, str | None]:
             try:
                 # Remove ordinal suffixes
                 clean = re.sub(r'(\d+)(?:st|nd|rd|th)', r'\1', display)
+                # Remove period after abbreviated month (Jan. -> Jan)
+                clean = re.sub(r'([A-Za-z]{3})\.', r'\1', clean)
                 # Try parsing with various formats
                 for fmt in ['%B %d, %Y', '%B %d %Y', '%b %d, %Y', '%b %d %Y',
-                            '%m/%d/%Y', '%Y-%m-%d']:
+                            '%b %d %Y', '%m/%d/%Y', '%Y-%m-%d']:
                     try:
                         dt = datetime.strptime(clean, fmt)
                         iso = dt.strftime('%Y-%m-%d')
                         break
                     except ValueError:
                         continue
+
+                # If no year in the date, try to infer it
+                if not iso:
+                    for fmt in ['%B %d', '%b %d']:
+                        try:
+                            dt = datetime.strptime(clean, fmt)
+                            # Use current year, or next year if date has passed
+                            now = datetime.now()
+                            dt = dt.replace(year=now.year)
+                            if dt < now:
+                                dt = dt.replace(year=now.year + 1)
+                            iso = dt.strftime('%Y-%m-%d')
+                            display = dt.strftime('%B %d, %Y')  # Add year to display
+                            break
+                        except ValueError:
+                            continue
             except Exception:
                 pass
             return iso, display
@@ -542,24 +568,61 @@ def scrape_detail_page(url: str, cookies: dict) -> dict | None:
             external_url = link.get("href")
 
     if not external_url:
-        for a in soup.find_all("a", href=True):
-            if "visit" in a.get_text(strip=True).lower() and "website" in a.get_text(strip=True).lower():
+        # Try multiple patterns to find external program links
+        link_patterns = [
+            lambda a: "visit" in a.get_text(strip=True).lower() and "website" in a.get_text(strip=True).lower(),
+            lambda a: "program website" in a.get_text(strip=True).lower(),
+            lambda a: "official website" in a.get_text(strip=True).lower(),
+            lambda a: "apply here" in a.get_text(strip=True).lower(),
+            lambda a: "application" in a.get_text(strip=True).lower() and "link" in a.get_text(strip=True).lower(),
+        ]
+
+        for pattern in link_patterns:
+            for a in soup.find_all("a", href=True):
+                if pattern(a):
+                    href = a.get("href")
+                    if href.startswith("http") and "columbia.edu" not in href:
+                        external_url = href
+                        break
+            if external_url:
+                break
+
+        # Last resort: find any external http link that's not a common non-program site
+        if not external_url:
+            skip_domains = ["facebook.com", "twitter.com", "linkedin.com", "instagram.com",
+                           "youtube.com", "google.com", "mailto:", "tel:"]
+            for a in soup.find_all("a", href=True):
                 href = a.get("href")
                 if href.startswith("http") and "columbia.edu" not in href:
-                    external_url = href
-                    break
+                    if not any(skip in href.lower() for skip in skip_domains):
+                        external_url = href
+                        print(f"      Found external link (fallback): {href[:60]}...")
+                        break
 
     # Detect application status from URF page text
     detected_status = detect_status(full_text)
 
-    # If no deadline from URF and we have an external URL, try scraping it
-    if not deadline_display and external_url:
-        print(f"      No URF deadline, following external: {external_url[:60]}...")
+    # Track where deadline came from for logging
+    deadline_source = "URF field" if deadline_display else None
+
+    # Always try to get deadline from external URL if available
+    # External program websites often have more accurate/updated deadlines
+    if external_url:
+        print(f"      Following external: {external_url[:60]}...")
         external_data = scrape_external_page(external_url)
         if external_data:
+            # Prefer external deadline if we don't have one from URF, or if external has one
             if external_data.get("deadline_display"):
-                deadline_iso = external_data["deadline"]
-                deadline_display = external_data["deadline_display"]
+                if not deadline_display:
+                    deadline_iso = external_data["deadline"]
+                    deadline_display = external_data["deadline_display"]
+                    deadline_source = "external"
+                else:
+                    # If both have deadlines, prefer external (more likely to be current)
+                    print(f"      URF: {deadline_display} vs External: {external_data['deadline_display']}")
+                    deadline_iso = external_data["deadline"]
+                    deadline_display = external_data["deadline_display"]
+                    deadline_source = "external (overrode URF)"
             if external_data.get("funding") and not funding:
                 funding = external_data["funding"]
             # External status can override if we didn't detect one
@@ -568,6 +631,12 @@ def scrape_detail_page(url: str, cookies: dict) -> dict | None:
             # But closed always wins (more specific)
             if external_data.get("detected_status") == 'closed':
                 detected_status = 'closed'
+
+    # Final deadline decision log
+    if deadline_display:
+        print(f"      SELECTED: {deadline_display} ({deadline_iso}) from {deadline_source}")
+    else:
+        print(f"      SELECTED: No deadline found")
 
     # Set deadline based on detected status (if no deadline found)
     if detected_status and not deadline_iso:

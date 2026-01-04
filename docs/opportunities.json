@@ -48,7 +48,7 @@
     "deadline_display": "April 4, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:09.606060+00:00"
+    "scraped_at": "2026-01-04T21:06:39.457497+00:00"
   },
   {
     "id": "8e127ee2959f",
@@ -75,11 +75,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-10-26",
-    "deadline_display": "October 26, 2025",
+    "deadline": "2025-10-17",
+    "deadline_display": "Oct. 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:09.977356+00:00"
+    "scraped_at": "2026-01-04T21:06:40.850999+00:00"
   },
   {
     "id": "ffec27a8013f",
@@ -104,13 +104,16 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$10,000"
       ]
     },
     "deadline": "2026-01-01",
     "deadline_display": "January 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:10.383837+00:00"
+    "scraped_at": "2026-01-04T21:06:42.097566+00:00"
   },
   {
     "id": "9dbb3bd6f694",
@@ -144,7 +147,7 @@
     "deadline_display": "March 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:10.724913+00:00"
+    "scraped_at": "2026-01-04T21:06:49.174976+00:00"
   },
   {
     "id": "4b3931215254",
@@ -175,7 +178,7 @@
     "deadline_display": "February 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:11.146731+00:00"
+    "scraped_at": "2026-01-04T21:06:50.615493+00:00"
   },
   {
     "id": "fa730d69b5a2",
@@ -199,13 +202,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$60,000"
       ]
     },
     "deadline": "2026-02-18",
     "deadline_display": "February 18, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:11.593627+00:00"
+    "scraped_at": "2026-01-04T21:06:51.910521+00:00"
   },
   {
     "id": "a75b3a49c4b7",
@@ -232,11 +238,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-06-30",
-    "deadline_display": "June 30, 2025",
+    "deadline": "2026-06-30",
+    "deadline_display": "June 30, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:11.963118+00:00"
+    "scraped_at": "2026-01-04T21:06:52.750263+00:00"
   },
   {
     "id": "e8f2c946f388",
@@ -272,7 +278,7 @@
     "deadline_display": "September 30, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:12.316769+00:00"
+    "scraped_at": "2026-01-04T21:06:54.450856+00:00"
   },
   {
     "id": "81ec01fa0a45",
@@ -299,13 +305,17 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$14",
+        "$40,000"
       ]
     },
-    "deadline": "2025-09-30",
-    "deadline_display": "September 30, 2025",
+    "deadline": "2019-12-01",
+    "deadline_display": "December 01, 2019",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:12.724405+00:00"
+    "scraped_at": "2026-01-04T21:06:55.894937+00:00"
   },
   {
     "id": "46bcf3f93111",
@@ -337,7 +347,7 @@
     "deadline_display": "April 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:13.146570+00:00"
+    "scraped_at": "2026-01-04T21:06:56.616054+00:00"
   },
   {
     "id": "38fd10a3785b",
@@ -372,7 +382,7 @@
     "deadline_display": "January 16, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:13.543203+00:00"
+    "scraped_at": "2026-01-04T21:06:57.952816+00:00"
   },
   {
     "id": "b4a6585f48aa",
@@ -408,7 +418,7 @@
     "deadline_display": "February 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:13.898997+00:00"
+    "scraped_at": "2026-01-04T21:07:00.250380+00:00"
   },
   {
     "id": "717c26aa3b0e",
@@ -437,7 +447,7 @@
     "deadline_display": "July 2, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:14.291386+00:00"
+    "scraped_at": "2026-01-04T21:07:01.399450+00:00"
   },
   {
     "id": "c9a0697dde74",
@@ -464,7 +474,7 @@
     "deadline_display": "August 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:14.794408+00:00"
+    "scraped_at": "2026-01-04T21:07:03.565657+00:00"
   },
   {
     "id": "7186a06bef45",
@@ -497,7 +507,7 @@
     "deadline_display": "January 12, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:15.095982+00:00"
+    "scraped_at": "2026-01-04T21:07:04.397626+00:00"
   },
   {
     "id": "88a624d1a08b",
@@ -523,11 +533,11 @@
         "social_sciences"
       ]
     },
-    "deadline": "2025-03-02",
-    "deadline_display": "March 2, 2025",
+    "deadline": "2026-02-01",
+    "deadline_display": "February 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:15.432910+00:00"
+    "scraped_at": "2026-01-04T21:07:05.185255+00:00"
   },
   {
     "id": "472d4e5959c3",
@@ -557,7 +567,7 @@
     "deadline_display": "February 28, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:15.833443+00:00"
+    "scraped_at": "2026-01-04T21:07:06.593289+00:00"
   },
   {
     "id": "13b4607afd1c",
@@ -586,13 +596,16 @@
         "language",
         "humanities",
         "social_sciences"
+      ],
+      "funding": [
+        "$4,200"
       ]
     },
-    "deadline": "2026-01-11",
-    "deadline_display": "January 11, 2026",
+    "deadline": "2026-07-31",
+    "deadline_display": "July 31, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:16.164978+00:00"
+    "scraped_at": "2026-01-04T21:07:07.432300+00:00"
   },
   {
     "id": "bdfc7ce65f19",
@@ -623,7 +636,7 @@
     "deadline_display": "January 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:16.501348+00:00"
+    "scraped_at": "2026-01-04T21:07:08.427845+00:00"
   },
   {
     "id": "c70ad4c93a3c",
@@ -653,7 +666,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:17.181357+00:00"
+    "scraped_at": "2026-01-04T21:07:09.257458+00:00"
   },
   {
     "id": "7aea42b4e1e5",
@@ -685,35 +698,7 @@
     "deadline_display": "January 31, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:17.543558+00:00"
-  },
-  {
-    "id": "e6a24bc45809",
-    "name": "American Political Science Association Diversity Fellowships",
-    "description": "Since 1969, the American Political Science Association (APSA) Minority Fellowship has designated more than 500 Fellows, both funded and unfunded, and contributed to the completion of doctoral political science programs for over 100 individuals.  APSA has refocused and increased efforts to assist minority students in completing their doctorates by concentrating not only on minority recruitment, but also assisting with the retention of these groups within the profession.The APSA Minority Fellows Program designates up to twelve stipended minority fellows each year.  Additional applicants who do not receive funds from the Association may also be recognized and recommended for admission and financial support to graduate political science programs.  Stipended fellows $4,000 in two payments, one ",
-    "discipline": "Social Sciences",
-    "url": "https://urf.columbia.edu/fellowship/american-political-science-association-diversity-fellowships",
-    "source": "URF",
-    "source_url": "https://urf.columbia.edu/opportunity/search",
-    "tags": {
-      "level": [
-        "graduate"
-      ],
-      "type": [
-        "fellowship"
-      ],
-      "funding": [
-        "$4,000"
-      ],
-      "field": [
-        "social_sciences"
-      ]
-    },
-    "deadline": "2017-11-17",
-    "deadline_display": "November 17, 2017",
-    "opens": null,
-    "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:19.061237+00:00"
+    "scraped_at": "2026-01-04T21:07:09.947123+00:00"
   },
   {
     "id": "7857238023b0",
@@ -744,7 +729,7 @@
     "deadline_display": "February 28, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:19.452069+00:00"
+    "scraped_at": "2026-01-04T21:07:12.839892+00:00"
   },
   {
     "id": "2a75326d74f2",
@@ -782,7 +767,7 @@
     "deadline_display": "November 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:19.826504+00:00"
+    "scraped_at": "2026-01-04T21:07:14.243787+00:00"
   },
   {
     "id": "11128e244b31",
@@ -811,7 +796,7 @@
     "deadline_display": "February 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:20.156338+00:00"
+    "scraped_at": "2026-01-04T21:07:16.131458+00:00"
   },
   {
     "id": "76bfc7519cce",
@@ -841,7 +826,7 @@
     "deadline_display": "March 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:20.576445+00:00"
+    "scraped_at": "2026-01-04T21:07:17.705824+00:00"
   },
   {
     "id": "d1a998d47170",
@@ -864,13 +849,18 @@
       "field": [
         "arts",
         "humanities"
+      ],
+      "funding": [
+        "$35,000",
+        "$3,000",
+        "$10,000"
       ]
     },
-    "deadline": "2025-11-19",
-    "deadline_display": "November 19, 2025",
+    "deadline": "2025-11-26",
+    "deadline_display": "November 26, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:21.024575+00:00"
+    "scraped_at": "2026-01-04T21:07:18.904123+00:00"
   },
   {
     "id": "78239c3043ae",
@@ -903,7 +893,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:22.512501+00:00"
+    "scraped_at": "2026-01-04T21:07:20.657140+00:00"
   },
   {
     "id": "2979bd136c3d",
@@ -932,11 +922,11 @@
         "humanities"
       ]
     },
-    "deadline": "2025-01-17",
-    "deadline_display": "January 17, 2025",
+    "deadline": "2026-01-31",
+    "deadline_display": "January 31, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:22.924486+00:00"
+    "scraped_at": "2026-01-04T21:07:21.951268+00:00"
   },
   {
     "id": "7cad23d1050a",
@@ -964,7 +954,7 @@
     "deadline_display": "February 19, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:23.247439+00:00"
+    "scraped_at": "2026-01-04T21:07:22.997973+00:00"
   },
   {
     "id": "2075b642689e",
@@ -992,11 +982,11 @@
         "$30,000"
       ]
     },
-    "deadline": "2025-10-31",
-    "deadline_display": "October 31, 2025",
+    "deadline": "2026-03-01",
+    "deadline_display": "March 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:23.620814+00:00"
+    "scraped_at": "2026-01-04T21:07:24.329257+00:00"
   },
   {
     "id": "cce8ac6f7781",
@@ -1026,11 +1016,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-10-03",
-    "deadline_display": "October 3, 2025",
+    "deadline": "2026-01-08",
+    "deadline_display": "January 8, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:24.024924+00:00"
+    "scraped_at": "2026-01-04T21:07:25.637399+00:00"
   },
   {
     "id": "f4290ffed669",
@@ -1052,13 +1042,18 @@
       "field": [
         "arts",
         "humanities"
+      ],
+      "funding": [
+        "$18,870,",
+        "$23,500",
+        "$3,000"
       ]
     },
     "deadline": "2025-09-30",
     "deadline_display": "September 30, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:24.340065+00:00"
+    "scraped_at": "2026-01-04T21:07:26.608155+00:00"
   },
   {
     "id": "ba98303cca74",
@@ -1080,13 +1075,16 @@
       ],
       "field": [
         "language"
+      ],
+      "funding": [
+        "$22"
       ]
     },
     "deadline": "2025-12-30",
     "deadline_display": "December 30, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:24.748924+00:00"
+    "scraped_at": "2026-01-04T21:07:28.523372+00:00"
   },
   {
     "id": "806454e287a1",
@@ -1120,7 +1118,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:26.081589+00:00"
+    "scraped_at": "2026-01-04T21:07:31.138390+00:00"
   },
   {
     "id": "e818bab01035",
@@ -1150,7 +1148,7 @@
     "deadline_display": "January 28, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:26.419899+00:00"
+    "scraped_at": "2026-01-04T21:07:31.832390+00:00"
   },
   {
     "id": "554bd4b44c18",
@@ -1179,11 +1177,11 @@
         "stem"
       ]
     },
-    "deadline": "2026-02-26",
-    "deadline_display": "February 26, 2026",
+    "deadline": "2026-01-15",
+    "deadline_display": "January 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:26.819548+00:00"
+    "scraped_at": "2026-01-04T21:07:35.151159+00:00"
   },
   {
     "id": "5b2936cb87a4",
@@ -1213,11 +1211,11 @@
         "language"
       ]
     },
-    "deadline": "2025-03-15",
-    "deadline_display": "March 15, 2025",
+    "deadline": "2025-02-10",
+    "deadline_display": "2025-02-10",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:27.182948+00:00"
+    "scraped_at": "2026-01-04T21:07:38.553980+00:00"
   },
   {
     "id": "c0c515eb7783",
@@ -1247,7 +1245,7 @@
     "deadline_display": "October 13, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:27.477106+00:00"
+    "scraped_at": "2026-01-04T21:07:39.889784+00:00"
   },
   {
     "id": "0d30edf240d9",
@@ -1279,7 +1277,7 @@
     "deadline_display": "December 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:28.656669+00:00"
+    "scraped_at": "2026-01-04T21:07:40.628810+00:00"
   },
   {
     "id": "a651c0b1aa16",
@@ -1303,13 +1301,16 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$5,000"
       ]
     },
     "deadline": "2026-01-16",
     "deadline_display": "January 16, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:29.072671+00:00"
+    "scraped_at": "2026-01-04T21:07:41.861049+00:00"
   },
   {
     "id": "834ecb106ed7",
@@ -1342,7 +1343,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:33.277407+00:00"
+    "scraped_at": "2026-01-04T21:07:44.986560+00:00"
   },
   {
     "id": "66b7479a90a2",
@@ -1377,7 +1378,7 @@
     "deadline_display": "April 7, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:33.714992+00:00"
+    "scraped_at": "2026-01-04T21:07:45.420363+00:00"
   },
   {
     "id": "a2dedae31022",
@@ -1398,13 +1399,17 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$121,277",
+        "$125,000"
       ]
     },
     "deadline": "2025-12-15",
     "deadline_display": "December 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:34.147131+00:00"
+    "scraped_at": "2026-01-04T21:07:46.585360+00:00"
   },
   {
     "id": "e2e537f02cb5",
@@ -1442,7 +1447,7 @@
     "deadline_display": "February 24, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:34.543470+00:00"
+    "scraped_at": "2026-01-04T21:07:47.087524+00:00"
   },
   {
     "id": "428b18da9f51",
@@ -1477,7 +1482,7 @@
     "deadline_display": "April 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:34.849536+00:00"
+    "scraped_at": "2026-01-04T21:07:48.036714+00:00"
   },
   {
     "id": "b9e102340365",
@@ -1510,11 +1515,11 @@
         "$3,253,"
       ]
     },
-    "deadline": "2025-12-08",
-    "deadline_display": "December 8, 2025",
+    "deadline": "2025-09-02",
+    "deadline_display": "September 2, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:35.281663+00:00"
+    "scraped_at": "2026-01-04T21:07:49.316489+00:00"
   },
   {
     "id": "d73d0589c618",
@@ -1541,7 +1546,7 @@
     "deadline_display": "January 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:35.712905+00:00"
+    "scraped_at": "2026-01-04T21:07:50.106488+00:00"
   },
   {
     "id": "284b741c040e",
@@ -1565,13 +1570,18 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$100",
+        "$10",
+        "$25"
       ]
     },
     "deadline": "2025-04-03",
     "deadline_display": "April 3, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:36.038631+00:00"
+    "scraped_at": "2026-01-04T21:07:51.155492+00:00"
   },
   {
     "id": "a602aed2f81d",
@@ -1595,13 +1605,18 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$42,000",
+        "$24,000",
+        "$18,000"
       ]
     },
     "deadline": "2024-09-19",
     "deadline_display": "September 19, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:36.427370+00:00"
+    "scraped_at": "2026-01-04T21:07:53.786371+00:00"
   },
   {
     "id": "1a7193270c81",
@@ -1628,13 +1643,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$3,300"
       ]
     },
     "deadline": "2025-02-05",
     "deadline_display": "February 5, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:36.830984+00:00"
+    "scraped_at": "2026-01-04T21:07:54.723895+00:00"
   },
   {
     "id": "99be90a9b974",
@@ -1669,7 +1687,7 @@
     "deadline_display": "December 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:37.132139+00:00"
+    "scraped_at": "2026-01-04T21:07:55.589223+00:00"
   },
   {
     "id": "0837d7f913c2",
@@ -1699,7 +1717,7 @@
     "deadline_display": "January 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:37.468752+00:00"
+    "scraped_at": "2026-01-04T21:07:56.657096+00:00"
   },
   {
     "id": "56af6902ad10",
@@ -1723,11 +1741,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-08-05",
-    "deadline_display": "August 5, 2025",
+    "deadline": "2025-11-03",
+    "deadline_display": "November 3, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:37.909792+00:00"
+    "scraped_at": "2026-01-04T21:07:57.522492+00:00"
   },
   {
     "id": "be7ea65cf1fe",
@@ -1759,7 +1777,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:38.806321+00:00"
+    "scraped_at": "2026-01-04T21:07:58.259884+00:00"
   },
   {
     "id": "5b951aa9a84a",
@@ -1786,7 +1804,7 @@
     "deadline_display": "June 28, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:39.196276+00:00"
+    "scraped_at": "2026-01-04T21:07:59.343535+00:00"
   },
   {
     "id": "8b42a34a8201",
@@ -1816,7 +1834,7 @@
     "deadline_display": "June 30, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:39.584366+00:00"
+    "scraped_at": "2026-01-04T21:07:59.857990+00:00"
   },
   {
     "id": "c037f5bf6190",
@@ -1841,7 +1859,7 @@
     "deadline_display": "December 2, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:39.991981+00:00"
+    "scraped_at": "2026-01-04T21:08:00.343227+00:00"
   },
   {
     "id": "a51f2057fbb5",
@@ -1873,11 +1891,11 @@
         "stem"
       ]
     },
-    "deadline": "2024-04-14",
-    "deadline_display": "April 14, 2024",
+    "deadline": "2025-04-14",
+    "deadline_display": "April 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:40.436104+00:00"
+    "scraped_at": "2026-01-04T21:08:01.338968+00:00"
   },
   {
     "id": "81f88fe9a769",
@@ -1902,11 +1920,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-03-01",
-    "deadline_display": "March 1, 2025",
+    "deadline": "2025-08-31",
+    "deadline_display": "August 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:40.898832+00:00"
+    "scraped_at": "2026-01-04T21:08:03.199386+00:00"
   },
   {
     "id": "805cd40fc3b4",
@@ -1935,7 +1953,7 @@
     "deadline_display": "February 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:41.265710+00:00"
+    "scraped_at": "2026-01-04T21:08:03.904634+00:00"
   },
   {
     "id": "5a79e82686f8",
@@ -1965,7 +1983,7 @@
     "deadline_display": "March 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:41.656600+00:00"
+    "scraped_at": "2026-01-04T21:08:04.741648+00:00"
   },
   {
     "id": "74e42d8e099d",
@@ -1988,11 +2006,11 @@
         "social_sciences"
       ]
     },
-    "deadline": "2025-03-21",
-    "deadline_display": "March 21, 2025",
+    "deadline": "2025-03-14",
+    "deadline_display": "March 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:42.056705+00:00"
+    "scraped_at": "2026-01-04T21:08:05.864983+00:00"
   },
   {
     "id": "fb88f401135c",
@@ -2022,11 +2040,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-03-01",
-    "deadline_display": "March 1, 2025",
+    "deadline": "2025-03-04",
+    "deadline_display": "March 4, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:42.374229+00:00"
+    "scraped_at": "2026-01-04T21:08:07.644799+00:00"
   },
   {
     "id": "1995d8960ea1",
@@ -2054,7 +2072,7 @@
     "deadline_display": "February 10, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:42.705054+00:00"
+    "scraped_at": "2026-01-04T21:08:08.067210+00:00"
   },
   {
     "id": "0bd95b6f88df",
@@ -2081,7 +2099,7 @@
     "deadline_display": "November 1, 2022",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:43.096482+00:00"
+    "scraped_at": "2026-01-04T21:08:09.379968+00:00"
   },
   {
     "id": "a5613af0be89",
@@ -2113,7 +2131,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:43.724073+00:00"
+    "scraped_at": "2026-01-04T21:08:10.287817+00:00"
   },
   {
     "id": "c82f7160ec25",
@@ -2147,7 +2165,7 @@
     "deadline_display": "May 31, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:44.108748+00:00"
+    "scraped_at": "2026-01-04T21:08:14.404314+00:00"
   },
   {
     "id": "9d2e8257cf95",
@@ -2172,13 +2190,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$5,000"
       ]
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:44.452719+00:00"
+    "scraped_at": "2026-01-04T21:08:15.226303+00:00"
   },
   {
     "id": "72c7ca01de21",
@@ -2204,13 +2225,18 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$5,400",
+        "$4,776",
+        "$100"
       ]
     },
     "deadline": "2025-12-01",
     "deadline_display": "December 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:44.793414+00:00"
+    "scraped_at": "2026-01-04T21:08:15.919589+00:00"
   },
   {
     "id": "bc4a196ec9f4",
@@ -2233,11 +2259,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-12",
-    "deadline_display": "January 12, 2025",
+    "deadline": "2026-01-11",
+    "deadline_display": "January 11, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:45.221127+00:00"
+    "scraped_at": "2026-01-04T21:08:17.188951+00:00"
   },
   {
     "id": "0bd2daa6541c",
@@ -2263,11 +2289,11 @@
         "$750"
       ]
     },
-    "deadline": "2025-11-18",
-    "deadline_display": "November 18, 2025",
+    "deadline": "2026-01-03",
+    "deadline_display": "January 3, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:45.553414+00:00"
+    "scraped_at": "2026-01-04T21:08:18.490628+00:00"
   },
   {
     "id": "490f3996ad6e",
@@ -2295,13 +2321,17 @@
         "arts",
         "humanities",
         "social_sciences"
+      ],
+      "funding": [
+        "$2,000",
+        "$3,000"
       ]
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:45.853669+00:00"
+    "scraped_at": "2026-01-04T21:08:21.604810+00:00"
   },
   {
     "id": "55a66ce04e0b",
@@ -2332,10 +2362,10 @@
       ]
     },
     "deadline": "2025-10-31",
-    "deadline_display": "October 31, 2025",
+    "deadline_display": "October 31st, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:46.246222+00:00"
+    "scraped_at": "2026-01-04T21:08:23.783711+00:00"
   },
   {
     "id": "9a91e76e8f6b",
@@ -2369,7 +2399,7 @@
     "deadline_display": "November 30, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:46.554280+00:00"
+    "scraped_at": "2026-01-04T21:08:26.543318+00:00"
   },
   {
     "id": "20d240ccbf95",
@@ -2400,7 +2430,7 @@
     "deadline_display": "February 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:46.918852+00:00"
+    "scraped_at": "2026-01-04T21:08:28.747009+00:00"
   },
   {
     "id": "17ce65d91da8",
@@ -2429,11 +2459,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-03-21",
-    "deadline_display": "March 21, 2025",
+    "deadline": "2025-03-10",
+    "deadline_display": "March 10, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:47.335079+00:00"
+    "scraped_at": "2026-01-04T21:08:30.842374+00:00"
   },
   {
     "id": "55a5e94d90b5",
@@ -2455,13 +2485,16 @@
       ],
       "field": [
         "language"
+      ],
+      "funding": [
+        "$75"
       ]
     },
     "deadline": "2025-12-15",
     "deadline_display": "December 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:47.630668+00:00"
+    "scraped_at": "2026-01-04T21:08:32.044768+00:00"
   },
   {
     "id": "ff59fd0f4e36",
@@ -2496,7 +2529,7 @@
     "deadline_display": "April 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:47.945190+00:00"
+    "scraped_at": "2026-01-04T21:08:33.083249+00:00"
   },
   {
     "id": "4190316984c6",
@@ -2528,7 +2561,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:48.655147+00:00"
+    "scraped_at": "2026-01-04T21:08:33.656533+00:00"
   },
   {
     "id": "f0dfcf804837",
@@ -2553,7 +2586,7 @@
     "deadline_display": "March 28, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:48.993972+00:00"
+    "scraped_at": "2026-01-04T21:08:34.335353+00:00"
   },
   {
     "id": "0f7ce6b8a4d9",
@@ -2582,11 +2615,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-16",
-    "deadline_display": "January 16, 2025",
+    "deadline": "2025-12-03",
+    "deadline_display": "Dec. 3, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:49.362210+00:00"
+    "scraped_at": "2026-01-04T21:08:35.715725+00:00"
   },
   {
     "id": "1a395ffe295e",
@@ -2616,7 +2649,7 @@
     "deadline_display": "February 10, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:49.734559+00:00"
+    "scraped_at": "2026-01-04T21:08:36.115934+00:00"
   },
   {
     "id": "3a5a3c8ae9e3",
@@ -2647,11 +2680,11 @@
         "$3,000"
       ]
     },
-    "deadline": "2025-02-28",
-    "deadline_display": "February 28, 2025",
+    "deadline": "2026-02-28",
+    "deadline_display": "February 28, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:50.059734+00:00"
+    "scraped_at": "2026-01-04T21:08:39.303193+00:00"
   },
   {
     "id": "da253faf3519",
@@ -2682,7 +2715,7 @@
     "deadline_display": "December 11, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:50.517359+00:00"
+    "scraped_at": "2026-01-04T21:08:39.877754+00:00"
   },
   {
     "id": "d557bbdc3411",
@@ -2716,7 +2749,7 @@
     "deadline_display": "July 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:50.866617+00:00"
+    "scraped_at": "2026-01-04T21:08:41.005762+00:00"
   },
   {
     "id": "4a65f68c1e7a",
@@ -2742,11 +2775,11 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": "August",
+    "deadline": "2025-08-11",
+    "deadline_display": "August 11, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:51.286274+00:00"
+    "scraped_at": "2026-01-04T21:08:41.694270+00:00"
   },
   {
     "id": "efd0d99c1b3a",
@@ -2781,7 +2814,7 @@
     "deadline_display": "January 16, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:51.600815+00:00"
+    "scraped_at": "2026-01-04T21:08:43.472568+00:00"
   },
   {
     "id": "de82c05e69ab",
@@ -2809,11 +2842,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-05-01",
-    "deadline_display": "May 1, 2025",
+    "deadline": "2026-05-01",
+    "deadline_display": "May 01, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:52.047948+00:00"
+    "scraped_at": "2026-01-04T21:08:44.532103+00:00"
   },
   {
     "id": "89313c4b0186",
@@ -2846,7 +2879,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:52.896397+00:00"
+    "scraped_at": "2026-01-04T21:08:45.352221+00:00"
   },
   {
     "id": "a87f284ecb95",
@@ -2872,11 +2905,11 @@
         "stem"
       ]
     },
-    "deadline": "2024-10-08",
-    "deadline_display": "October 8, 2024",
+    "deadline": "2026-06-01",
+    "deadline_display": "June 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:53.226037+00:00"
+    "scraped_at": "2026-01-04T21:08:46.167052+00:00"
   },
   {
     "id": "77196c708907",
@@ -2907,7 +2940,7 @@
     "deadline_display": "February 14, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:53.642590+00:00"
+    "scraped_at": "2026-01-04T21:08:46.999405+00:00"
   },
   {
     "id": "aae57b048411",
@@ -2934,11 +2967,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-15",
-    "deadline_display": "January 15, 2025",
+    "deadline": "2025-10-08",
+    "deadline_display": "October 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:54.049655+00:00"
+    "scraped_at": "2026-01-04T21:08:48.241524+00:00"
   },
   {
     "id": "d68c829d07df",
@@ -2973,7 +3006,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:56.521506+00:00"
+    "scraped_at": "2026-01-04T21:08:49.345258+00:00"
   },
   {
     "id": "f1aef6184071",
@@ -3003,7 +3036,7 @@
     "deadline_display": "December 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:56.845772+00:00"
+    "scraped_at": "2026-01-04T21:08:50.117267+00:00"
   },
   {
     "id": "2ba4dff772bb",
@@ -3029,11 +3062,11 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": "January",
+    "deadline": "2026-01-30",
+    "deadline_display": "January 30, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T17:59:59.239788+00:00"
+    "scraped_at": "2026-01-04T21:08:52.255201+00:00"
   },
   {
     "id": "9bf0f5b2583b",
@@ -3061,7 +3094,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:00.935735+00:00"
+    "scraped_at": "2026-01-04T21:08:54.086350+00:00"
   },
   {
     "id": "9078e1b2441a",
@@ -3097,7 +3130,7 @@
     "deadline_display": "January 7, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:01.930435+00:00"
+    "scraped_at": "2026-01-04T21:08:55.027704+00:00"
   },
   {
     "id": "dac091a6924e",
@@ -3128,7 +3161,7 @@
     "deadline_display": "February 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:02.293291+00:00"
+    "scraped_at": "2026-01-04T21:08:56.805994+00:00"
   },
   {
     "id": "8616b736f7f6",
@@ -3150,7 +3183,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:03.558312+00:00"
+    "scraped_at": "2026-01-04T21:08:58.087711+00:00"
   },
   {
     "id": "0b40abcaa3c9",
@@ -3175,13 +3208,16 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$43,500"
       ]
     },
-    "deadline": "2025-01-07",
-    "deadline_display": "January 7, 2025",
+    "deadline": "2025-02-02",
+    "deadline_display": "2025-02-02",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:04.039553+00:00"
+    "scraped_at": "2026-01-04T21:08:59.133994+00:00"
   },
   {
     "id": "f7a06b0ee09e",
@@ -3213,7 +3249,7 @@
     "deadline_display": "February 6, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:04.373410+00:00"
+    "scraped_at": "2026-01-04T21:08:59.823304+00:00"
   },
   {
     "id": "6ca7ecb80573",
@@ -3242,13 +3278,18 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$270,000",
+        "$34,315",
+        "$37,500"
       ]
     },
     "deadline": "2025-10-19",
     "deadline_display": "October 19, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:04.735020+00:00"
+    "scraped_at": "2026-01-04T21:09:08.129235+00:00"
   },
   {
     "id": "0d2e2a58b499",
@@ -3267,7 +3308,7 @@
     "deadline_display": "February 9, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:05.214313+00:00"
+    "scraped_at": "2026-01-04T21:09:08.774793+00:00"
   },
   {
     "id": "e2acda948bb1",
@@ -3301,7 +3342,7 @@
     "deadline_display": "April 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:05.598575+00:00"
+    "scraped_at": "2026-01-04T21:09:09.894528+00:00"
   },
   {
     "id": "a838cbbb369c",
@@ -3333,7 +3374,7 @@
     "deadline_display": "September 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:06.160803+00:00"
+    "scraped_at": "2026-01-04T21:09:11.112905+00:00"
   },
   {
     "id": "68cacb32831e",
@@ -3367,7 +3408,7 @@
     "deadline_display": "August 20, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:06.483368+00:00"
+    "scraped_at": "2026-01-04T21:09:11.972719+00:00"
   },
   {
     "id": "4a19d7b74b8a",
@@ -3398,7 +3439,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:07.293897+00:00"
+    "scraped_at": "2026-01-04T21:09:12.967427+00:00"
   },
   {
     "id": "6fd56cb7f057",
@@ -3424,11 +3465,11 @@
         "social_sciences"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
+    "deadline": "2024-08-12",
+    "deadline_display": "Aug 12, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:08.281030+00:00"
+    "scraped_at": "2026-01-04T21:09:14.146141+00:00"
   },
   {
     "id": "6a7388b6d69e",
@@ -3458,11 +3499,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-10-15",
-    "deadline_display": "October 15, 2025",
+    "deadline": "2025-12-23",
+    "deadline_display": "December 23, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:08.612215+00:00"
+    "scraped_at": "2026-01-04T21:09:15.629335+00:00"
   },
   {
     "id": "2f485a5d18b8",
@@ -3496,7 +3537,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:09.775941+00:00"
+    "scraped_at": "2026-01-04T21:09:17.254564+00:00"
   },
   {
     "id": "64f47cda3bba",
@@ -3519,13 +3560,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$3,000"
       ]
     },
-    "deadline": "2025-04-15",
-    "deadline_display": "April 15, 2025",
+    "deadline": "2026-05-15",
+    "deadline_display": "May 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:10.336253+00:00"
+    "scraped_at": "2026-01-04T21:09:18.320877+00:00"
   },
   {
     "id": "993954db88fb",
@@ -3547,7 +3591,7 @@
     "deadline_display": "April 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:10.803407+00:00"
+    "scraped_at": "2026-01-04T21:09:18.764626+00:00"
   },
   {
     "id": "0eaff33c4975",
@@ -3579,7 +3623,7 @@
     "deadline_display": "August 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:11.206815+00:00"
+    "scraped_at": "2026-01-04T21:09:20.253677+00:00"
   },
   {
     "id": "004b3e9265cc",
@@ -3604,13 +3648,18 @@
         "arts",
         "humanities",
         "social_sciences"
+      ],
+      "funding": [
+        "$1,500",
+        "$3,000",
+        "$4,500"
       ]
     },
-    "deadline": "2025-10-01",
-    "deadline_display": "October 1, 2025",
+    "deadline": "2026-02-02",
+    "deadline_display": "February 2, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:11.542219+00:00"
+    "scraped_at": "2026-01-04T21:09:22.256553+00:00"
   },
   {
     "id": "a7a38d1a213e",
@@ -3638,11 +3687,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-03-18",
-    "deadline_display": "March 18, 2025",
+    "deadline": "2025-09-01",
+    "deadline_display": "September 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:11.926121+00:00"
+    "scraped_at": "2026-01-04T21:09:23.391231+00:00"
   },
   {
     "id": "ddecbe82d442",
@@ -3667,7 +3716,7 @@
     "deadline_display": "October 12, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:12.388490+00:00"
+    "scraped_at": "2026-01-04T21:09:25.609833+00:00"
   },
   {
     "id": "ef362a0da9e9",
@@ -3695,11 +3744,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-12-09",
-    "deadline_display": "December 9, 2025",
+    "deadline": "2026-01-30",
+    "deadline_display": "January 30, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:12.729078+00:00"
+    "scraped_at": "2026-01-04T21:09:42.964408+00:00"
   },
   {
     "id": "f27ffb91c638",
@@ -3733,7 +3782,7 @@
     "deadline_display": "December 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:13.107296+00:00"
+    "scraped_at": "2026-01-04T21:09:44.870307+00:00"
   },
   {
     "id": "8fc32ed75c42",
@@ -3762,7 +3811,7 @@
     "deadline_display": "January 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:13.517078+00:00"
+    "scraped_at": "2026-01-04T21:09:46.150317+00:00"
   },
   {
     "id": "4ee6699a9d31",
@@ -3797,7 +3846,7 @@
     "deadline_display": "February 24, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:13.822557+00:00"
+    "scraped_at": "2026-01-04T21:09:46.616558+00:00"
   },
   {
     "id": "191c29cb0c04",
@@ -3834,7 +3883,7 @@
     "deadline_display": "February 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:14.139017+00:00"
+    "scraped_at": "2026-01-04T21:09:47.295254+00:00"
   },
   {
     "id": "1a7f99ec29c7",
@@ -3853,13 +3902,18 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$880",
+        "$600",
+        "$280"
       ]
     },
     "deadline": "2025-04-30",
     "deadline_display": "April 30, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:14.495447+00:00"
+    "scraped_at": "2026-01-04T21:09:48.289852+00:00"
   },
   {
     "id": "2e51a91822b5",
@@ -3889,11 +3943,11 @@
         "stem"
       ]
     },
-    "deadline": "2026-03-15",
-    "deadline_display": "March 15, 2026",
+    "deadline": "2026-01-15",
+    "deadline_display": "January 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:14.865930+00:00"
+    "scraped_at": "2026-01-04T21:09:50.475684+00:00"
   },
   {
     "id": "ea081174d10e",
@@ -3918,7 +3972,7 @@
     "deadline_display": "January 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:15.226227+00:00"
+    "scraped_at": "2026-01-04T21:09:53.430421+00:00"
   },
   {
     "id": "42d02cfa136a",
@@ -3945,13 +3999,17 @@
       "field": [
         "humanities",
         "social_sciences"
+      ],
+      "funding": [
+        "$3,000",
+        "$5,000"
       ]
     },
     "deadline": "2025-04-01",
     "deadline_display": "April 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:15.615494+00:00"
+    "scraped_at": "2026-01-04T21:09:54.703786+00:00"
   },
   {
     "id": "080a62651edc",
@@ -3984,7 +4042,7 @@
     "deadline_display": "December 7, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:15.942974+00:00"
+    "scraped_at": "2026-01-04T21:09:55.768024+00:00"
   },
   {
     "id": "9331d594a484",
@@ -4019,7 +4077,7 @@
     "deadline_display": "March 2, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:16.276261+00:00"
+    "scraped_at": "2026-01-04T21:09:56.381697+00:00"
   },
   {
     "id": "98ed4e8dd10d",
@@ -4049,7 +4107,7 @@
     "deadline_display": "June 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:17.112599+00:00"
+    "scraped_at": "2026-01-04T21:09:57.702461+00:00"
   },
   {
     "id": "bc0184088073",
@@ -4078,7 +4136,7 @@
     "deadline_display": "March 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:17.528316+00:00"
+    "scraped_at": "2026-01-04T21:09:59.063477+00:00"
   },
   {
     "id": "a2acc358d2cd",
@@ -4110,11 +4168,11 @@
         "stem"
       ]
     },
-    "deadline": "2024-12-18",
-    "deadline_display": "December 18, 2024",
+    "deadline": "2026-01-12",
+    "deadline_display": "January 12, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:17.860174+00:00"
+    "scraped_at": "2026-01-04T21:10:00.003747+00:00"
   },
   {
     "id": "3ac675795ae9",
@@ -4154,7 +4212,7 @@
     "deadline_display": "March 2, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:18.375650+00:00"
+    "scraped_at": "2026-01-04T21:10:00.346110+00:00"
   },
   {
     "id": "682be3864e39",
@@ -4186,7 +4244,7 @@
     "deadline_display": "October 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:18.787585+00:00"
+    "scraped_at": "2026-01-04T21:10:01.665215+00:00"
   },
   {
     "id": "9d1d1229dc78",
@@ -4210,13 +4268,17 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$9,500",
+        "$700"
       ]
     },
     "deadline": "2026-01-31",
     "deadline_display": "January 31, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:19.182815+00:00"
+    "scraped_at": "2026-01-04T21:10:02.584395+00:00"
   },
   {
     "id": "b99721828db6",
@@ -4247,7 +4309,7 @@
     "deadline_display": "April 7, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:19.604180+00:00"
+    "scraped_at": "2026-01-04T21:10:02.975103+00:00"
   },
   {
     "id": "aa3ee3bc64fe",
@@ -4277,11 +4339,11 @@
         "$3,000"
       ]
     },
-    "deadline": "2026-01-09",
-    "deadline_display": "January 9, 2026",
+    "deadline": "2025-06-27",
+    "deadline_display": "June 27, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:19.933112+00:00"
+    "scraped_at": "2026-01-04T21:10:03.773142+00:00"
   },
   {
     "id": "b172aa7d3f1e",
@@ -4307,11 +4369,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-03-16",
-    "deadline_display": "March 16, 2025",
+    "deadline": "2025-03-05",
+    "deadline_display": "March 5, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:20.337133+00:00"
+    "scraped_at": "2026-01-04T21:10:06.259639+00:00"
   },
   {
     "id": "64e5fd210d57",
@@ -4337,11 +4399,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-10",
-    "deadline_display": "January 10, 2025",
+    "deadline": "2026-02-09",
+    "deadline_display": "February 9, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:20.836693+00:00"
+    "scraped_at": "2026-01-04T21:10:08.083217+00:00"
   },
   {
     "id": "ee84ce0188e1",
@@ -4372,7 +4434,7 @@
     "deadline_display": "February 3, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:21.352381+00:00"
+    "scraped_at": "2026-01-04T21:10:09.054510+00:00"
   },
   {
     "id": "77f5262b12b8",
@@ -4405,7 +4467,7 @@
     "deadline_display": "March 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:21.857687+00:00"
+    "scraped_at": "2026-01-04T21:10:10.547191+00:00"
   },
   {
     "id": "c98f55f05597",
@@ -4441,7 +4503,7 @@
     "deadline_display": "December 6, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:22.220900+00:00"
+    "scraped_at": "2026-01-04T21:10:11.766208+00:00"
   },
   {
     "id": "4290ddf655f7",
@@ -4466,13 +4528,17 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$3",
+        "$6"
       ]
     },
     "deadline": "2025-04-25",
     "deadline_display": "April 25, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:22.560884+00:00"
+    "scraped_at": "2026-01-04T21:10:13.140889+00:00"
   },
   {
     "id": "8a2f2909a703",
@@ -4503,7 +4569,7 @@
     "deadline_display": "February 16, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:22.982689+00:00"
+    "scraped_at": "2026-01-04T21:10:14.235099+00:00"
   },
   {
     "id": "ee11f767de57",
@@ -4534,11 +4600,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-31",
-    "deadline_display": "January 31, 2025",
+    "deadline": "2025-10-17",
+    "deadline_display": "October 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:23.403549+00:00"
+    "scraped_at": "2026-01-04T21:10:15.267829+00:00"
   },
   {
     "id": "dd6899a6d776",
@@ -4565,7 +4631,7 @@
     "deadline_display": "March 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:23.826095+00:00"
+    "scraped_at": "2026-01-04T21:10:21.071208+00:00"
   },
   {
     "id": "6edc79f996ff",
@@ -4595,7 +4661,7 @@
     "deadline_display": "June 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:24.123527+00:00"
+    "scraped_at": "2026-01-04T21:10:22.364812+00:00"
   },
   {
     "id": "6a30be360090",
@@ -4627,7 +4693,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:24.903709+00:00"
+    "scraped_at": "2026-01-04T21:10:23.150240+00:00"
   },
   {
     "id": "297bf436f225",
@@ -4661,11 +4727,11 @@
         "stem"
       ]
     },
-    "deadline": "2024-07-15",
-    "deadline_display": "July 15, 2024",
+    "deadline": "2026-03-15",
+    "deadline_display": "March 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:25.311252+00:00"
+    "scraped_at": "2026-01-04T21:10:27.381762+00:00"
   },
   {
     "id": "cf16ba3b49b4",
@@ -4700,7 +4766,7 @@
     "deadline_display": "January 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:25.694461+00:00"
+    "scraped_at": "2026-01-04T21:10:28.119974+00:00"
   },
   {
     "id": "6b261fb29317",
@@ -4726,11 +4792,11 @@
         "$18"
       ]
     },
-    "deadline": "2025-01-18",
-    "deadline_display": "January 18, 2025",
+    "deadline": "2025-12-08",
+    "deadline_display": "December 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:26.112824+00:00"
+    "scraped_at": "2026-01-04T21:10:29.033415+00:00"
   },
   {
     "id": "a9e82b954531",
@@ -4768,7 +4834,7 @@
     "deadline_display": "March 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:26.458121+00:00"
+    "scraped_at": "2026-01-04T21:10:29.959795+00:00"
   },
   {
     "id": "e1158cc80c12",
@@ -4801,7 +4867,7 @@
     "deadline_display": "January 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:26.883153+00:00"
+    "scraped_at": "2026-01-04T21:10:30.702609+00:00"
   },
   {
     "id": "c3c84eb92eb3",
@@ -4826,13 +4892,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$14"
       ]
     },
     "deadline": "2025-03-17",
     "deadline_display": "March 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:27.257435+00:00"
+    "scraped_at": "2026-01-04T21:10:32.839650+00:00"
   },
   {
     "id": "2809059b3f7a",
@@ -4864,7 +4933,7 @@
     "deadline_display": "December 9, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:27.674084+00:00"
+    "scraped_at": "2026-01-04T21:10:35.579974+00:00"
   },
   {
     "id": "6ab132b3134c",
@@ -4892,11 +4961,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-03-09",
-    "deadline_display": "March 9, 2025",
+    "deadline": "2025-07-11",
+    "deadline_display": "July\u00a011,\u00a02025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:28.205070+00:00"
+    "scraped_at": "2026-01-04T21:10:36.934370+00:00"
   },
   {
     "id": "ae32614cdae0",
@@ -4926,12 +4995,12 @@
     "deadline_display": "November 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:28.635569+00:00"
+    "scraped_at": "2026-01-04T21:10:37.879871+00:00"
   },
   {
     "id": "fa819b8411ad",
     "name": "Japanese Studies Scholarship (MEXT)",
-    "description": "The Ministry of Education, Culture, Sports, Science and Technology (MEXT) Japanese Studies Scholarship provides a one-year scholarship to study in Japan for currently enrolled undergraduate students majoring in Japanese language, Japanese affairs or Japanese culture.EligibilityHold U.S. citizenship. and live, study, work or maintain a home address in Connecticut (Fairfield County only), Delaware, New York, New Jersey, Pennsylvania, West Virginia, Puerto Rico and Virgin Islands.Fit the age requirements of the program (specific date of birth requirements are published on the MEXT website each year)Be a current undergraduate student majoring in fields related to Japanese language or Japanese culture at a non-Japanese University at the time of arriving in and leaving Japan.Must have studied Ja",
+    "description": "Foreign Language Learning",
     "discipline": "Foreign Language Learning",
     "url": "https://urf.columbia.edu/fellowship/japanese-studies-scholarship-mext",
     "source": "URF",
@@ -4941,6 +5010,7 @@
         "undergraduate"
       ],
       "citizenship": [
+        "international",
         "us_citizen"
       ],
       "type": [
@@ -4955,7 +5025,7 @@
     "deadline_display": "February 13, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:29.056389+00:00"
+    "scraped_at": "2026-01-04T21:10:38.280502+00:00"
   },
   {
     "id": "614a11813d12",
@@ -4992,7 +5062,7 @@
     "deadline_display": "January 31, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:29.367276+00:00"
+    "scraped_at": "2026-01-04T21:10:39.382543+00:00"
   },
   {
     "id": "1966201b8c32",
@@ -5013,33 +5083,35 @@
       "field": [
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$4,000",
+        "$80,000"
       ]
     },
-    "deadline": "2025-10-08",
-    "deadline_display": "October 8, 2025",
+    "deadline": "2025-11-03",
+    "deadline_display": "November 3, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:29.783937+00:00"
+    "scraped_at": "2026-01-04T21:10:40.183074+00:00"
   },
   {
     "id": "755da4f64bf6",
     "name": "Kellett Fellowships",
-    "description": "The Euretta J. Kellett Fellowship, awarded annually since 1932,  provides Columbia College graduating seniors with funding for one or two years of study in any field at eitherCambridgeorOxford. The proposed course of study can be either a one-year, two-year, or two related one-year degrees. All proposed courses must be for full-time study. Your undergraduate program must provide a solid foundation for your proposed course of study.The selection committee considers academic distinction and the suitability of the proposed course to be the most important considerations in evaluating candidates, but each candidate\u2019s ability to contribute to his or her community in the U.K. will also be considered, as will the potential for the fellowship to be a truly broadening experience. Finalists for this ",
+    "description": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
     "discipline": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/kellett-fellowships",
     "source": "URF",
     "source_url": "https://urf.columbia.edu/opportunity/search",
     "tags": {
-      "level": [
-        "undergraduate"
-      ],
       "citizenship": [
         "international",
         "us_citizen",
         "permanent_resident"
       ],
       "type": [
-        "fellowship"
+        "fellowship",
+        "language"
       ],
       "field": [
         "arts",
@@ -5049,11 +5121,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-12-11",
-    "deadline_display": "December 11, 2025",
+    "deadline": null,
+    "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:30.619212+00:00"
+    "scraped_at": "2026-01-04T21:10:40.445236+00:00"
   },
   {
     "id": "56790abb9b95",
@@ -5084,7 +5156,7 @@
     "deadline_display": "October 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:30.933645+00:00"
+    "scraped_at": "2026-01-04T21:10:41.918675+00:00"
   },
   {
     "id": "bb6d971af0e0",
@@ -5115,7 +5187,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:31.619383+00:00"
+    "scraped_at": "2026-01-04T21:10:42.719273+00:00"
   },
   {
     "id": "395a5adb5d00",
@@ -5142,13 +5214,18 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$20",
+        "$50",
+        "$100"
       ]
     },
-    "deadline": "2024-03-22",
-    "deadline_display": "March 22, 2024",
+    "deadline": "2026-03-02",
+    "deadline_display": "March 2, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:32.005658+00:00"
+    "scraped_at": "2026-01-04T21:10:45.992024+00:00"
   },
   {
     "id": "26b78fe1f6f0",
@@ -5180,7 +5257,7 @@
     "deadline_display": "January 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:32.404236+00:00"
+    "scraped_at": "2026-01-04T21:10:47.746379+00:00"
   },
   {
     "id": "ae5559c860ef",
@@ -5212,7 +5289,7 @@
     "deadline_display": "November 30, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:32.829565+00:00"
+    "scraped_at": "2026-01-04T21:10:49.152058+00:00"
   },
   {
     "id": "e08f15d4df1b",
@@ -5244,11 +5321,11 @@
         "$500"
       ]
     },
-    "deadline": "2026-02-17",
-    "deadline_display": "February 17, 2026",
+    "deadline": "2025-10-02",
+    "deadline_display": "October 2, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:33.315986+00:00"
+    "scraped_at": "2026-01-04T21:10:50.755686+00:00"
   },
   {
     "id": "018f96b4e0be",
@@ -5272,7 +5349,7 @@
     "deadline_display": "February 10, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:33.703288+00:00"
+    "scraped_at": "2026-01-04T21:10:51.217076+00:00"
   },
   {
     "id": "6c43e3dcaf58",
@@ -5292,13 +5369,16 @@
       ],
       "field": [
         "social_sciences"
+      ],
+      "funding": [
+        "$85"
       ]
     },
-    "deadline": "2024-06-15",
-    "deadline_display": "June 15, 2024",
+    "deadline": "2026-04-15",
+    "deadline_display": "April 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:34.108143+00:00"
+    "scraped_at": "2026-01-04T21:10:52.374558+00:00"
   },
   {
     "id": "c53fcc751dc5",
@@ -5324,7 +5404,7 @@
     "deadline_display": "October 27, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:34.511587+00:00"
+    "scraped_at": "2026-01-04T21:10:53.208543+00:00"
   },
   {
     "id": "0bfc2cea62e8",
@@ -5356,7 +5436,7 @@
     "deadline_display": "January 21, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:34.989793+00:00"
+    "scraped_at": "2026-01-04T21:10:54.245563+00:00"
   },
   {
     "id": "002bfcda01ce",
@@ -5376,11 +5456,11 @@
         "stem"
       ]
     },
-    "deadline": "2024-12-30",
-    "deadline_display": "December 30, 2024",
+    "deadline": "1944-11-27",
+    "deadline_display": "November 27, 1944",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:35.484340+00:00"
+    "scraped_at": "2026-01-04T21:10:57.507854+00:00"
   },
   {
     "id": "3f59475f71ab",
@@ -5413,11 +5493,11 @@
         "$10,000"
       ]
     },
-    "deadline": "2026-01-02",
+    "deadline": "2026-01-03",
     "deadline_display": "Closed",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:37.146745+00:00"
+    "scraped_at": "2026-01-04T21:11:00.541172+00:00"
   },
   {
     "id": "c6670d2f96c3",
@@ -5454,7 +5534,7 @@
     "deadline_display": "January 2, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:37.984843+00:00"
+    "scraped_at": "2026-01-04T21:11:02.023858+00:00"
   },
   {
     "id": "91b832521893",
@@ -5484,13 +5564,17 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$99",
+        "$199"
       ]
     },
-    "deadline": "2025-04-06",
-    "deadline_display": "April 6, 2025",
+    "deadline": null,
+    "deadline_display": "31/07/2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:38.292932+00:00"
+    "scraped_at": "2026-01-04T21:11:03.432401+00:00"
   },
   {
     "id": "ccbbec1d649b",
@@ -5520,11 +5604,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-09-15",
-    "deadline_display": "September 15, 2025",
+    "deadline": "2025-07-01",
+    "deadline_display": "July 01, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:38.697354+00:00"
+    "scraped_at": "2026-01-04T21:11:05.889602+00:00"
   },
   {
     "id": "f538d50e5be9",
@@ -5557,7 +5641,7 @@
     "deadline_display": "February 16, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:39.056221+00:00"
+    "scraped_at": "2026-01-04T21:11:06.865993+00:00"
   },
   {
     "id": "2c40cc1c39cf",
@@ -5591,7 +5675,7 @@
     "deadline_display": "January 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:39.459285+00:00"
+    "scraped_at": "2026-01-04T21:11:07.929926+00:00"
   },
   {
     "id": "19339d57ce6a",
@@ -5624,7 +5708,7 @@
     "deadline_display": "April 21, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:39.844729+00:00"
+    "scraped_at": "2026-01-04T21:11:08.294990+00:00"
   },
   {
     "id": "cc84f6613970",
@@ -5648,13 +5732,16 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$18"
       ]
     },
     "deadline": "2025-01-24",
     "deadline_display": "January 24, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:40.237576+00:00"
+    "scraped_at": "2026-01-04T21:11:10.074367+00:00"
   },
   {
     "id": "d0af480d3fb6",
@@ -5680,11 +5767,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-08-05",
-    "deadline_display": "August 5, 2025",
+    "deadline": "2025-04-09",
+    "deadline_display": "04/09/2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:40.714526+00:00"
+    "scraped_at": "2026-01-04T21:11:14.966279+00:00"
   },
   {
     "id": "82afa85fa96b",
@@ -5711,7 +5798,7 @@
     "deadline_display": "February 5, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:41.041198+00:00"
+    "scraped_at": "2026-01-04T21:11:16.453882+00:00"
   },
   {
     "id": "f0b6857187db",
@@ -5743,7 +5830,7 @@
     "deadline_display": "September 24, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:41.427005+00:00"
+    "scraped_at": "2026-01-04T21:11:17.460975+00:00"
   },
   {
     "id": "2603f5df678b",
@@ -5776,7 +5863,7 @@
     "deadline_display": "December 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:41.874796+00:00"
+    "scraped_at": "2026-01-04T21:11:18.694868+00:00"
   },
   {
     "id": "a739087b7d9a",
@@ -5808,7 +5895,7 @@
     "deadline_display": "February 3, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:42.329875+00:00"
+    "scraped_at": "2026-01-04T21:11:19.871212+00:00"
   },
   {
     "id": "64e3f67fae5d",
@@ -5842,11 +5929,11 @@
         "$800"
       ]
     },
-    "deadline": "2026-02-17",
-    "deadline_display": "February 17, 2026",
+    "deadline": "2023-05-03",
+    "deadline_display": "May 3, 2023",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:42.823441+00:00"
+    "scraped_at": "2026-01-04T21:11:21.411037+00:00"
   },
   {
     "id": "c17d0d1fb02e",
@@ -5873,11 +5960,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-11-02",
-    "deadline_display": "November 2, 2025",
+    "deadline": "2026-01-11",
+    "deadline_display": "January 11, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:43.128707+00:00"
+    "scraped_at": "2026-01-04T21:11:22.070618+00:00"
   },
   {
     "id": "1e546c4d2c44",
@@ -5902,13 +5989,16 @@
       ],
       "field": [
         "social_sciences"
+      ],
+      "funding": [
+        "$80,000"
       ]
     },
-    "deadline": "2025-10-13",
-    "deadline_display": "October 13, 2025",
+    "deadline": "2025-11-15",
+    "deadline_display": "November 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:43.517051+00:00"
+    "scraped_at": "2026-01-04T21:11:24.132077+00:00"
   },
   {
     "id": "bec3d721d6a3",
@@ -5932,11 +6022,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-03-31",
-    "deadline_display": "March 31, 2025",
+    "deadline": "2026-01-31",
+    "deadline_display": "January 31, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:43.944848+00:00"
+    "scraped_at": "2026-01-04T21:11:25.132954+00:00"
   },
   {
     "id": "0752f597b636",
@@ -5971,7 +6061,7 @@
     "deadline_display": "May 23, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:44.367133+00:00"
+    "scraped_at": "2026-01-04T21:11:26.217189+00:00"
   },
   {
     "id": "466ceba0cb9e",
@@ -6002,11 +6092,11 @@
         "humanities"
       ]
     },
-    "deadline": "2025-01-20",
-    "deadline_display": "January 20, 2025",
+    "deadline": "2026-02-23",
+    "deadline_display": "February 23rd, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:44.748578+00:00"
+    "scraped_at": "2026-01-04T21:11:27.605841+00:00"
   },
   {
     "id": "c541652a653e",
@@ -6036,11 +6126,11 @@
         "stem"
       ]
     },
-    "deadline": "2026-04-15",
-    "deadline_display": "April 15, 2026",
+    "deadline": "2025-10-20",
+    "deadline_display": "Oct 20, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:45.087161+00:00"
+    "scraped_at": "2026-01-04T21:11:28.768597+00:00"
   },
   {
     "id": "6130b4d165ff",
@@ -6070,7 +6160,7 @@
     "deadline_display": "Closed",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:47.250623+00:00"
+    "scraped_at": "2026-01-04T21:11:30.359337+00:00"
   },
   {
     "id": "6bfef545b551",
@@ -6106,7 +6196,7 @@
     "deadline_display": "February 29, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:47.620416+00:00"
+    "scraped_at": "2026-01-04T21:11:31.018470+00:00"
   },
   {
     "id": "7d420a7d5577",
@@ -6135,7 +6225,7 @@
     "deadline_display": "January 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:48.077300+00:00"
+    "scraped_at": "2026-01-04T21:11:33.485353+00:00"
   },
   {
     "id": "ee4245fad1ff",
@@ -6167,7 +6257,7 @@
     "deadline_display": "February 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:48.387184+00:00"
+    "scraped_at": "2026-01-04T21:11:34.771962+00:00"
   },
   {
     "id": "3b1741d641c4",
@@ -6197,11 +6287,11 @@
         "social_sciences"
       ]
     },
-    "deadline": "2024-05-30",
-    "deadline_display": "May 30, 2024",
+    "deadline": "2025-08-04",
+    "deadline_display": "August 4, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:48.773228+00:00"
+    "scraped_at": "2026-01-04T21:11:36.049816+00:00"
   },
   {
     "id": "20f14a14ae93",
@@ -6223,7 +6313,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:49.748748+00:00"
+    "scraped_at": "2026-01-04T21:11:37.213712+00:00"
   },
   {
     "id": "2a13f99b4cb4",
@@ -6254,11 +6344,11 @@
         "language"
       ]
     },
-    "deadline": "2025-03-07",
-    "deadline_display": "March 7, 2025",
+    "deadline": "2025-10-17",
+    "deadline_display": "October 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:50.215510+00:00"
+    "scraped_at": "2026-01-04T21:11:37.710647+00:00"
   },
   {
     "id": "5f9cedeefbea",
@@ -6286,7 +6376,7 @@
     "deadline_display": "November 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:50.667066+00:00"
+    "scraped_at": "2026-01-04T21:11:38.949143+00:00"
   },
   {
     "id": "c7684dc26a4d",
@@ -6311,7 +6401,7 @@
     "deadline_display": "May 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:51.040328+00:00"
+    "scraped_at": "2026-01-04T21:11:40.096690+00:00"
   },
   {
     "id": "2c2cd524dabf",
@@ -6345,7 +6435,7 @@
     "deadline_display": "January 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:51.368743+00:00"
+    "scraped_at": "2026-01-04T21:11:41.182398+00:00"
   },
   {
     "id": "cbcd900814b1",
@@ -6375,7 +6465,7 @@
     "deadline_display": "December 2, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:51.803158+00:00"
+    "scraped_at": "2026-01-04T21:11:42.470158+00:00"
   },
   {
     "id": "22b4d2086fb0",
@@ -6405,11 +6495,11 @@
         "stem"
       ]
     },
-    "deadline": "2024-03-29",
-    "deadline_display": "March 29, 2024",
+    "deadline": "2026-03-24",
+    "deadline_display": "March 24, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:52.267746+00:00"
+    "scraped_at": "2026-01-04T21:11:43.419839+00:00"
   },
   {
     "id": "a4878689b327",
@@ -6447,7 +6537,7 @@
     "deadline_display": "March 1, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:52.584900+00:00"
+    "scraped_at": "2026-01-04T21:11:44.048051+00:00"
   },
   {
     "id": "c534558a6e4d",
@@ -6473,13 +6563,17 @@
       "field": [
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$37,000",
+        "$16,000"
       ]
     },
     "deadline": "2025-11-07",
     "deadline_display": "November 7, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:52.959552+00:00"
+    "scraped_at": "2026-01-04T21:11:45.185331+00:00"
   },
   {
     "id": "48af2c4dbd45",
@@ -6513,7 +6607,7 @@
     "deadline_display": "November 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:53.375186+00:00"
+    "scraped_at": "2026-01-04T21:11:46.538821+00:00"
   },
   {
     "id": "610879870e9a",
@@ -6545,7 +6639,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:53.891331+00:00"
+    "scraped_at": "2026-01-04T21:11:47.353883+00:00"
   },
   {
     "id": "7da1a21a0aec",
@@ -6580,7 +6674,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:55.201802+00:00"
+    "scraped_at": "2026-01-04T21:11:48.732726+00:00"
   },
   {
     "id": "dd9b63b3c8df",
@@ -6608,11 +6702,11 @@
         "$1,000"
       ]
     },
-    "deadline": "2025-01-31",
-    "deadline_display": "January 31, 2025",
+    "deadline": "2026-01-30",
+    "deadline_display": "January 30, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:55.519344+00:00"
+    "scraped_at": "2026-01-04T21:11:51.013806+00:00"
   },
   {
     "id": "491399d65ca5",
@@ -6641,7 +6735,7 @@
     "deadline_display": "January 12, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:56.020927+00:00"
+    "scraped_at": "2026-01-04T21:11:52.043057+00:00"
   },
   {
     "id": "8ab7e83dfae4",
@@ -6670,13 +6764,17 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$8,800",
+        "$23,000"
       ]
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:56.495813+00:00"
+    "scraped_at": "2026-01-04T21:11:52.973082+00:00"
   },
   {
     "id": "f959ef83bfa6",
@@ -6701,7 +6799,7 @@
     "deadline_display": "December 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:56.803208+00:00"
+    "scraped_at": "2026-01-04T21:11:54.181819+00:00"
   },
   {
     "id": "5442c7ed39bd",
@@ -6732,7 +6830,7 @@
     "deadline_display": "December 4, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:57.162866+00:00"
+    "scraped_at": "2026-01-04T21:12:10.939652+00:00"
   },
   {
     "id": "7fead1ab1e71",
@@ -6757,11 +6855,11 @@
         "humanities"
       ]
     },
-    "deadline": null,
-    "deadline_display": "June",
+    "deadline": "2026-06-30",
+    "deadline_display": "June 30th, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:00:59.176471+00:00"
+    "scraped_at": "2026-01-04T21:12:13.546780+00:00"
   },
   {
     "id": "7592d6ccf64f",
@@ -6792,7 +6890,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:02.675374+00:00"
+    "scraped_at": "2026-01-04T21:12:17.026591+00:00"
   },
   {
     "id": "ece0374e4096",
@@ -6826,7 +6924,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:03.528853+00:00"
+    "scraped_at": "2026-01-04T21:12:17.973861+00:00"
   },
   {
     "id": "08c5087d5573",
@@ -6856,7 +6954,7 @@
     "deadline_display": "January 6, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:03.875340+00:00"
+    "scraped_at": "2026-01-04T21:12:19.734663+00:00"
   },
   {
     "id": "bb89bda497ec",
@@ -6894,7 +6992,7 @@
     "deadline_display": "April 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:04.267546+00:00"
+    "scraped_at": "2026-01-04T21:12:21.322709+00:00"
   },
   {
     "id": "3ba9a6350b1c",
@@ -6915,13 +7013,16 @@
       ],
       "field": [
         "humanities"
+      ],
+      "funding": [
+        "$30,000,"
       ]
     },
-    "deadline": "2024-11-04",
-    "deadline_display": "November 4, 2024",
+    "deadline": "2025-12-09",
+    "deadline_display": "December 9, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:04.622489+00:00"
+    "scraped_at": "2026-01-04T21:12:23.078365+00:00"
   },
   {
     "id": "5cafbce90725",
@@ -6953,7 +7054,7 @@
     "deadline_display": "March 15, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:04.910563+00:00"
+    "scraped_at": "2026-01-04T21:12:25.443760+00:00"
   },
   {
     "id": "6a963b0df3cd",
@@ -6981,11 +7082,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-21",
-    "deadline_display": "January 21, 2025",
+    "deadline": "2026-01-20",
+    "deadline_display": "January 20, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:05.391170+00:00"
+    "scraped_at": "2026-01-04T21:12:27.268746+00:00"
   },
   {
     "id": "526c53056c1a",
@@ -7020,7 +7121,7 @@
     "deadline_display": "September 26, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:05.880127+00:00"
+    "scraped_at": "2026-01-04T21:12:28.158787+00:00"
   },
   {
     "id": "5e57d87e7598",
@@ -7042,13 +7143,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$325"
       ]
     },
     "deadline": "2025-02-13",
     "deadline_display": "February 13, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:06.277059+00:00"
+    "scraped_at": "2026-01-04T21:12:29.188597+00:00"
   },
   {
     "id": "eedc1ca91af7",
@@ -7068,13 +7172,17 @@
       ],
       "field": [
         "arts"
+      ],
+      "funding": [
+        "$25,000",
+        "$3,000"
       ]
     },
-    "deadline": "2024-11-21",
-    "deadline_display": "November 21, 2024",
+    "deadline": "2027-07-01",
+    "deadline_display": "July 1, 2027",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:06.601081+00:00"
+    "scraped_at": "2026-01-04T21:12:31.457995+00:00"
   },
   {
     "id": "f9f7a5f1ed34",
@@ -7104,7 +7212,7 @@
     "deadline_display": "October 20, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:07.051321+00:00"
+    "scraped_at": "2026-01-04T21:12:32.479221+00:00"
   },
   {
     "id": "8bbb37f6d59c",
@@ -7130,11 +7238,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-03-09",
-    "deadline_display": "March 9, 2025",
+    "deadline": "2025-03-17",
+    "deadline_display": "Mar 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:07.433170+00:00"
+    "scraped_at": "2026-01-04T21:12:34.363087+00:00"
   },
   {
     "id": "4d01eebef9c2",
@@ -7155,13 +7263,16 @@
       ],
       "field": [
         "arts"
+      ],
+      "funding": [
+        "$15,000"
       ]
     },
-    "deadline": "2025-02-15",
-    "deadline_display": "February 15, 2025",
+    "deadline": "2026-02-02",
+    "deadline_display": "February 2, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:07.850377+00:00"
+    "scraped_at": "2026-01-04T21:12:35.876497+00:00"
   },
   {
     "id": "320cd44389a4",
@@ -7193,7 +7304,7 @@
     "deadline_display": "October 27, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:08.313094+00:00"
+    "scraped_at": "2026-01-04T21:12:40.630763+00:00"
   },
   {
     "id": "3e463788f6b7",
@@ -7223,11 +7334,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-11-01",
-    "deadline_display": "November 1, 2025",
+    "deadline": "2025-04-08",
+    "deadline_display": "Apr 8, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:08.697112+00:00"
+    "scraped_at": "2026-01-04T21:12:41.658119+00:00"
   },
   {
     "id": "5ef08c31f818",
@@ -7252,13 +7363,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$100"
       ]
     },
     "deadline": "2025-11-01",
     "deadline_display": "November 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:09.055928+00:00"
+    "scraped_at": "2026-01-04T21:12:43.114564+00:00"
   },
   {
     "id": "780b665330fa",
@@ -7286,13 +7400,18 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$7,200",
+        "$12,000",
+        "$880"
       ]
     },
     "deadline": "2025-03-02",
     "deadline_display": "March 2, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:09.370973+00:00"
+    "scraped_at": "2026-01-04T21:12:44.617640+00:00"
   },
   {
     "id": "efedf0285e3b",
@@ -7328,7 +7447,7 @@
     "deadline_display": "December 9, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:09.772147+00:00"
+    "scraped_at": "2026-01-04T21:12:45.415637+00:00"
   },
   {
     "id": "4d3ef8801ec7",
@@ -7361,7 +7480,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:11.753932+00:00"
+    "scraped_at": "2026-01-04T21:12:46.512076+00:00"
   },
   {
     "id": "9a5a9eba0614",
@@ -7388,7 +7507,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:12.577617+00:00"
+    "scraped_at": "2026-01-04T21:12:47.520955+00:00"
   },
   {
     "id": "4a7ad2fd9d77",
@@ -7420,11 +7539,11 @@
         "$5,000"
       ]
     },
-    "deadline": "2025-11-01",
-    "deadline_display": "November 1, 2025",
+    "deadline": "2026-01-30",
+    "deadline_display": "January 30, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:12.901947+00:00"
+    "scraped_at": "2026-01-04T21:12:48.283266+00:00"
   },
   {
     "id": "cc362943f677",
@@ -7456,7 +7575,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:17.313803+00:00"
+    "scraped_at": "2026-01-04T21:12:51.333917+00:00"
   },
   {
     "id": "4fbaf462b8f3",
@@ -7487,7 +7606,7 @@
     "deadline_display": "April 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:17.639164+00:00"
+    "scraped_at": "2026-01-04T21:12:53.823445+00:00"
   },
   {
     "id": "983f3e15c235",
@@ -7511,11 +7630,11 @@
         "stem"
       ]
     },
-    "deadline": null,
-    "deadline_display": "December",
+    "deadline": "2025-12-17",
+    "deadline_display": "December 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:19.723831+00:00"
+    "scraped_at": "2026-01-04T21:12:56.133243+00:00"
   },
   {
     "id": "ad267f370792",
@@ -7542,11 +7661,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-15",
-    "deadline_display": "January 15, 2025",
+    "deadline": "2025-11-01",
+    "deadline_display": "November 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:20.227907+00:00"
+    "scraped_at": "2026-01-04T21:12:57.313749+00:00"
   },
   {
     "id": "3ebd5f9eb654",
@@ -7576,7 +7695,7 @@
     "deadline_display": "March 3, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:20.612321+00:00"
+    "scraped_at": "2026-01-04T21:12:58.519394+00:00"
   },
   {
     "id": "3cb808ac514e",
@@ -7603,13 +7722,18 @@
         "arts",
         "humanities",
         "social_sciences"
+      ],
+      "funding": [
+        "$5,000",
+        "$2,500",
+        "$1,500"
       ]
     },
     "deadline": "2025-07-24",
     "deadline_display": "July 24, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:20.920332+00:00"
+    "scraped_at": "2026-01-04T21:12:59.887485+00:00"
   },
   {
     "id": "be84f532d0e4",
@@ -7644,7 +7768,7 @@
     "deadline_display": "July 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:21.300040+00:00"
+    "scraped_at": "2026-01-04T21:13:01.240252+00:00"
   },
   {
     "id": "96fbccae76dd",
@@ -7675,7 +7799,7 @@
     "deadline_display": "August 5, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:21.700385+00:00"
+    "scraped_at": "2026-01-04T21:13:02.959545+00:00"
   },
   {
     "id": "cfe8dee4735b",
@@ -7703,7 +7827,7 @@
     "deadline_display": "April 7, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:21.986706+00:00"
+    "scraped_at": "2026-01-04T21:13:03.304826+00:00"
   },
   {
     "id": "a9a516a01713",
@@ -7730,7 +7854,7 @@
     "deadline_display": "December 11, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:22.331201+00:00"
+    "scraped_at": "2026-01-04T21:13:04.514048+00:00"
   },
   {
     "id": "47a6b13b0adc",
@@ -7759,11 +7883,11 @@
         "$3,000"
       ]
     },
-    "deadline": "2024-12-11",
-    "deadline_display": "December 11, 2024",
+    "deadline": "2026-01-12",
+    "deadline_display": "January 12, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:22.748759+00:00"
+    "scraped_at": "2026-01-04T21:13:05.228134+00:00"
   },
   {
     "id": "62c7513ea9ab",
@@ -7801,7 +7925,7 @@
     "deadline_display": "February 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:23.073007+00:00"
+    "scraped_at": "2026-01-04T21:13:06.308579+00:00"
   },
   {
     "id": "797e0c51cd68",
@@ -7836,7 +7960,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:23.773679+00:00"
+    "scraped_at": "2026-01-04T21:13:07.109778+00:00"
   },
   {
     "id": "56fe66a4c42a",
@@ -7869,7 +7993,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:24.316437+00:00"
+    "scraped_at": "2026-01-04T21:13:07.988175+00:00"
   },
   {
     "id": "25e479bfbc7a",
@@ -7898,7 +8022,7 @@
     "deadline_display": "April 14, 2025",
     "opens": "2023-02-13",
     "opens_display": "February 13, 2023",
-    "scraped_at": "2026-01-03T18:01:24.796539+00:00"
+    "scraped_at": "2026-01-04T21:13:11.846210+00:00"
   },
   {
     "id": "453cd19c4650",
@@ -7919,11 +8043,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-17",
-    "deadline_display": "January 17, 2025",
+    "deadline": "2021-05-01",
+    "deadline_display": "May 1, 2021",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:25.088551+00:00"
+    "scraped_at": "2026-01-04T21:13:12.734346+00:00"
   },
   {
     "id": "46e7fb1334fc",
@@ -7946,13 +8070,16 @@
         "fellowship",
         "travel",
         "internship"
+      ],
+      "funding": [
+        "$1,500"
       ]
     },
     "deadline": "2025-11-21",
     "deadline_display": "November 21, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:25.373775+00:00"
+    "scraped_at": "2026-01-04T21:13:13.374965+00:00"
   },
   {
     "id": "9480d7bb9849",
@@ -7974,13 +8101,16 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$50"
       ]
     },
-    "deadline": "2025-11-07",
-    "deadline_display": "November 7, 2025",
+    "deadline": null,
+    "deadline_display": "19/11/2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:25.802956+00:00"
+    "scraped_at": "2026-01-04T21:13:16.243953+00:00"
   },
   {
     "id": "6a435236e2d6",
@@ -8008,7 +8138,7 @@
     "deadline_display": "September 10, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:26.135509+00:00"
+    "scraped_at": "2026-01-04T21:13:18.133276+00:00"
   },
   {
     "id": "c716b4fd4ab5",
@@ -8035,11 +8165,11 @@
         "$500"
       ]
     },
-    "deadline": "2025-01-08",
-    "deadline_display": "January 8, 2025",
+    "deadline": "2026-01-07",
+    "deadline_display": "January 7, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:26.527374+00:00"
+    "scraped_at": "2026-01-04T21:13:19.624169+00:00"
   },
   {
     "id": "96c9c418b28f",
@@ -8076,7 +8206,7 @@
     "deadline_display": "December 5, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:26.964950+00:00"
+    "scraped_at": "2026-01-04T21:13:20.912691+00:00"
   },
   {
     "id": "1866893617ae",
@@ -8102,13 +8232,17 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$4,283",
+        "$1,200"
       ]
     },
-    "deadline": "2025-10-06",
-    "deadline_display": "October 6, 2025",
+    "deadline": "2025-10-20",
+    "deadline_display": "October 20, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:27.354300+00:00"
+    "scraped_at": "2026-01-04T21:13:22.607830+00:00"
   },
   {
     "id": "a04fe11dc48b",
@@ -8125,13 +8259,18 @@
       ],
       "field": [
         "social_sciences"
+      ],
+      "funding": [
+        "$250,000",
+        "$100,000",
+        "$50,000"
       ]
     },
     "deadline": "2025-02-28",
     "deadline_display": "February 28, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:27.708107+00:00"
+    "scraped_at": "2026-01-04T21:13:24.380190+00:00"
   },
   {
     "id": "9b176ca8093c",
@@ -8160,11 +8299,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-22",
-    "deadline_display": "January 22, 2025",
+    "deadline": "2026-01-21",
+    "deadline_display": "January 21, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:28.070042+00:00"
+    "scraped_at": "2026-01-04T21:13:26.021479+00:00"
   },
   {
     "id": "49486c93239e",
@@ -8195,7 +8334,7 @@
     "deadline_display": "April 7, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:28.496759+00:00"
+    "scraped_at": "2026-01-04T21:13:26.518278+00:00"
   },
   {
     "id": "3345f1acd1d3",
@@ -8220,7 +8359,7 @@
     "deadline_display": "January 13, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:28.965547+00:00"
+    "scraped_at": "2026-01-04T21:13:29.698029+00:00"
   },
   {
     "id": "52db3d273776",
@@ -8252,7 +8391,7 @@
     "deadline_display": "November 3, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:29.267196+00:00"
+    "scraped_at": "2026-01-04T21:13:30.496392+00:00"
   },
   {
     "id": "f57fb6463bdb",
@@ -8284,7 +8423,7 @@
     "deadline_display": "December 20, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:29.687040+00:00"
+    "scraped_at": "2026-01-04T21:13:31.214998+00:00"
   },
   {
     "id": "0802d796d002",
@@ -8310,7 +8449,7 @@
     "deadline_display": "March 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:30.092852+00:00"
+    "scraped_at": "2026-01-04T21:13:32.682282+00:00"
   },
   {
     "id": "6918be6e6581",
@@ -8340,11 +8479,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-15",
-    "deadline_display": "January 15, 2025",
+    "deadline": "2026-01-30",
+    "deadline_display": "January 30, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:30.521024+00:00"
+    "scraped_at": "2026-01-04T21:13:34.285351+00:00"
   },
   {
     "id": "1e7895eab9dc",
@@ -8374,11 +8513,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-31",
-    "deadline_display": "January 31, 2025",
+    "deadline": "2023-01-11",
+    "deadline_display": "January 11, 2023",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:30.923439+00:00"
+    "scraped_at": "2026-01-04T21:13:36.516028+00:00"
   },
   {
     "id": "3b2fd3a05e79",
@@ -8412,7 +8551,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:31.462675+00:00"
+    "scraped_at": "2026-01-04T21:13:37.181168+00:00"
   },
   {
     "id": "d5ef1daf19fa",
@@ -8442,7 +8581,7 @@
     "deadline_display": "March 19, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:31.779305+00:00"
+    "scraped_at": "2026-01-04T21:13:37.837657+00:00"
   },
   {
     "id": "3e553333e335",
@@ -8476,7 +8615,7 @@
     "deadline_display": "February 7, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:32.165040+00:00"
+    "scraped_at": "2026-01-04T21:13:38.631339+00:00"
   },
   {
     "id": "7332cc2f15c8",
@@ -8505,11 +8644,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-01-31",
-    "deadline_display": "January 31, 2025",
+    "deadline": "2025-12-01",
+    "deadline_display": "December 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:32.472204+00:00"
+    "scraped_at": "2026-01-04T21:13:39.749202+00:00"
   },
   {
     "id": "6ecff1593684",
@@ -8543,7 +8682,7 @@
     "deadline_display": "October 30, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:32.815770+00:00"
+    "scraped_at": "2026-01-04T21:13:41.427811+00:00"
   },
   {
     "id": "29196d614406",
@@ -8573,7 +8712,7 @@
     "deadline_display": "October 13, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:33.210736+00:00"
+    "scraped_at": "2026-01-04T21:13:42.428003+00:00"
   },
   {
     "id": "24d0b5248236",
@@ -8603,7 +8742,7 @@
     "deadline_display": "February 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:33.535558+00:00"
+    "scraped_at": "2026-01-04T21:13:44.169006+00:00"
   },
   {
     "id": "44ee99efe842",
@@ -8638,7 +8777,7 @@
     "deadline_display": "January 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:33.855762+00:00"
+    "scraped_at": "2026-01-04T21:13:44.579434+00:00"
   },
   {
     "id": "1d9337c11366",
@@ -8660,7 +8799,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:34.495076+00:00"
+    "scraped_at": "2026-01-04T21:13:45.445243+00:00"
   },
   {
     "id": "f1ead2b5b7c2",
@@ -8685,11 +8824,11 @@
         "stem"
       ]
     },
-    "deadline": "2026-02-05",
-    "deadline_display": "February 5, 2026",
+    "deadline": "2026-01-07",
+    "deadline_display": "01/07/2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:34.839612+00:00"
+    "scraped_at": "2026-01-04T21:13:46.458179+00:00"
   },
   {
     "id": "4667506728bd",
@@ -8722,10 +8861,10 @@
       ]
     },
     "deadline": "2025-03-15",
-    "deadline_display": "March 15, 2025",
+    "deadline_display": "March 15th, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:35.297741+00:00"
+    "scraped_at": "2026-01-04T21:13:48.393466+00:00"
   },
   {
     "id": "22edb3872308",
@@ -8755,7 +8894,7 @@
     "deadline_display": "January 10, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:35.581402+00:00"
+    "scraped_at": "2026-01-04T21:13:50.301786+00:00"
   },
   {
     "id": "7dcdda59da49",
@@ -8779,11 +8918,11 @@
         "stem"
       ]
     },
-    "deadline": "2026-01-25",
-    "deadline_display": "January 25, 2026",
+    "deadline": "2026-07-30",
+    "deadline_display": "July 30, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:35.961173+00:00"
+    "scraped_at": "2026-01-04T21:13:52.771413+00:00"
   },
   {
     "id": "83ae51b462ee",
@@ -8814,7 +8953,7 @@
     "deadline_display": "February 10, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:36.389053+00:00"
+    "scraped_at": "2026-01-04T21:13:53.829240+00:00"
   },
   {
     "id": "b74b634ba50e",
@@ -8844,7 +8983,7 @@
     "deadline_display": "February 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:36.732599+00:00"
+    "scraped_at": "2026-01-04T21:13:55.791580+00:00"
   },
   {
     "id": "2da4eab0b8e5",
@@ -8875,11 +9014,11 @@
         "$6,000"
       ]
     },
-    "deadline": "2025-02-03",
-    "deadline_display": "February 3, 2025",
+    "deadline": "2026-07-31",
+    "deadline_display": "July 31, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:37.045856+00:00"
+    "scraped_at": "2026-01-04T21:13:56.811975+00:00"
   },
   {
     "id": "876d5978434b",
@@ -8910,7 +9049,7 @@
     "deadline_display": "February 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:37.441990+00:00"
+    "scraped_at": "2026-01-04T21:13:57.444801+00:00"
   },
   {
     "id": "02eccac82402",
@@ -8945,7 +9084,7 @@
     "deadline_display": "February 22, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:37.856756+00:00"
+    "scraped_at": "2026-01-04T21:13:58.002493+00:00"
   },
   {
     "id": "3ec722394f20",
@@ -8980,7 +9119,7 @@
     "deadline_display": "February 7, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:38.278064+00:00"
+    "scraped_at": "2026-01-04T21:13:59.728570+00:00"
   },
   {
     "id": "2d5f7538839e",
@@ -9007,7 +9146,7 @@
     "deadline_display": "March 28, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:38.611396+00:00"
+    "scraped_at": "2026-01-04T21:14:03.692512+00:00"
   },
   {
     "id": "286874ec1fb5",
@@ -9038,7 +9177,7 @@
     "deadline_display": "March 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:39.109458+00:00"
+    "scraped_at": "2026-01-04T21:14:04.451811+00:00"
   },
   {
     "id": "9e94b8f1f341",
@@ -9062,13 +9201,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$149"
       ]
     },
     "deadline": "2026-03-15",
     "deadline_display": "March 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:39.518445+00:00"
+    "scraped_at": "2026-01-04T21:14:06.067843+00:00"
   },
   {
     "id": "2a59d46ba70a",
@@ -9093,7 +9235,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:40.303282+00:00"
+    "scraped_at": "2026-01-04T21:14:06.949994+00:00"
   },
   {
     "id": "09c243599252",
@@ -9120,7 +9262,7 @@
     "deadline_display": "February 28, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:40.636709+00:00"
+    "scraped_at": "2026-01-04T21:14:07.597706+00:00"
   },
   {
     "id": "2d901071beca",
@@ -9153,7 +9295,7 @@
     "deadline_display": "March 14, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:41.035662+00:00"
+    "scraped_at": "2026-01-04T21:14:08.060547+00:00"
   },
   {
     "id": "b0611474a257",
@@ -9185,7 +9327,7 @@
     "deadline_display": "April 5, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:41.498023+00:00"
+    "scraped_at": "2026-01-04T21:14:08.880876+00:00"
   },
   {
     "id": "9e9d2e87a3f1",
@@ -9213,7 +9355,7 @@
     "deadline_display": "November 17, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:41.863666+00:00"
+    "scraped_at": "2026-01-04T21:14:09.905038+00:00"
   },
   {
     "id": "56964d302fa5",
@@ -9241,13 +9383,16 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$1,500"
       ]
     },
-    "deadline": "2026-01-09",
-    "deadline_display": "January 9, 2026",
+    "deadline": "2026-01-08",
+    "deadline_display": "January 8, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:42.147943+00:00"
+    "scraped_at": "2026-01-04T21:14:10.811825+00:00"
   },
   {
     "id": "1e6c8dbe8d72",
@@ -9275,11 +9420,11 @@
         "stem"
       ]
     },
-    "deadline": "2024-12-01",
-    "deadline_display": "December 1, 2024",
+    "deadline": "2026-01-20",
+    "deadline_display": "January 20, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:42.592268+00:00"
+    "scraped_at": "2026-01-04T21:14:13.239094+00:00"
   },
   {
     "id": "95ce03a76cd1",
@@ -9304,13 +9449,17 @@
         "humanities",
         "social_sciences",
         "stem"
+      ],
+      "funding": [
+        "$5,000",
+        "$2,500"
       ]
     },
-    "deadline": "2024-05-01",
-    "deadline_display": "May 1, 2024",
+    "deadline": "2025-04-25",
+    "deadline_display": "April 25, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:42.908979+00:00"
+    "scraped_at": "2026-01-04T21:14:14.830110+00:00"
   },
   {
     "id": "35c70de3c95f",
@@ -9339,7 +9488,7 @@
     "deadline_display": "January 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:43.301066+00:00"
+    "scraped_at": "2026-01-04T21:14:16.446353+00:00"
   },
   {
     "id": "611b4c9db05c",
@@ -9361,11 +9510,11 @@
         "social_sciences"
       ]
     },
-    "deadline": "2025-02-24",
-    "deadline_display": "February 24, 2025",
+    "deadline": "2025-12-31",
+    "deadline_display": "December 31, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:43.698000+00:00"
+    "scraped_at": "2026-01-04T21:14:18.279475+00:00"
   },
   {
     "id": "7eaad2d1adc2",
@@ -9392,11 +9541,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-07-01",
-    "deadline_display": "July 1, 2025",
+    "deadline": "2026-05-01",
+    "deadline_display": "May 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:44.031727+00:00"
+    "scraped_at": "2026-01-04T21:14:18.902341+00:00"
   },
   {
     "id": "6643551bd003",
@@ -9423,7 +9572,7 @@
     "deadline_display": "January 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:44.352076+00:00"
+    "scraped_at": "2026-01-04T21:14:19.599242+00:00"
   },
   {
     "id": "04a29fd63883",
@@ -9456,7 +9605,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:45.567358+00:00"
+    "scraped_at": "2026-01-04T21:14:21.042040+00:00"
   },
   {
     "id": "ae311d01d0e0",
@@ -9487,7 +9636,7 @@
     "deadline_display": "April 13, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:45.902175+00:00"
+    "scraped_at": "2026-01-04T21:14:21.576370+00:00"
   },
   {
     "id": "75bcafd33510",
@@ -9514,13 +9663,17 @@
         "language",
         "humanities",
         "social_sciences"
+      ],
+      "funding": [
+        "$3,500",
+        "$5,000"
       ]
     },
     "deadline": "2025-03-06",
-    "deadline_display": "March 6, 2025",
+    "deadline_display": "March 6th, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:46.338442+00:00"
+    "scraped_at": "2026-01-04T21:14:22.466968+00:00"
   },
   {
     "id": "18b8aeb14294",
@@ -9551,11 +9704,11 @@
         "stem"
       ]
     },
-    "deadline": "2026-01-31",
-    "deadline_display": "January 31, 2026",
+    "deadline": "2025-10-01",
+    "deadline_display": "October 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:46.822832+00:00"
+    "scraped_at": "2026-01-04T21:14:23.555361+00:00"
   },
   {
     "id": "8109172aecc8",
@@ -9582,11 +9735,11 @@
         "social_sciences"
       ]
     },
-    "deadline": "2025-02-01",
-    "deadline_display": "February 1, 2025",
+    "deadline": "2026-02-01",
+    "deadline_display": "February 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:47.285401+00:00"
+    "scraped_at": "2026-01-04T21:14:24.955978+00:00"
   },
   {
     "id": "73e59bcb8bbe",
@@ -9617,7 +9770,7 @@
     "deadline_display": "February 2, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:47.681818+00:00"
+    "scraped_at": "2026-01-04T21:14:26.437041+00:00"
   },
   {
     "id": "296d04b4287d",
@@ -9655,7 +9808,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:49.007702+00:00"
+    "scraped_at": "2026-01-04T21:14:28.033914+00:00"
   },
   {
     "id": "2742b57443d1",
@@ -9684,7 +9837,7 @@
     "deadline_display": "December 9, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:49.389425+00:00"
+    "scraped_at": "2026-01-04T21:14:29.129073+00:00"
   },
   {
     "id": "eb0630caf03d",
@@ -9720,7 +9873,7 @@
     "deadline_display": "August 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:49.777127+00:00"
+    "scraped_at": "2026-01-04T21:14:30.468842+00:00"
   },
   {
     "id": "afc86cc71e51",
@@ -9750,7 +9903,7 @@
     "deadline_display": "January 15, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:50.114718+00:00"
+    "scraped_at": "2026-01-04T21:14:32.143728+00:00"
   },
   {
     "id": "d24e553b38c7",
@@ -9777,11 +9930,11 @@
         "$750"
       ]
     },
-    "deadline": "2026-02-02",
-    "deadline_display": "February 2, 2026",
+    "deadline": "2025-11-11",
+    "deadline_display": "November 11, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:50.529226+00:00"
+    "scraped_at": "2026-01-04T21:14:33.791994+00:00"
   },
   {
     "id": "458f3e1f936c",
@@ -9808,20 +9961,19 @@
     "deadline_display": "January 31, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:51.044829+00:00"
+    "scraped_at": "2026-01-04T21:14:35.069839+00:00"
   },
   {
     "id": "992d691fd8a5",
     "name": "UConn Naval Science and Technology Program Summer Undergraduate Research Fellowships (SURF)",
-    "description": "Modeled off the NSF REU Program, SURF provides opportunities for students from across the country to come to the University of Connecticut for 10 weeks in the summer to participate in cutting-edge research at our state-of-the-art facilities. UConn is home to the National Institute for Undersea Vehicle Technology (NIUVT), one of the nation\u2019s premier research centers supporting the navy and shipbuilder. Participants in SURF will have the opportunity to embed in labs across the university engaged in active NIUVT projects, working closely with faculty and graduate student mentors on projects related to undersea vehicles (UUVs, submarines, guided vehicles). Students will also have the opportunity to participate in a number of field trips over the summer, such as: the University of Rhode Island ",
+    "description": "STEM",
     "discipline": "STEM",
     "url": "https://urf.columbia.edu/fellowship/uconn-naval-science-and-technology-program-summer-undergraduate-research-fellowships-surf",
     "source": "URF",
     "source_url": "https://urf.columbia.edu/opportunity/search",
     "tags": {
       "level": [
-        "undergraduate",
-        "graduate"
+        "undergraduate"
       ],
       "type": [
         "fellowship",
@@ -9831,31 +9983,30 @@
         "stem"
       ]
     },
-    "deadline": "2026-02-13",
-    "deadline_display": "February 13, 2026",
+    "deadline": null,
+    "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:51.423867+00:00"
+    "scraped_at": "2026-01-04T21:14:35.274497+00:00"
   },
   {
     "id": "1f1ad3a36148",
     "name": "Udall Scholarships",
-    "description": "A program of the Morris K. Udall and Stewart L. Udall Foundation, Udall Scholarships provide support to college sophomores and juniors committed to careers related to the environment, tribal public policy, or Native American health care. To this end, the foundation awards up to 65 scholarships each year to individuals nominated by their undergraduate institutions.Scholarships are offered in three categories:to students who have demonstrated commitment to careers related to the environment, including policy, engineering, science, education, urban planning and renewal, business, health, justice, economics, and other related fields; orto students who have demonstrated commitment to careers related to tribal public policy, including fields related to tribal sovereignty, tribal governance, trib",
+    "description": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
     "discipline": "Arts and Architecture, Foreign Language Learning, Humanities, Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/udall-scholarships",
     "source": "URF",
     "source_url": "https://urf.columbia.edu/opportunity/search",
     "tags": {
-      "level": [
-        "undergraduate"
-      ],
       "citizenship": [
+        "international",
         "us_citizen",
         "permanent_resident"
       ],
       "type": [
         "fellowship",
-        "scholarship"
+        "scholarship",
+        "language"
       ],
       "field": [
         "arts",
@@ -9865,11 +10016,11 @@
         "stem"
       ]
     },
-    "deadline": "2026-02-10",
-    "deadline_display": "February 10, 2026",
+    "deadline": null,
+    "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:51.818295+00:00"
+    "scraped_at": "2026-01-04T21:14:35.461178+00:00"
   },
   {
     "id": "fb848f97725c",
@@ -9892,13 +10043,16 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$7,000"
       ]
     },
-    "deadline": "2025-02-13",
-    "deadline_display": "February 13, 2025",
+    "deadline": "2026-02-12",
+    "deadline_display": "February 12, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:52.120322+00:00"
+    "scraped_at": "2026-01-04T21:14:36.418405+00:00"
   },
   {
     "id": "c857845d4282",
@@ -9918,18 +10072,22 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$7,000",
+        "$10,000"
       ]
     },
     "deadline": "2026-02-22",
     "deadline_display": "February 22, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:52.524496+00:00"
+    "scraped_at": "2026-01-04T21:14:37.591036+00:00"
   },
   {
     "id": "3ddfaeea7b0f",
     "name": "University of Michigan Future Public Health Leaders Program",
-    "description": "TheUniversity of Michigan Future Public Health Leaders Program (Michigan FPHLP)is a residential summer program funded by the Centers for Disease Control and Prevention (CDC). Through field placements, skill building workshops and mentorship, Michigan FPHLP provides students with opportunities for growth, learning and awareness in the field of public health. The ultimate goal of the program is to increase the diversity of the public health workforce and the people committed to reducing health disparities.THE PROGRAM INCLUDES:One-week CDC Showcase EventStipendOn-campus housing, if travel permittedRound trip transportation from your home to Ann Arbor, MI, if travel permittedUniversity of Michigan Summer Meal Plan, if staying on campusNetworking opportunities with diverse public health practit",
+    "description": "Social Sciences, STEM",
     "discipline": "Social Sciences, STEM",
     "url": "https://urf.columbia.edu/fellowship/university-michigan-future-public-health-leaders-program",
     "source": "URF",
@@ -9939,19 +10097,16 @@
         "undergraduate",
         "graduate"
       ],
-      "type": [
-        "travel"
-      ],
       "field": [
         "social_sciences",
         "stem"
       ]
     },
-    "deadline": "2026-01-31",
-    "deadline_display": "January 31, 2026",
+    "deadline": null,
+    "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:52.874951+00:00"
+    "scraped_at": "2026-01-04T21:14:37.793979+00:00"
   },
   {
     "id": "3c10b24c29ce",
@@ -9974,11 +10129,11 @@
         "stem"
       ]
     },
-    "deadline": "2026-01-09",
-    "deadline_display": "January 9, 2026",
+    "deadline": "2025-01-17",
+    "deadline_display": "January 17th, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:53.228961+00:00"
+    "scraped_at": "2026-01-04T21:14:38.694479+00:00"
   },
   {
     "id": "a5114aea30f0",
@@ -10002,13 +10157,17 @@
       ],
       "field": [
         "stem"
+      ],
+      "funding": [
+        "$5400",
+        "$1"
       ]
     },
     "deadline": "2026-02-01",
     "deadline_display": "February 1, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:53.614473+00:00"
+    "scraped_at": "2026-01-04T21:14:40.432245+00:00"
   },
   {
     "id": "83db3e101b81",
@@ -10044,7 +10203,7 @@
     "deadline_display": "April 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:54.002617+00:00"
+    "scraped_at": "2026-01-04T21:14:41.401065+00:00"
   },
   {
     "id": "5ae37d6c1ceb",
@@ -10077,7 +10236,7 @@
     "deadline_display": "March 1, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:54.315019+00:00"
+    "scraped_at": "2026-01-04T21:14:42.682259+00:00"
   },
   {
     "id": "551296dab363",
@@ -10107,7 +10266,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:56.673396+00:00"
+    "scraped_at": "2026-01-04T21:14:43.824955+00:00"
   },
   {
     "id": "6f4c1cce31ca",
@@ -10143,7 +10302,7 @@
     "deadline_display": "March 7, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:57.063636+00:00"
+    "scraped_at": "2026-01-04T21:14:44.702622+00:00"
   },
   {
     "id": "d7a808ce9d24",
@@ -10178,7 +10337,7 @@
     "deadline_display": "January 29, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:57.409731+00:00"
+    "scraped_at": "2026-01-04T21:14:46.463385+00:00"
   },
   {
     "id": "b5d8a69685c1",
@@ -10208,7 +10367,7 @@
     "deadline_display": "January 3, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:57.779501+00:00"
+    "scraped_at": "2026-01-04T21:14:47.389420+00:00"
   },
   {
     "id": "215dfbf7a305",
@@ -10234,11 +10393,11 @@
         "social_sciences"
       ]
     },
-    "deadline": "2024-12-30",
-    "deadline_display": "December 30, 2024",
+    "deadline": "2026-01-20",
+    "deadline_display": "January 20, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:58.194181+00:00"
+    "scraped_at": "2026-01-04T21:14:48.372066+00:00"
   },
   {
     "id": "4029d8c0bda6",
@@ -10268,11 +10427,11 @@
         "stem"
       ]
     },
-    "deadline": "2024-04-29",
-    "deadline_display": "April 29, 2024",
+    "deadline": "2023-07-16",
+    "deadline_display": "2023-07-16",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:58.534326+00:00"
+    "scraped_at": "2026-01-04T21:14:49.447956+00:00"
   },
   {
     "id": "88acdcb25666",
@@ -10304,7 +10463,7 @@
     "deadline_display": "April 7, 2024",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:58.917343+00:00"
+    "scraped_at": "2026-01-04T21:14:50.223110+00:00"
   },
   {
     "id": "14a11cc52058",
@@ -10330,11 +10489,11 @@
         "$3500"
       ]
     },
-    "deadline": "2025-04-15",
-    "deadline_display": "April 15, 2025",
+    "deadline": "2026-02-19",
+    "deadline_display": "Feb. 19, 2026",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:59.377333+00:00"
+    "scraped_at": "2026-01-04T21:14:51.024714+00:00"
   },
   {
     "id": "a7bf04a5b0a0",
@@ -10361,11 +10520,11 @@
         "stem"
       ]
     },
-    "deadline": "2025-10-13",
-    "deadline_display": "October 13, 2025",
+    "deadline": "2025-11-22",
+    "deadline_display": "November 22, 2025",
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:01:59.701429+00:00"
+    "scraped_at": "2026-01-04T21:14:53.383635+00:00"
   },
   {
     "id": "f450ebf2a09d",
@@ -10396,7 +10555,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:02:01.861997+00:00"
+    "scraped_at": "2026-01-04T21:14:55.468121+00:00"
   },
   {
     "id": "3ea5fdd5150c",
@@ -10429,7 +10588,7 @@
     "deadline_display": null,
     "opens": null,
     "opens_display": null,
-    "scraped_at": "2026-01-03T18:02:03.482970+00:00"
+    "scraped_at": "2026-01-04T21:14:56.903533+00:00"
   },
   {
     "id": "92f18218d00c",
@@ -10459,7 +10618,7 @@
     },
     "deadline": "2025-03-06",
     "deadline_display": "March 6th, 2025",
-    "scraped_at": "2026-01-04T08:12:04.725702+00:00"
+    "scraped_at": "2026-01-04T21:18:58.289937+00:00"
   },
   {
     "id": "3c5c2a0b974f",
@@ -10476,7 +10635,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:04.829717+00:00"
+    "scraped_at": "2026-01-04T21:18:58.549843+00:00"
   },
   {
     "id": "9375a3a0b21d",
@@ -10502,7 +10661,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:04.935999+00:00"
+    "scraped_at": "2026-01-04T21:18:58.852124+00:00"
   },
   {
     "id": "b2663870d2d1",
@@ -10518,7 +10677,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:04.936123+00:00"
+    "scraped_at": "2026-01-04T21:18:58.852252+00:00"
   },
   {
     "id": "5d67b6314601",
@@ -10530,7 +10689,7 @@
     "tags": {},
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:04.936256+00:00"
+    "scraped_at": "2026-01-04T21:18:58.852398+00:00"
   },
   {
     "id": "ffffe58994d5",
@@ -10550,7 +10709,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:04.936360+00:00"
+    "scraped_at": "2026-01-04T21:18:58.852512+00:00"
   },
   {
     "id": "1cdcbcafd322",
@@ -10569,7 +10728,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.067176+00:00"
+    "scraped_at": "2026-01-04T21:18:59.076036+00:00"
   },
   {
     "id": "735eff5502ea",
@@ -10593,7 +10752,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.067562+00:00"
+    "scraped_at": "2026-01-04T21:18:59.076550+00:00"
   },
   {
     "id": "14c065723762",
@@ -10610,7 +10769,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.067681+00:00"
+    "scraped_at": "2026-01-04T21:18:59.076709+00:00"
   },
   {
     "id": "75ae90c6df92",
@@ -10632,7 +10791,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.067894+00:00"
+    "scraped_at": "2026-01-04T21:18:59.076995+00:00"
   },
   {
     "id": "35e49ed0599a",
@@ -10656,7 +10815,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.068127+00:00"
+    "scraped_at": "2026-01-04T21:18:59.077275+00:00"
   },
   {
     "id": "32c795abd2db",
@@ -10676,7 +10835,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.068305+00:00"
+    "scraped_at": "2026-01-04T21:18:59.077504+00:00"
   },
   {
     "id": "3997923f1d99",
@@ -10699,7 +10858,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.068490+00:00"
+    "scraped_at": "2026-01-04T21:18:59.077757+00:00"
   },
   {
     "id": "7d00ed636330",
@@ -10721,7 +10880,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.068688+00:00"
+    "scraped_at": "2026-01-04T21:18:59.078032+00:00"
   },
   {
     "id": "bc5d3f10454a",
@@ -10742,7 +10901,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.068972+00:00"
+    "scraped_at": "2026-01-04T21:18:59.078390+00:00"
   },
   {
     "id": "7cc4947d8056",
@@ -10763,7 +10922,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.069301+00:00"
+    "scraped_at": "2026-01-04T21:18:59.078843+00:00"
   },
   {
     "id": "52d2af971a79",
@@ -10782,7 +10941,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.069491+00:00"
+    "scraped_at": "2026-01-04T21:18:59.079092+00:00"
   },
   {
     "id": "7040e90fa653",
@@ -10802,7 +10961,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.069675+00:00"
+    "scraped_at": "2026-01-04T21:18:59.079330+00:00"
   },
   {
     "id": "b2b6c84d6f08",
@@ -10833,7 +10992,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.070283+00:00"
+    "scraped_at": "2026-01-04T21:18:59.080242+00:00"
   },
   {
     "id": "c643ead14011",
@@ -10862,7 +11021,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.070614+00:00"
+    "scraped_at": "2026-01-04T21:18:59.080701+00:00"
   },
   {
     "id": "478f45aa5370",
@@ -10883,7 +11042,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.070899+00:00"
+    "scraped_at": "2026-01-04T21:18:59.081060+00:00"
   },
   {
     "id": "9d5e116fb278",
@@ -10909,7 +11068,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.071105+00:00"
+    "scraped_at": "2026-01-04T21:18:59.081296+00:00"
   },
   {
     "id": "5e9a1c5a986a",
@@ -10932,7 +11091,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.071445+00:00"
+    "scraped_at": "2026-01-04T21:18:59.081723+00:00"
   },
   {
     "id": "043cb6be13f9",
@@ -10951,7 +11110,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.071650+00:00"
+    "scraped_at": "2026-01-04T21:18:59.082006+00:00"
   },
   {
     "id": "8a39f45834b2",
@@ -10967,7 +11126,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.071746+00:00"
+    "scraped_at": "2026-01-04T21:18:59.082116+00:00"
   },
   {
     "id": "178c5fee19ba",
@@ -10990,7 +11149,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.071949+00:00"
+    "scraped_at": "2026-01-04T21:18:59.082361+00:00"
   },
   {
     "id": "3cfd321b9cc3",
@@ -11007,7 +11166,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.072120+00:00"
+    "scraped_at": "2026-01-04T21:18:59.082545+00:00"
   },
   {
     "id": "7eaf06a2d183",
@@ -11023,7 +11182,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.072260+00:00"
+    "scraped_at": "2026-01-04T21:18:59.082712+00:00"
   },
   {
     "id": "8b60985ad332",
@@ -11042,7 +11201,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.072413+00:00"
+    "scraped_at": "2026-01-04T21:18:59.082882+00:00"
   },
   {
     "id": "013afbfb9c15",
@@ -11065,7 +11224,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.072626+00:00"
+    "scraped_at": "2026-01-04T21:18:59.083134+00:00"
   },
   {
     "id": "65dbdb9f6e62",
@@ -11082,7 +11241,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.072748+00:00"
+    "scraped_at": "2026-01-04T21:18:59.083275+00:00"
   },
   {
     "id": "8a9bc79f6b2f",
@@ -11099,7 +11258,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.072999+00:00"
+    "scraped_at": "2026-01-04T21:18:59.083583+00:00"
   },
   {
     "id": "836e3efac180",
@@ -11120,7 +11279,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.073271+00:00"
+    "scraped_at": "2026-01-04T21:18:59.083893+00:00"
   },
   {
     "id": "c9b977ab6923",
@@ -11140,7 +11299,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.073511+00:00"
+    "scraped_at": "2026-01-04T21:18:59.084175+00:00"
   },
   {
     "id": "e85a1ac1da66",
@@ -11156,7 +11315,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.073638+00:00"
+    "scraped_at": "2026-01-04T21:18:59.084326+00:00"
   },
   {
     "id": "ec20bb09af20",
@@ -11178,7 +11337,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.073864+00:00"
+    "scraped_at": "2026-01-04T21:18:59.084604+00:00"
   },
   {
     "id": "4c6abdf3cee0",
@@ -11199,7 +11358,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.074031+00:00"
+    "scraped_at": "2026-01-04T21:18:59.084806+00:00"
   },
   {
     "id": "4634f619fe8a",
@@ -11231,9 +11390,9 @@
         "$12,600"
       ]
     },
-    "deadline": null,
-    "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.074604+00:00"
+    "deadline": "2026-01-03",
+    "deadline_display": "January 3, 2026",
+    "scraped_at": "2026-01-04T21:18:59.085503+00:00"
   },
   {
     "id": "3573c5c5aac5",
@@ -11257,7 +11416,7 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.074815+00:00"
+    "scraped_at": "2026-01-04T21:18:59.085749+00:00"
   },
   {
     "id": "739b058fca05",
@@ -11273,6 +11432,6 @@
     },
     "deadline": null,
     "deadline_display": null,
-    "scraped_at": "2026-01-04T08:12:05.075008+00:00"
+    "scraped_at": "2026-01-04T21:18:59.086029+00:00"
   }
 ]

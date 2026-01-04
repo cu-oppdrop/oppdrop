@@ -117,6 +117,8 @@ def parse_deadline(text: str) -> tuple[str | None, str | None]:
         r'applications?\s+(?:due|close)[:\s]*([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
         # Standalone date pattern (less reliable, use last)
         r'((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
+        # Abbreviated months: "Jan. 30, 2025" or "Jan 30, 2025"
+        r'((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\.?\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})',
         # Numeric formats
         r'(\d{1,2}/\d{1,2}/\d{4})',  # 04/04/2025 or 4/4/2025
         r'(\d{4}-\d{2}-\d{2})',       # 2025-04-04 (ISO)
@@ -130,6 +132,8 @@ def parse_deadline(text: str) -> tuple[str | None, str | None]:
             try:
                 # Remove ordinal suffixes
                 clean = re.sub(r'(\d+)(?:st|nd|rd|th)', r'\1', display)
+                # Remove period after abbreviated month (Jan. -> Jan)
+                clean = re.sub(r'([A-Za-z]{3})\.', r'\1', clean)
                 for fmt in ['%B %d, %Y', '%B %d %Y', '%b %d, %Y', '%b %d %Y',
                             '%m/%d/%Y', '%Y-%m-%d']:
                     try:
